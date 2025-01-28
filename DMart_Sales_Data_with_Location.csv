@@ -1,0 +1,2001 @@
+Date,Store_ID,Product_Category,Product_ID,Quantity_Sold,Price_per_Unit,Discount per_order,Total_Sales,District,State
+1/30/2024,DM001,Electronics,P7469,37,240.62,2%,8724.88,Mumbai,Maharashtra
+8/23/2024,DM005,Electronics,P2940,40,135.87,0%,5434.8,Hyderabad,Telangana
+6/4/2024,DM001,Clothing,P2540,36,143.49,21%,4080.86,Mumbai,Maharashtra
+12/8/2024,DM002,Stationery,P7101,22,265.69,18%,4793.05,Pune,Maharashtra
+7/3/2024,DM015,Electronics,P7514,46,170.23,19%,6342.77,Guwahati,Assam
+1/21/2024,DM017,Clothing,P7378,32,470.42,11%,13397.56,Dehradun,Uttarakhand
+4/23/2024,DM016,Clothing,P1381,36,90.07,27%,2367.04,Thiruvananthapuram,Kerala
+4/28/2024,DM004,Clothing,P5038,29,381.74,27%,8081.44,Chennai,Tamil Nadu
+9/7/2024,DM018,Home & Kitchen,P7783,34,28.25,3%,931.68,Shimla,Himachal Pradesh
+4/6/2024,DM002,Home & Kitchen,P7571,11,493.28,28%,3906.78,Pune,Maharashtra
+1/5/2024,DM012,Home & Kitchen,P1018,23,295.69,24%,5168.66,Indore,Madhya Pradesh
+7/26/2024,DM013,Groceries,P7997,21,402.79,23%,6513.11,Patna,Bihar
+7/8/2024,DM014,Home & Kitchen,P1361,16,404.22,8%,5950.12,Bhubaneswar,Odisha
+3/1/2024,DM003,Groceries,P9006,42,247.73,28%,7491.36,Bangalore,Karnataka
+9/15/2024,DM007,Electronics,P4256,49,143.35,14%,6040.77,Ahmedabad,Gujarat
+8/27/2024,DM003,Groceries,P3420,15,360.42,14%,4649.42,Bangalore,Karnataka
+8/15/2024,DM018,Groceries,P7668,28,211.63,22%,4622,Shimla,Himachal Pradesh
+4/5/2024,DM008,Home & Kitchen,P3099,31,327.14,17%,8417.31,Kolkata,West Bengal
+1/8/2024,DM018,Stationery,P8604,8,405.09,16%,2722.2,Shimla,Himachal Pradesh
+5/12/2024,DM011,Electronics,P1648,45,461.83,17%,17249.35,Chandigarh,Punjab
+9/3/2024,DM012,Electronics,P7514,45,295.84,7%,12380.9,Indore,Madhya Pradesh
+2/3/2024,DM020,Clothing,P5532,7,281.68,30%,1380.23,Panaji,Goa
+2/26/2024,DM020,Groceries,P1819,13,113.8,16%,1242.7,Panaji,Goa
+3/17/2024,DM015,Home & Kitchen,P5982,41,287.59,23%,9079.22,Guwahati,Assam
+12/2/2024,DM017,Clothing,P9712,5,430.29,16%,1807.22,Dehradun,Uttarakhand
+8/8/2024,DM007,Stationery,P7141,8,134.05,24%,815.02,Ahmedabad,Gujarat
+10/4/2024,DM019,Electronics,P9153,1,95.11,1%,94.16,Ranchi,Jharkhand
+1/24/2024,DM008,Electronics,P7856,39,82.3,10%,2888.73,Kolkata,West Bengal
+5/7/2024,DM012,Stationery,P6239,37,197.48,0%,7306.76,Indore,Madhya Pradesh
+11/4/2024,DM020,Groceries,P5225,15,161.76,9%,2208.02,Panaji,Goa
+10/16/2024,DM016,Stationery,P5881,33,298.87,22%,7692.91,Thiruvananthapuram,Kerala
+6/18/2024,DM015,Groceries,P3385,45,371.73,23%,12880.44,Guwahati,Assam
+5/24/2024,DM006,Stationery,P5725,47,275.57,5%,12304.2,Delhi,Delhi
+2/16/2024,DM006,Home & Kitchen,P7157,11,23.91,16%,220.93,Delhi,Delhi
+11/12/2024,DM001,Groceries,P5527,25,264.55,22%,5158.73,Mumbai,Maharashtra
+8/29/2024,DM009,Electronics,P5483,8,173.7,15%,1181.16,Jaipur,Rajasthan
+9/3/2024,DM002,Groceries,P8213,6,214.58,21%,1017.11,Pune,Maharashtra
+9/25/2024,DM003,Groceries,P2187,41,273.44,11%,9977.83,Bangalore,Karnataka
+2/3/2024,DM011,Home & Kitchen,P3918,36,119.87,19%,3495.41,Chandigarh,Punjab
+2/28/2024,DM013,Groceries,P4319,25,457.05,11%,10169.36,Patna,Bihar
+1/26/2024,DM017,Groceries,P7474,45,265.34,2%,11701.49,Dehradun,Uttarakhand
+12/30/2024,DM007,Groceries,P5370,46,475.14,18%,17922.28,Ahmedabad,Gujarat
+4/17/2024,DM020,Electronics,P3288,18,99.19,13%,1553.32,Panaji,Goa
+2/6/2024,DM016,Stationery,P6246,50,391.31,27%,14282.82,Thiruvananthapuram,Kerala
+3/31/2024,DM010,Home & Kitchen,P3098,3,270.32,24%,616.33,Lucknow,Uttar Pradesh
+11/7/2024,DM020,Clothing,P1271,21,201.99,12%,3732.78,Panaji,Goa
+8/10/2024,DM013,Groceries,P7976,3,87.58,14%,225.96,Patna,Bihar
+5/21/2024,DM009,Groceries,P4081,41,253.24,29%,7371.82,Jaipur,Rajasthan
+8/7/2024,DM012,Groceries,P9601,11,279.02,28%,2209.84,Indore,Madhya Pradesh
+5/19/2024,DM013,Home & Kitchen,P6240,29,366.97,5%,10110.02,Patna,Bihar
+5/2/2024,DM004,Electronics,P5631,23,185.41,2%,4179.14,Chennai,Tamil Nadu
+5/28/2024,DM016,Groceries,P3759,22,140.99,9%,2822.62,Thiruvananthapuram,Kerala
+7/29/2024,DM007,Electronics,P6960,2,105.72,5%,200.87,Ahmedabad,Gujarat
+11/15/2024,DM001,Home & Kitchen,P4926,3,186.44,6%,525.76,Mumbai,Maharashtra
+6/30/2024,DM002,Electronics,P6627,4,26.71,17%,88.68,Pune,Maharashtra
+5/2/2024,DM004,Home & Kitchen,P5579,45,187.85,3%,8199.65,Chennai,Tamil Nadu
+8/25/2024,DM014,Electronics,P6546,5,34.02,10%,153.09,Bhubaneswar,Odisha
+10/25/2024,DM019,Home & Kitchen,P1987,42,74.89,7%,2925.2,Ranchi,Jharkhand
+2/21/2024,DM006,Clothing,P3660,4,72.9,29%,207.04,Delhi,Delhi
+12/31/2024,DM003,Stationery,P7110,43,358.42,13%,13408.49,Bangalore,Karnataka
+4/5/2024,DM019,Electronics,P3353,45,299,22%,10494.9,Ranchi,Jharkhand
+2/6/2024,DM013,Stationery,P3469,42,181.51,15%,6479.91,Patna,Bihar
+10/15/2024,DM012,Home & Kitchen,P4106,13,159.51,22%,1617.43,Indore,Madhya Pradesh
+10/20/2024,DM014,Home & Kitchen,P2534,47,56.08,9%,2398.54,Bhubaneswar,Odisha
+9/8/2024,DM020,Groceries,P3327,18,153.74,14%,2379.9,Panaji,Goa
+6/19/2024,DM006,Groceries,P3950,18,302.59,18%,4466.23,Delhi,Delhi
+8/21/2024,DM013,Groceries,P4898,4,178.89,13%,622.54,Patna,Bihar
+4/21/2024,DM007,Groceries,P6067,48,487.97,30%,16395.79,Ahmedabad,Gujarat
+7/12/2024,DM005,Home & Kitchen,P8633,11,370.53,28%,2934.6,Hyderabad,Telangana
+11/1/2024,DM013,Home & Kitchen,P7307,10,364.84,29%,2590.36,Patna,Bihar
+9/5/2024,DM011,Home & Kitchen,P3062,14,222.04,6%,2922.05,Chandigarh,Punjab
+6/11/2024,DM020,Home & Kitchen,P8403,5,337.89,29%,1199.51,Panaji,Goa
+10/2/2024,DM017,Groceries,P3494,37,383.12,20%,11340.35,Dehradun,Uttarakhand
+3/14/2024,DM011,Home & Kitchen,P3417,13,409.26,18%,4362.71,Chandigarh,Punjab
+6/14/2024,DM013,Clothing,P1157,5,430.18,23%,1656.19,Patna,Bihar
+3/25/2024,DM015,Stationery,P4907,8,156.32,3%,1213.04,Guwahati,Assam
+7/9/2024,DM009,Home & Kitchen,P2756,25,393.36,21%,7768.86,Jaipur,Rajasthan
+6/1/2024,DM019,Home & Kitchen,P5653,13,119.06,5%,1470.39,Ranchi,Jharkhand
+1/17/2024,DM015,Stationery,P4968,48,133.35,28%,4608.58,Guwahati,Assam
+5/10/2024,DM013,Home & Kitchen,P7741,3,309.69,18%,761.84,Patna,Bihar
+8/22/2024,DM006,Stationery,P3763,8,347.35,5%,2639.86,Delhi,Delhi
+5/1/2024,DM015,Groceries,P9205,39,126.11,16%,4131.36,Guwahati,Assam
+11/19/2024,DM006,Clothing,P5298,49,313.81,5%,14607.86,Delhi,Delhi
+10/16/2024,DM013,Groceries,P3069,26,245.95,17%,5307.6,Patna,Bihar
+3/11/2024,DM006,Home & Kitchen,P2021,23,476.04,5%,10401.47,Delhi,Delhi
+4/25/2024,DM008,Electronics,P2889,2,80.33,0%,160.66,Kolkata,West Bengal
+1/2/2024,DM016,Stationery,P9970,24,441.54,10%,9537.26,Thiruvananthapuram,Kerala
+2/16/2024,DM018,Groceries,P2645,12,416.9,5%,4752.66,Shimla,Himachal Pradesh
+3/18/2024,DM010,Groceries,P3313,21,469.44,16%,8280.92,Lucknow,Uttar Pradesh
+10/29/2024,DM006,Stationery,P6114,5,126,17%,522.9,Delhi,Delhi
+6/10/2024,DM012,Stationery,P8551,2,36.72,18%,60.22,Indore,Madhya Pradesh
+2/24/2024,DM004,Electronics,P8074,9,279.95,27%,1839.27,Chennai,Tamil Nadu
+6/30/2024,DM011,Clothing,P9523,19,88.69,9%,1533.45,Chandigarh,Punjab
+12/29/2024,DM019,Home & Kitchen,P5158,21,270.32,16%,4768.44,Ranchi,Jharkhand
+10/17/2024,DM016,Groceries,P3757,44,111.21,6%,4599.65,Thiruvananthapuram,Kerala
+2/28/2024,DM012,Stationery,P2916,42,254.21,7%,9929.44,Indore,Madhya Pradesh
+4/30/2024,DM006,Electronics,P7075,1,468.19,17%,388.6,Delhi,Delhi
+10/1/2024,DM003,Electronics,P2010,20,316.24,17%,5249.58,Bangalore,Karnataka
+8/29/2024,DM003,Home & Kitchen,P8796,37,196.02,8%,6672.52,Bangalore,Karnataka
+2/9/2024,DM015,Electronics,P3799,28,451.42,13%,10996.59,Guwahati,Assam
+4/21/2024,DM002,Clothing,P1537,16,266.63,16%,3583.51,Pune,Maharashtra
+2/5/2024,DM005,Home & Kitchen,P1949,10,412.66,21%,3260.01,Hyderabad,Telangana
+4/30/2024,DM009,Electronics,P6316,8,156.68,5%,1190.77,Jaipur,Rajasthan
+10/9/2024,DM010,Clothing,P1787,14,13.43,10%,169.22,Lucknow,Uttar Pradesh
+5/8/2024,DM006,Stationery,P1404,19,22.72,24%,328.08,Delhi,Delhi
+10/16/2024,DM010,Stationery,P2822,41,57.86,4%,2277.37,Lucknow,Uttar Pradesh
+3/31/2024,DM018,Stationery,P9925,12,485.03,21%,4598.08,Shimla,Himachal Pradesh
+6/18/2024,DM017,Groceries,P8229,11,411.61,6%,4256.05,Dehradun,Uttarakhand
+1/31/2024,DM004,Home & Kitchen,P9941,19,280.09,12%,4683.1,Chennai,Tamil Nadu
+3/18/2024,DM010,Groceries,P4289,18,429.69,21%,6110.19,Lucknow,Uttar Pradesh
+10/11/2024,DM008,Stationery,P7984,50,387.4,15%,16464.5,Kolkata,West Bengal
+5/29/2024,DM007,Stationery,P3179,28,196.97,1%,5460.01,Ahmedabad,Gujarat
+4/10/2024,DM011,Electronics,P7179,36,257.67,4%,8905.08,Chandigarh,Punjab
+7/5/2024,DM011,Clothing,P5786,1,39.36,12%,34.64,Chandigarh,Punjab
+1/24/2024,DM002,Stationery,P3672,32,403.32,14%,11099.37,Pune,Maharashtra
+4/23/2024,DM019,Stationery,P6186,34,31.88,29%,769.58,Ranchi,Jharkhand
+10/20/2024,DM011,Clothing,P8157,20,208.56,19%,3378.67,Chandigarh,Punjab
+10/16/2024,DM005,Groceries,P7585,24,378.35,16%,7627.54,Hyderabad,Telangana
+2/13/2024,DM002,Electronics,P6016,48,146.15,19%,5682.31,Pune,Maharashtra
+2/17/2024,DM006,Stationery,P5392,15,286.3,2%,4208.61,Delhi,Delhi
+11/15/2024,DM013,Home & Kitchen,P2971,6,58.85,26%,261.29,Patna,Bihar
+12/23/2024,DM014,Groceries,P3049,21,204.2,20%,3430.56,Bhubaneswar,Odisha
+3/30/2024,DM004,Electronics,P5495,1,51.89,15%,44.11,Chennai,Tamil Nadu
+10/17/2024,DM003,Home & Kitchen,P3943,3,242.16,21%,573.92,Bangalore,Karnataka
+5/25/2024,DM011,Home & Kitchen,P7664,15,324.44,8%,4477.27,Chandigarh,Punjab
+12/18/2024,DM002,Electronics,P1840,37,192.23,2%,6970.26,Pune,Maharashtra
+4/10/2024,DM008,Groceries,P1751,15,83.25,26%,924.08,Kolkata,West Bengal
+8/2/2024,DM015,Groceries,P9841,44,109.81,16%,4058.58,Guwahati,Assam
+1/2/2024,DM017,Stationery,P4902,1,405.29,17%,336.39,Dehradun,Uttarakhand
+3/20/2024,DM017,Groceries,P9742,30,256.9,12%,6782.16,Dehradun,Uttarakhand
+5/19/2024,DM005,Electronics,P7142,1,167.58,6%,157.53,Hyderabad,Telangana
+4/4/2024,DM006,Home & Kitchen,P6842,23,464.01,11%,9498.28,Delhi,Delhi
+1/31/2024,DM006,Home & Kitchen,P7191,22,149.44,28%,2367.13,Delhi,Delhi
+2/14/2024,DM017,Stationery,P1553,22,484,2%,10435.04,Dehradun,Uttarakhand
+2/18/2024,DM016,Groceries,P2912,48,97.36,28%,3364.76,Thiruvananthapuram,Kerala
+1/16/2024,DM013,Home & Kitchen,P8186,24,373.92,13%,7807.45,Patna,Bihar
+12/11/2024,DM004,Home & Kitchen,P1051,39,256.35,0%,9997.65,Chennai,Tamil Nadu
+9/10/2024,DM002,Home & Kitchen,P6939,21,200.83,6%,3964.38,Pune,Maharashtra
+10/30/2024,DM014,Clothing,P5709,11,463.28,0%,5096.08,Bhubaneswar,Odisha
+10/21/2024,DM014,Stationery,P4532,34,88.34,22%,2342.78,Bhubaneswar,Odisha
+7/26/2024,DM007,Stationery,P7963,29,75.61,16%,1841.86,Ahmedabad,Gujarat
+11/5/2024,DM015,Groceries,P3642,4,388.24,22%,1211.31,Guwahati,Assam
+6/4/2024,DM016,Stationery,P9658,18,134,21%,1905.48,Thiruvananthapuram,Kerala
+1/28/2024,DM004,Groceries,P9051,9,448.22,16%,3388.54,Chennai,Tamil Nadu
+4/14/2024,DM005,Home & Kitchen,P3617,48,14.66,17%,584.05,Hyderabad,Telangana
+3/1/2024,DM013,Electronics,P7822,1,387.87,5%,368.48,Patna,Bihar
+1/6/2024,DM015,Groceries,P1719,7,31.39,30%,153.81,Guwahati,Assam
+9/10/2024,DM013,Stationery,P8020,2,161.35,6%,303.34,Patna,Bihar
+12/30/2024,DM008,Clothing,P1181,32,132.94,27%,3105.48,Kolkata,West Bengal
+4/19/2024,DM020,Groceries,P5502,42,218.56,10%,8261.57,Panaji,Goa
+10/1/2024,DM009,Home & Kitchen,P6264,8,203.13,15%,1381.28,Jaipur,Rajasthan
+7/17/2024,DM018,Electronics,P7828,39,452.59,5%,16768.46,Shimla,Himachal Pradesh
+7/3/2024,DM004,Electronics,P6920,9,400.05,0%,3600.45,Chennai,Tamil Nadu
+5/23/2024,DM016,Stationery,P7563,28,56.61,3%,1537.53,Thiruvananthapuram,Kerala
+7/8/2024,DM020,Electronics,P7756,11,415.26,16%,3837,Panaji,Goa
+10/24/2024,DM019,Stationery,P6093,30,104.92,8%,2895.79,Ranchi,Jharkhand
+12/9/2024,DM003,Groceries,P1838,7,326.85,28%,1647.32,Bangalore,Karnataka
+11/13/2024,DM020,Groceries,P5782,17,219.53,13%,3246.85,Panaji,Goa
+8/18/2024,DM009,Home & Kitchen,P3280,8,257.14,13%,1789.69,Jaipur,Rajasthan
+11/17/2024,DM017,Stationery,P2783,25,16.59,18%,340.1,Dehradun,Uttarakhand
+3/8/2024,DM015,Electronics,P3490,10,414.48,4%,3979.01,Guwahati,Assam
+4/7/2024,DM017,Electronics,P1312,2,280.58,10%,505.04,Dehradun,Uttarakhand
+7/19/2024,DM010,Electronics,P5801,7,389.06,16%,2287.67,Lucknow,Uttar Pradesh
+5/15/2024,DM020,Electronics,P7848,40,280.57,0%,11222.8,Panaji,Goa
+4/28/2024,DM006,Clothing,P9375,24,358.38,6%,8085.05,Delhi,Delhi
+10/4/2024,DM017,Clothing,P9328,21,345.94,28%,5230.61,Dehradun,Uttarakhand
+4/4/2024,DM005,Groceries,P7141,31,103.16,26%,2366.49,Hyderabad,Telangana
+10/10/2024,DM010,Groceries,P9091,11,208.66,8%,2111.64,Lucknow,Uttar Pradesh
+12/13/2024,DM010,Home & Kitchen,P4702,18,275.14,28%,3565.81,Lucknow,Uttar Pradesh
+6/3/2024,DM020,Electronics,P5615,34,466.41,15%,13479.25,Panaji,Goa
+7/28/2024,DM008,Electronics,P4964,18,170.23,25%,2298.11,Kolkata,West Bengal
+8/30/2024,DM001,Home & Kitchen,P4872,4,365.06,19%,1182.79,Mumbai,Maharashtra
+7/26/2024,DM005,Home & Kitchen,P5036,27,233.45,27%,4601.3,Hyderabad,Telangana
+8/26/2024,DM015,Home & Kitchen,P3404,17,325.86,20%,4431.7,Guwahati,Assam
+11/15/2024,DM019,Clothing,P8795,39,166.11,21%,5117.85,Ranchi,Jharkhand
+8/12/2024,DM012,Stationery,P8661,33,138.34,14%,3926.09,Indore,Madhya Pradesh
+12/17/2024,DM010,Clothing,P3051,47,65.6,15%,2620.72,Lucknow,Uttar Pradesh
+4/4/2024,DM012,Electronics,P5834,5,462.73,11%,2059.15,Indore,Madhya Pradesh
+2/28/2024,DM013,Stationery,P4047,46,147.26,1%,6706.22,Patna,Bihar
+11/5/2024,DM007,Stationery,P4273,37,147.48,3%,5293.06,Ahmedabad,Gujarat
+1/3/2024,DM014,Stationery,P5030,28,27.22,2%,746.92,Bhubaneswar,Odisha
+6/7/2024,DM004,Electronics,P7795,17,370.93,8%,5801.35,Chennai,Tamil Nadu
+10/11/2024,DM011,Stationery,P9455,45,489.36,6%,20699.93,Chandigarh,Punjab
+6/28/2024,DM015,Clothing,P1718,32,499.55,8%,14706.75,Guwahati,Assam
+10/18/2024,DM008,Electronics,P3900,41,232.13,27%,6947.65,Kolkata,West Bengal
+12/12/2024,DM005,Electronics,P5782,41,137.72,20%,4517.22,Hyderabad,Telangana
+10/30/2024,DM019,Groceries,P8314,21,397.27,25%,6257,Ranchi,Jharkhand
+10/7/2024,DM002,Home & Kitchen,P3326,5,150.54,28%,541.94,Pune,Maharashtra
+3/10/2024,DM007,Groceries,P6613,42,404.93,27%,12415.15,Ahmedabad,Gujarat
+4/28/2024,DM013,Home & Kitchen,P9675,20,271.43,5%,5157.17,Patna,Bihar
+6/13/2024,DM009,Stationery,P4535,38,399.43,16%,12749.81,Jaipur,Rajasthan
+6/5/2024,DM009,Groceries,P8388,48,457.33,30%,15366.29,Jaipur,Rajasthan
+7/1/2024,DM020,Electronics,P1751,47,404.48,13%,16539.19,Panaji,Goa
+1/9/2024,DM013,Groceries,P8162,26,404.37,12%,9251.99,Patna,Bihar
+2/27/2024,DM011,Clothing,P4893,43,113.41,17%,4047.6,Chandigarh,Punjab
+4/27/2024,DM011,Electronics,P8576,43,487.29,28%,15086.5,Chandigarh,Punjab
+11/29/2024,DM012,Electronics,P7740,49,240.28,0%,11773.72,Indore,Madhya Pradesh
+7/1/2024,DM009,Home & Kitchen,P5485,22,267.24,9%,5350.14,Jaipur,Rajasthan
+1/7/2024,DM020,Clothing,P5295,10,179.45,2%,1758.61,Panaji,Goa
+6/30/2024,DM017,Electronics,P6613,39,176.86,16%,5793.93,Dehradun,Uttarakhand
+7/25/2024,DM009,Electronics,P2612,36,378.96,22%,10641.2,Jaipur,Rajasthan
+2/9/2024,DM015,Home & Kitchen,P4969,17,64.95,25%,828.11,Guwahati,Assam
+7/11/2024,DM008,Groceries,P4925,16,210.72,15%,2865.79,Kolkata,West Bengal
+12/6/2024,DM010,Clothing,P4783,6,49.93,23%,230.68,Lucknow,Uttar Pradesh
+11/21/2024,DM020,Electronics,P9170,48,28.93,3%,1346.98,Panaji,Goa
+3/20/2024,DM012,Groceries,P8006,34,405.35,23%,10612.06,Indore,Madhya Pradesh
+9/22/2024,DM018,Stationery,P1180,40,466.59,1%,18476.96,Shimla,Himachal Pradesh
+9/3/2024,DM015,Groceries,P3424,24,434.95,20%,8351.04,Guwahati,Assam
+11/12/2024,DM011,Home & Kitchen,P7667,50,330.86,9%,15054.13,Chandigarh,Punjab
+4/4/2024,DM020,Stationery,P2280,34,187.39,4%,6116.41,Panaji,Goa
+7/14/2024,DM007,Electronics,P5002,27,329.32,25%,6668.73,Ahmedabad,Gujarat
+11/30/2024,DM007,Clothing,P2877,10,292.88,30%,2050.16,Ahmedabad,Gujarat
+6/4/2024,DM004,Stationery,P9755,29,61.99,11%,1599.96,Chennai,Tamil Nadu
+8/8/2024,DM010,Stationery,P3207,33,96.75,21%,2522.27,Lucknow,Uttar Pradesh
+3/22/2024,DM001,Electronics,P4711,27,463.41,15%,10635.26,Mumbai,Maharashtra
+1/13/2024,DM009,Clothing,P5571,21,320.91,28%,4852.16,Jaipur,Rajasthan
+12/26/2024,DM017,Clothing,P8127,5,413.85,30%,1448.47,Dehradun,Uttarakhand
+7/31/2024,DM003,Home & Kitchen,P6405,8,166.59,5%,1266.08,Bangalore,Karnataka
+5/29/2024,DM018,Electronics,P1060,9,471.31,17%,3520.69,Shimla,Himachal Pradesh
+2/28/2024,DM008,Electronics,P5735,32,208.71,13%,5810.49,Kolkata,West Bengal
+10/2/2024,DM009,Electronics,P9829,49,459.04,25%,16869.72,Jaipur,Rajasthan
+10/24/2024,DM003,Electronics,P3497,17,82.85,30%,985.91,Bangalore,Karnataka
+7/4/2024,DM009,Stationery,P7627,32,110.48,23%,2722.23,Jaipur,Rajasthan
+9/15/2024,DM005,Home & Kitchen,P2059,23,300.86,20%,5535.82,Hyderabad,Telangana
+5/1/2024,DM016,Stationery,P2538,38,421.53,10%,14416.33,Thiruvananthapuram,Kerala
+2/28/2024,DM002,Home & Kitchen,P2833,29,480.61,10%,12543.92,Pune,Maharashtra
+4/28/2024,DM003,Stationery,P8151,34,352.46,20%,9586.91,Bangalore,Karnataka
+4/6/2024,DM001,Stationery,P5753,50,394.06,8%,18126.76,Mumbai,Maharashtra
+7/2/2024,DM013,Clothing,P5157,38,65.62,29%,1770.43,Patna,Bihar
+7/3/2024,DM013,Home & Kitchen,P5836,24,244.25,12%,5158.56,Patna,Bihar
+8/11/2024,DM020,Electronics,P2276,2,45.03,5%,85.56,Panaji,Goa
+6/10/2024,DM001,Clothing,P3116,21,218.13,10%,4122.66,Mumbai,Maharashtra
+12/26/2024,DM017,Home & Kitchen,P8300,50,369.62,29%,13121.51,Dehradun,Uttarakhand
+6/17/2024,DM007,Home & Kitchen,P9151,43,248.42,5%,10147.96,Ahmedabad,Gujarat
+6/26/2024,DM001,Clothing,P3052,17,344.97,20%,4691.59,Mumbai,Maharashtra
+8/4/2024,DM011,Clothing,P5377,50,470.93,16%,19779.06,Chandigarh,Punjab
+1/16/2024,DM019,Home & Kitchen,P4957,26,465.58,10%,10894.57,Ranchi,Jharkhand
+4/9/2024,DM001,Groceries,P1361,49,139.1,25%,5111.92,Mumbai,Maharashtra
+8/28/2024,DM004,Home & Kitchen,P3214,35,431.51,28%,10874.05,Chennai,Tamil Nadu
+2/29/2024,DM006,Stationery,P8982,15,98.69,7%,1376.73,Delhi,Delhi
+4/13/2024,DM015,Home & Kitchen,P2785,37,305.67,10%,10178.81,Guwahati,Assam
+1/15/2024,DM013,Clothing,P9102,3,443.61,10%,1197.75,Patna,Bihar
+10/18/2024,DM010,Stationery,P9713,49,356.82,21%,13812.5,Lucknow,Uttar Pradesh
+4/27/2024,DM009,Clothing,P4489,20,89.57,25%,1343.55,Jaipur,Rajasthan
+12/8/2024,DM011,Electronics,P7511,26,177.12,20%,3684.1,Chandigarh,Punjab
+5/23/2024,DM011,Groceries,P1133,4,429.12,8%,1579.16,Chandigarh,Punjab
+9/3/2024,DM012,Home & Kitchen,P1899,7,141.8,5%,942.97,Indore,Madhya Pradesh
+3/24/2024,DM006,Home & Kitchen,P7480,46,56.14,22%,2014.3,Delhi,Delhi
+11/29/2024,DM005,Clothing,P8965,41,422.02,13%,15053.45,Hyderabad,Telangana
+6/20/2024,DM009,Home & Kitchen,P5467,48,92,1%,4371.84,Jaipur,Rajasthan
+1/9/2024,DM016,Electronics,P7605,27,499.71,4%,12952.48,Thiruvananthapuram,Kerala
+9/22/2024,DM014,Clothing,P9284,16,261.03,9%,3800.6,Bhubaneswar,Odisha
+3/3/2024,DM006,Groceries,P3527,6,227.08,5%,1294.36,Delhi,Delhi
+6/21/2024,DM004,Groceries,P2895,38,10.9,10%,372.78,Chennai,Tamil Nadu
+5/31/2024,DM003,Stationery,P6364,26,98.61,28%,1845.98,Bangalore,Karnataka
+6/2/2024,DM004,Home & Kitchen,P4151,34,394.56,7%,12475.99,Chennai,Tamil Nadu
+8/24/2024,DM018,Groceries,P7200,13,315.4,8%,3772.18,Shimla,Himachal Pradesh
+3/28/2024,DM006,Stationery,P7339,22,334.26,0%,7353.72,Delhi,Delhi
+7/17/2024,DM011,Clothing,P8836,47,470.32,18%,18126.13,Chandigarh,Punjab
+5/2/2024,DM012,Groceries,P9524,10,207.51,21%,1639.33,Indore,Madhya Pradesh
+7/23/2024,DM008,Electronics,P2382,33,211.81,29%,4962.71,Kolkata,West Bengal
+1/12/2024,DM009,Clothing,P9953,47,139.72,11%,5844.49,Jaipur,Rajasthan
+6/21/2024,DM009,Electronics,P9970,13,271,21%,2783.17,Jaipur,Rajasthan
+4/12/2024,DM009,Electronics,P8354,27,333.37,5%,8550.94,Jaipur,Rajasthan
+11/20/2024,DM015,Electronics,P5535,29,148.25,23%,3310.42,Guwahati,Assam
+12/20/2024,DM015,Clothing,P6197,15,435.78,27%,4771.79,Guwahati,Assam
+8/17/2024,DM003,Clothing,P5377,31,323.27,25%,7516.03,Bangalore,Karnataka
+2/16/2024,DM007,Stationery,P7036,50,333.21,16%,13994.82,Ahmedabad,Gujarat
+4/21/2024,DM004,Stationery,P8618,21,321.14,8%,6204.42,Chennai,Tamil Nadu
+8/27/2024,DM004,Groceries,P1939,49,470.7,3%,22372.37,Chennai,Tamil Nadu
+12/2/2024,DM006,Groceries,P5538,45,407.05,15%,15569.66,Delhi,Delhi
+3/28/2024,DM012,Clothing,P7601,49,472.77,7%,21544.13,Indore,Madhya Pradesh
+7/12/2024,DM010,Stationery,P7100,41,170.22,20%,5583.22,Lucknow,Uttar Pradesh
+10/20/2024,DM004,Stationery,P9182,50,410.02,21%,16195.79,Chennai,Tamil Nadu
+2/14/2024,DM016,Electronics,P5055,1,429.49,15%,365.07,Thiruvananthapuram,Kerala
+1/6/2024,DM017,Home & Kitchen,P2643,32,158.58,6%,4770.09,Dehradun,Uttarakhand
+2/28/2024,DM008,Home & Kitchen,P1034,13,386,0%,5018,Kolkata,West Bengal
+12/20/2024,DM006,Clothing,P8629,3,282.76,27%,619.24,Delhi,Delhi
+8/3/2024,DM009,Home & Kitchen,P7006,24,199.07,16%,4013.25,Jaipur,Rajasthan
+4/10/2024,DM011,Electronics,P8616,26,268.96,5%,6643.31,Chandigarh,Punjab
+8/18/2024,DM014,Electronics,P3198,42,493.06,18%,16980.99,Bhubaneswar,Odisha
+8/26/2024,DM020,Groceries,P3835,36,420.46,24%,11503.79,Panaji,Goa
+2/10/2024,DM006,Home & Kitchen,P3238,2,79.49,16%,133.54,Delhi,Delhi
+5/18/2024,DM016,Clothing,P9444,4,350.93,7%,1305.46,Thiruvananthapuram,Kerala
+8/26/2024,DM007,Stationery,P4779,29,299.33,15%,7378.48,Ahmedabad,Gujarat
+12/5/2024,DM006,Stationery,P5220,16,329.16,3%,5108.56,Delhi,Delhi
+5/30/2024,DM020,Electronics,P5941,29,407.94,30%,8281.18,Panaji,Goa
+5/13/2024,DM016,Clothing,P2579,47,40.37,18%,1555.86,Thiruvananthapuram,Kerala
+2/25/2024,DM017,Clothing,P1484,12,232.04,4%,2673.1,Dehradun,Uttarakhand
+12/2/2024,DM020,Home & Kitchen,P5117,7,310.62,25%,1630.76,Panaji,Goa
+7/28/2024,DM015,Groceries,P1854,2,394.69,14%,678.87,Guwahati,Assam
+4/23/2024,DM014,Electronics,P7411,21,391.14,15%,6981.85,Bhubaneswar,Odisha
+11/20/2024,DM006,Home & Kitchen,P4824,25,432.76,15%,9196.15,Delhi,Delhi
+3/2/2024,DM015,Groceries,P7508,6,309.08,3%,1798.85,Guwahati,Assam
+2/8/2024,DM008,Home & Kitchen,P1182,41,454.13,9%,16943.59,Kolkata,West Bengal
+2/20/2024,DM010,Home & Kitchen,P3032,16,192.03,5%,2918.86,Lucknow,Uttar Pradesh
+12/10/2024,DM006,Stationery,P2172,14,123.97,13%,1509.95,Delhi,Delhi
+4/5/2024,DM015,Groceries,P4684,5,308.33,4%,1479.98,Guwahati,Assam
+4/27/2024,DM020,Groceries,P2733,47,458.57,16%,18104.34,Panaji,Goa
+3/16/2024,DM009,Electronics,P3723,33,495.89,11%,14564.29,Jaipur,Rajasthan
+7/14/2024,DM002,Electronics,P9768,30,445.04,26%,9879.89,Pune,Maharashtra
+10/24/2024,DM007,Groceries,P6943,39,109.7,10%,3850.47,Ahmedabad,Gujarat
+2/15/2024,DM014,Electronics,P7504,41,136.25,27%,4077.96,Bhubaneswar,Odisha
+8/20/2024,DM011,Electronics,P4568,38,189.31,5%,6834.09,Chandigarh,Punjab
+5/31/2024,DM010,Groceries,P3469,32,318.5,2%,9988.16,Lucknow,Uttar Pradesh
+11/6/2024,DM001,Groceries,P5134,29,106.41,10%,2777.3,Mumbai,Maharashtra
+6/12/2024,DM007,Stationery,P7678,23,377.59,13%,7555.58,Ahmedabad,Gujarat
+12/26/2024,DM015,Clothing,P6687,13,498.88,30%,4539.81,Guwahati,Assam
+10/23/2024,DM009,Groceries,P1656,19,450.57,10%,7704.75,Jaipur,Rajasthan
+11/11/2024,DM012,Groceries,P2330,50,427.8,19%,17325.9,Indore,Madhya Pradesh
+4/8/2024,DM019,Clothing,P4575,21,237.1,9%,4530.98,Ranchi,Jharkhand
+1/20/2024,DM009,Stationery,P2975,20,32.52,20%,520.32,Jaipur,Rajasthan
+9/30/2024,DM018,Stationery,P5007,23,309.51,18%,5837.36,Shimla,Himachal Pradesh
+9/14/2024,DM011,Home & Kitchen,P2339,38,464.76,1%,17484.27,Chandigarh,Punjab
+8/29/2024,DM009,Electronics,P3821,13,39.95,4%,498.58,Jaipur,Rajasthan
+10/17/2024,DM019,Clothing,P2367,16,297.43,3%,4616.11,Ranchi,Jharkhand
+2/1/2024,DM020,Stationery,P2217,30,28.13,2%,827.02,Panaji,Goa
+3/30/2024,DM015,Electronics,P8732,32,166.4,16%,4472.83,Guwahati,Assam
+4/24/2024,DM011,Groceries,P9216,28,58.48,3%,1588.32,Chandigarh,Punjab
+12/21/2024,DM004,Groceries,P7518,29,138.22,23%,3086.45,Chennai,Tamil Nadu
+6/4/2024,DM002,Home & Kitchen,P1032,49,181.06,24%,6742.67,Pune,Maharashtra
+8/30/2024,DM004,Groceries,P5149,46,139.78,23%,4951.01,Chennai,Tamil Nadu
+4/12/2024,DM019,Stationery,P9637,35,349.81,19%,9917.11,Ranchi,Jharkhand
+7/9/2024,DM007,Groceries,P9611,38,269.47,9%,9318.27,Ahmedabad,Gujarat
+7/20/2024,DM020,Groceries,P5811,13,163.68,11%,1893.78,Panaji,Goa
+7/25/2024,DM003,Stationery,P5266,25,278.05,28%,5004.9,Bangalore,Karnataka
+4/12/2024,DM004,Stationery,P7126,39,117.79,20%,3675.05,Chennai,Tamil Nadu
+10/23/2024,DM008,Stationery,P8846,10,207,8%,1904.4,Kolkata,West Bengal
+10/19/2024,DM013,Clothing,P2907,19,293.43,7%,5184.91,Patna,Bihar
+1/19/2024,DM001,Clothing,P3471,16,139.38,9%,2029.37,Mumbai,Maharashtra
+11/2/2024,DM010,Groceries,P2290,26,471.68,17%,10178.85,Lucknow,Uttar Pradesh
+1/19/2024,DM007,Clothing,P9397,20,390.73,13%,6798.7,Ahmedabad,Gujarat
+5/24/2024,DM002,Home & Kitchen,P6793,10,449.45,21%,3550.66,Pune,Maharashtra
+8/22/2024,DM001,Clothing,P2937,16,389.97,17%,5178.8,Mumbai,Maharashtra
+9/23/2024,DM014,Stationery,P3087,43,112.58,5%,4598.89,Bhubaneswar,Odisha
+4/10/2024,DM011,Clothing,P8864,2,388.38,24%,590.34,Chandigarh,Punjab
+6/12/2024,DM016,Electronics,P7741,24,151.92,11%,3245.01,Thiruvananthapuram,Kerala
+5/19/2024,DM009,Electronics,P2420,26,285.2,12%,6525.38,Jaipur,Rajasthan
+10/2/2024,DM002,Stationery,P7406,42,207.61,1%,8632.42,Pune,Maharashtra
+11/22/2024,DM017,Stationery,P1889,29,398.97,22%,9024.7,Dehradun,Uttarakhand
+8/7/2024,DM004,Stationery,P4697,38,398.06,1%,14975.02,Chennai,Tamil Nadu
+3/5/2024,DM010,Groceries,P8775,31,301.29,9%,8499.39,Lucknow,Uttar Pradesh
+1/31/2024,DM011,Stationery,P3757,4,436.58,18%,1431.98,Chandigarh,Punjab
+1/31/2024,DM007,Groceries,P8111,45,325.68,6%,13776.26,Ahmedabad,Gujarat
+6/18/2024,DM016,Electronics,P9357,7,91.99,17%,534.46,Thiruvananthapuram,Kerala
+11/24/2024,DM015,Stationery,P5039,14,319.87,29%,3179.51,Guwahati,Assam
+11/18/2024,DM017,Groceries,P9880,49,416.13,17%,16924.01,Dehradun,Uttarakhand
+3/17/2024,DM008,Groceries,P1050,41,468.8,14%,16529.89,Kolkata,West Bengal
+9/4/2024,DM001,Stationery,P7916,1,93.41,6%,87.81,Mumbai,Maharashtra
+11/28/2024,DM012,Electronics,P8489,41,301.01,27%,9009.23,Indore,Madhya Pradesh
+3/8/2024,DM007,Home & Kitchen,P1424,28,170.92,13%,4163.61,Ahmedabad,Gujarat
+1/16/2024,DM018,Electronics,P6144,29,160.16,24%,3529.93,Shimla,Himachal Pradesh
+2/26/2024,DM007,Groceries,P3477,28,251.04,9%,6396.5,Ahmedabad,Gujarat
+11/28/2024,DM019,Home & Kitchen,P9672,13,95.03,9%,1124.2,Ranchi,Jharkhand
+6/29/2024,DM012,Electronics,P7531,50,96.14,13%,4182.09,Indore,Madhya Pradesh
+12/3/2024,DM004,Groceries,P8435,4,334.95,30%,937.86,Chennai,Tamil Nadu
+9/21/2024,DM001,Home & Kitchen,P4144,5,156.25,14%,671.88,Mumbai,Maharashtra
+6/10/2024,DM004,Home & Kitchen,P9814,3,326.43,4%,940.12,Chennai,Tamil Nadu
+11/23/2024,DM008,Electronics,P6095,46,293.27,0%,13490.42,Kolkata,West Bengal
+1/6/2024,DM008,Electronics,P1269,5,48.87,25%,183.26,Kolkata,West Bengal
+2/14/2024,DM008,Home & Kitchen,P5559,17,333.59,6%,5330.77,Kolkata,West Bengal
+6/20/2024,DM011,Groceries,P8560,3,229.3,22%,536.56,Chandigarh,Punjab
+7/14/2024,DM007,Groceries,P1376,22,496.24,4%,10480.59,Ahmedabad,Gujarat
+1/26/2024,DM004,Groceries,P6314,34,240.42,18%,6702.91,Chennai,Tamil Nadu
+5/7/2024,DM008,Electronics,P8366,31,326.89,26%,7498.86,Kolkata,West Bengal
+9/23/2024,DM007,Electronics,P3715,29,230.48,21%,5280.3,Ahmedabad,Gujarat
+8/1/2024,DM005,Stationery,P5281,2,336.13,30%,470.58,Hyderabad,Telangana
+5/1/2024,DM019,Clothing,P1039,50,161.39,6%,7585.33,Ranchi,Jharkhand
+2/27/2024,DM006,Groceries,P8612,7,207.19,9%,1319.8,Delhi,Delhi
+9/4/2024,DM017,Clothing,P6279,39,440.59,15%,14605.56,Dehradun,Uttarakhand
+1/29/2024,DM004,Groceries,P2249,7,22.24,24%,118.32,Chennai,Tamil Nadu
+4/26/2024,DM011,Groceries,P2178,10,410.55,14%,3530.73,Chandigarh,Punjab
+1/27/2024,DM007,Electronics,P3765,26,70.79,5%,1748.51,Ahmedabad,Gujarat
+12/28/2024,DM020,Stationery,P4319,41,227.08,7%,8658.56,Panaji,Goa
+1/31/2024,DM001,Clothing,P8498,38,416.84,27%,11563.14,Mumbai,Maharashtra
+1/2/2024,DM007,Electronics,P1641,8,358.02,15%,2434.54,Ahmedabad,Gujarat
+8/15/2024,DM016,Stationery,P3589,22,79.54,0%,1749.88,Thiruvananthapuram,Kerala
+10/27/2024,DM002,Clothing,P5748,39,374.56,15%,12416.66,Pune,Maharashtra
+6/26/2024,DM006,Home & Kitchen,P9320,10,311.73,3%,3023.78,Delhi,Delhi
+1/6/2024,DM020,Groceries,P7623,1,134.45,14%,115.63,Panaji,Goa
+1/9/2024,DM014,Groceries,P6639,2,418.65,9%,761.94,Bhubaneswar,Odisha
+3/21/2024,DM004,Clothing,P5298,41,38.41,6%,1480.32,Chennai,Tamil Nadu
+1/7/2024,DM004,Groceries,P2042,49,211.38,25%,7768.21,Chennai,Tamil Nadu
+7/8/2024,DM008,Stationery,P1996,6,300.86,8%,1660.75,Kolkata,West Bengal
+11/2/2024,DM014,Electronics,P2592,5,231.02,21%,912.53,Bhubaneswar,Odisha
+6/11/2024,DM002,Electronics,P3182,7,265.53,20%,1486.97,Pune,Maharashtra
+3/1/2024,DM012,Groceries,P7250,18,303.79,28%,3937.12,Indore,Madhya Pradesh
+5/22/2024,DM001,Stationery,P2504,35,93.04,16%,2735.38,Mumbai,Maharashtra
+4/11/2024,DM015,Electronics,P3639,12,185.73,0%,2228.76,Guwahati,Assam
+3/30/2024,DM016,Home & Kitchen,P8168,10,248.24,29%,1762.5,Thiruvananthapuram,Kerala
+8/15/2024,DM004,Stationery,P6505,43,48.8,30%,1468.88,Chennai,Tamil Nadu
+5/2/2024,DM013,Stationery,P4569,34,407.19,16%,11629.35,Patna,Bihar
+5/4/2024,DM007,Clothing,P8249,23,369.92,12%,7487.18,Ahmedabad,Gujarat
+2/1/2024,DM008,Clothing,P3410,27,292.1,27%,5757.29,Kolkata,West Bengal
+8/15/2024,DM006,Groceries,P1248,38,124.87,4%,4555.26,Delhi,Delhi
+8/1/2024,DM004,Groceries,P6053,50,371.34,25%,13925.25,Chennai,Tamil Nadu
+10/21/2024,DM010,Stationery,P1490,49,26.26,24%,977.92,Lucknow,Uttar Pradesh
+1/4/2024,DM019,Electronics,P6893,19,278.1,29%,3751.57,Ranchi,Jharkhand
+7/30/2024,DM015,Clothing,P2376,30,127.97,8%,3531.97,Guwahati,Assam
+11/20/2024,DM015,Groceries,P1381,44,158.86,23%,5382.18,Guwahati,Assam
+1/15/2024,DM017,Home & Kitchen,P7614,3,486.99,28%,1051.9,Dehradun,Uttarakhand
+1/19/2024,DM014,Home & Kitchen,P5212,23,338.66,4%,7477.61,Bhubaneswar,Odisha
+7/15/2024,DM015,Stationery,P5826,8,312.12,11%,2222.29,Guwahati,Assam
+5/5/2024,DM010,Clothing,P7390,47,440,1%,20473.2,Lucknow,Uttar Pradesh
+9/3/2024,DM002,Electronics,P9984,18,38.88,30%,489.89,Pune,Maharashtra
+7/30/2024,DM011,Home & Kitchen,P9258,45,326.15,10%,13209.07,Chandigarh,Punjab
+3/16/2024,DM001,Clothing,P5589,6,141.02,4%,812.28,Mumbai,Maharashtra
+11/6/2024,DM013,Groceries,P9509,43,446.1,26%,14194.9,Patna,Bihar
+1/4/2024,DM005,Stationery,P1986,42,477.5,6%,18851.7,Hyderabad,Telangana
+12/10/2024,DM015,Home & Kitchen,P3583,34,313.65,29%,7571.51,Guwahati,Assam
+5/7/2024,DM012,Home & Kitchen,P1698,36,95.98,15%,2936.99,Indore,Madhya Pradesh
+8/16/2024,DM002,Groceries,P4467,38,98.65,7%,3486.29,Pune,Maharashtra
+8/7/2024,DM016,Clothing,P8341,1,348.21,16%,292.5,Thiruvananthapuram,Kerala
+9/30/2024,DM003,Clothing,P7083,36,396.4,27%,10417.39,Bangalore,Karnataka
+2/7/2024,DM004,Groceries,P6358,13,327.41,25%,3192.25,Chennai,Tamil Nadu
+7/8/2024,DM013,Groceries,P3709,28,161.5,13%,3934.14,Patna,Bihar
+5/23/2024,DM009,Clothing,P5966,4,151.08,8%,555.97,Jaipur,Rajasthan
+2/1/2024,DM010,Electronics,P1981,26,250.97,17%,5415.93,Lucknow,Uttar Pradesh
+6/15/2024,DM019,Electronics,P1151,23,180.35,16%,3484.36,Ranchi,Jharkhand
+11/7/2024,DM005,Home & Kitchen,P8201,28,422.09,11%,10518.48,Hyderabad,Telangana
+3/4/2024,DM009,Home & Kitchen,P4479,43,451.34,19%,15720.17,Jaipur,Rajasthan
+10/24/2024,DM018,Home & Kitchen,P3332,41,364.83,6%,14060.55,Shimla,Himachal Pradesh
+1/16/2024,DM019,Groceries,P9014,13,121.2,26%,1165.94,Ranchi,Jharkhand
+7/10/2024,DM008,Stationery,P6674,33,449.79,19%,12022.89,Kolkata,West Bengal
+5/24/2024,DM014,Electronics,P8585,42,126.2,10%,4770.36,Bhubaneswar,Odisha
+5/4/2024,DM010,Electronics,P5893,37,484.38,3%,17384.4,Lucknow,Uttar Pradesh
+8/26/2024,DM018,Clothing,P9037,32,151.65,9%,4416.05,Shimla,Himachal Pradesh
+4/15/2024,DM004,Electronics,P6860,1,134.1,4%,128.74,Chennai,Tamil Nadu
+9/4/2024,DM016,Stationery,P6295,43,114.38,16%,4131.41,Thiruvananthapuram,Kerala
+3/5/2024,DM010,Groceries,P6336,6,390.96,13%,2040.81,Lucknow,Uttar Pradesh
+1/17/2024,DM013,Clothing,P3989,34,299.95,2%,9994.33,Patna,Bihar
+10/30/2024,DM011,Stationery,P8158,28,191.21,22%,4176.03,Chandigarh,Punjab
+11/4/2024,DM019,Stationery,P8720,16,130.48,1%,2066.8,Ranchi,Jharkhand
+7/12/2024,DM001,Groceries,P6281,39,400.97,10%,14074.05,Mumbai,Maharashtra
+10/13/2024,DM008,Home & Kitchen,P1545,21,107.1,16%,1889.24,Kolkata,West Bengal
+4/19/2024,DM002,Home & Kitchen,P3245,47,115.05,3%,5245.13,Pune,Maharashtra
+2/16/2024,DM005,Home & Kitchen,P2550,50,108.81,1%,5386.1,Hyderabad,Telangana
+3/1/2024,DM011,Clothing,P5315,17,29.35,5%,474,Chandigarh,Punjab
+8/19/2024,DM020,Clothing,P7169,9,495.19,2%,4367.58,Panaji,Goa
+6/11/2024,DM020,Stationery,P5218,19,494.94,10%,8463.47,Panaji,Goa
+11/15/2024,DM013,Groceries,P3197,25,422.75,28%,7609.5,Patna,Bihar
+7/24/2024,DM020,Clothing,P9666,37,200.96,29%,5279.22,Panaji,Goa
+2/10/2024,DM007,Groceries,P8756,30,251.54,9%,6867.04,Ahmedabad,Gujarat
+4/3/2024,DM009,Clothing,P2832,44,168.52,22%,5783.61,Jaipur,Rajasthan
+2/2/2024,DM020,Home & Kitchen,P8897,15,171.17,28%,1848.64,Panaji,Goa
+7/18/2024,DM008,Clothing,P7029,32,23.64,1%,748.92,Kolkata,West Bengal
+1/20/2024,DM012,Groceries,P5670,23,494.14,9%,10342.35,Indore,Madhya Pradesh
+5/24/2024,DM014,Electronics,P5473,27,52.95,11%,1272.39,Bhubaneswar,Odisha
+5/9/2024,DM010,Groceries,P2959,30,403.09,10%,10883.43,Lucknow,Uttar Pradesh
+6/22/2024,DM011,Stationery,P1021,47,456.57,11%,19098.32,Chandigarh,Punjab
+3/24/2024,DM018,Electronics,P9349,47,154.18,25%,5434.85,Shimla,Himachal Pradesh
+11/29/2024,DM016,Home & Kitchen,P1762,11,363.94,6%,3763.14,Thiruvananthapuram,Kerala
+12/30/2024,DM019,Electronics,P4204,43,244.04,18%,8604.85,Ranchi,Jharkhand
+6/14/2024,DM001,Clothing,P6409,30,334.99,20%,8039.76,Mumbai,Maharashtra
+12/4/2024,DM004,Groceries,P5396,46,190.62,11%,7803.98,Chennai,Tamil Nadu
+3/3/2024,DM018,Electronics,P5214,13,115.9,11%,1340.96,Shimla,Himachal Pradesh
+11/13/2024,DM020,Groceries,P5699,18,312.42,23%,4330.14,Panaji,Goa
+12/14/2024,DM008,Clothing,P6786,24,156.68,8%,3459.49,Kolkata,West Bengal
+11/5/2024,DM010,Stationery,P8067,25,78.43,13%,1705.85,Lucknow,Uttar Pradesh
+3/9/2024,DM002,Electronics,P6890,21,47.65,16%,840.55,Pune,Maharashtra
+7/31/2024,DM012,Stationery,P6065,37,50.1,20%,1482.96,Indore,Madhya Pradesh
+1/25/2024,DM012,Stationery,P4427,12,363.61,22%,3403.39,Indore,Madhya Pradesh
+10/28/2024,DM009,Groceries,P8553,21,104,3%,2118.48,Jaipur,Rajasthan
+11/8/2024,DM005,Electronics,P1030,39,422.31,1%,16305.39,Hyderabad,Telangana
+7/24/2024,DM004,Clothing,P2651,29,409.57,28%,8551.82,Chennai,Tamil Nadu
+8/22/2024,DM003,Clothing,P5316,7,430.55,15%,2561.77,Bangalore,Karnataka
+7/20/2024,DM018,Clothing,P3818,12,106.3,18%,1045.99,Shimla,Himachal Pradesh
+8/27/2024,DM009,Groceries,P8988,29,433.56,23%,9681.39,Jaipur,Rajasthan
+3/26/2024,DM005,Clothing,P5665,3,150.05,16%,378.13,Hyderabad,Telangana
+8/5/2024,DM020,Groceries,P9169,48,482.69,23%,17840.22,Panaji,Goa
+1/21/2024,DM019,Clothing,P6291,46,403.48,9%,16889.67,Ranchi,Jharkhand
+5/18/2024,DM004,Clothing,P2813,15,116.22,6%,1638.7,Chennai,Tamil Nadu
+6/10/2024,DM012,Groceries,P9008,20,240.07,22%,3745.09,Indore,Madhya Pradesh
+7/15/2024,DM005,Stationery,P5336,19,212.22,21%,3185.42,Hyderabad,Telangana
+1/20/2024,DM005,Electronics,P7200,30,458.89,27%,10049.69,Hyderabad,Telangana
+12/5/2024,DM012,Clothing,P4220,17,263.26,30%,3132.79,Indore,Madhya Pradesh
+8/16/2024,DM020,Groceries,P6705,24,379.12,25%,6824.16,Panaji,Goa
+12/10/2024,DM003,Groceries,P7167,49,321.92,26%,11672.82,Bangalore,Karnataka
+2/23/2024,DM005,Stationery,P8133,6,315.62,11%,1685.41,Hyderabad,Telangana
+2/26/2024,DM010,Clothing,P1846,47,476.65,30%,15681.78,Lucknow,Uttar Pradesh
+3/5/2024,DM012,Clothing,P3080,43,330.25,1%,14058.74,Indore,Madhya Pradesh
+7/28/2024,DM014,Stationery,P1946,49,350.91,9%,15647.08,Bhubaneswar,Odisha
+7/4/2024,DM011,Clothing,P3259,36,483.11,3%,16870.2,Chandigarh,Punjab
+5/29/2024,DM017,Clothing,P6654,21,291.71,7%,5697.1,Dehradun,Uttarakhand
+8/19/2024,DM020,Clothing,P3198,12,422.73,24%,3855.3,Panaji,Goa
+2/14/2024,DM004,Groceries,P1109,42,261.59,15%,9338.76,Chennai,Tamil Nadu
+7/8/2024,DM015,Clothing,P8173,11,22.14,23%,187.53,Guwahati,Assam
+10/5/2024,DM004,Electronics,P6072,3,126.81,1%,376.63,Chennai,Tamil Nadu
+3/15/2024,DM010,Home & Kitchen,P8797,41,265.12,12%,9565.53,Lucknow,Uttar Pradesh
+10/5/2024,DM004,Electronics,P4168,49,411.14,7%,18735.65,Chennai,Tamil Nadu
+4/30/2024,DM020,Electronics,P4949,20,348.71,13%,6067.55,Panaji,Goa
+3/31/2024,DM002,Electronics,P2746,18,401.16,16%,6065.54,Pune,Maharashtra
+4/8/2024,DM010,Stationery,P7823,4,214.7,21%,678.45,Lucknow,Uttar Pradesh
+8/1/2024,DM017,Electronics,P9474,14,55.26,25%,580.23,Dehradun,Uttarakhand
+9/9/2024,DM010,Groceries,P7884,44,134.25,22%,4607.46,Lucknow,Uttar Pradesh
+6/8/2024,DM011,Electronics,P7822,11,23.19,2%,249.99,Chandigarh,Punjab
+1/8/2024,DM001,Groceries,P8454,42,377.08,19%,12828.26,Mumbai,Maharashtra
+8/24/2024,DM016,Home & Kitchen,P2060,21,131.02,13%,2393.74,Thiruvananthapuram,Kerala
+1/31/2024,DM001,Stationery,P3181,43,12.84,7%,513.47,Mumbai,Maharashtra
+4/15/2024,DM007,Clothing,P9491,14,462.57,24%,4921.74,Ahmedabad,Gujarat
+6/13/2024,DM011,Electronics,P9344,35,139.99,24%,3723.73,Chandigarh,Punjab
+5/24/2024,DM011,Clothing,P2210,17,383.81,5%,6198.53,Chandigarh,Punjab
+2/11/2024,DM013,Groceries,P1963,3,366.79,24%,836.28,Patna,Bihar
+2/23/2024,DM006,Home & Kitchen,P5861,5,31.35,12%,137.94,Delhi,Delhi
+3/25/2024,DM002,Electronics,P5534,38,274.93,13%,9089.19,Pune,Maharashtra
+5/11/2024,DM008,Clothing,P8454,2,107.83,20%,172.53,Kolkata,West Bengal
+3/21/2024,DM002,Home & Kitchen,P9597,23,74.65,30%,1201.87,Pune,Maharashtra
+8/24/2024,DM019,Stationery,P4236,48,234.75,26%,8338.32,Ranchi,Jharkhand
+6/22/2024,DM014,Groceries,P5343,12,473.24,12%,4997.41,Bhubaneswar,Odisha
+3/21/2024,DM019,Clothing,P9107,3,232.84,10%,628.67,Ranchi,Jharkhand
+12/22/2024,DM013,Electronics,P2385,16,454.69,14%,6256.53,Patna,Bihar
+2/24/2024,DM010,Home & Kitchen,P7077,10,463.74,13%,4034.54,Lucknow,Uttar Pradesh
+4/23/2024,DM006,Stationery,P7237,16,240.32,1%,3806.67,Delhi,Delhi
+2/26/2024,DM014,Groceries,P1304,8,390.25,28%,2247.84,Bhubaneswar,Odisha
+9/17/2024,DM016,Home & Kitchen,P2195,8,481.82,28%,2775.28,Thiruvananthapuram,Kerala
+2/25/2024,DM012,Stationery,P7306,29,159.46,4%,4439.37,Indore,Madhya Pradesh
+3/7/2024,DM020,Clothing,P1701,7,64.84,4%,435.72,Panaji,Goa
+3/15/2024,DM012,Electronics,P3870,7,287.03,25%,1506.91,Indore,Madhya Pradesh
+10/15/2024,DM011,Home & Kitchen,P7379,26,70.6,18%,1505.19,Chandigarh,Punjab
+12/12/2024,DM004,Home & Kitchen,P8639,32,25.04,8%,737.18,Chennai,Tamil Nadu
+9/25/2024,DM003,Stationery,P5909,37,257.51,22%,7431.74,Bangalore,Karnataka
+9/19/2024,DM001,Groceries,P5461,36,74.42,7%,2491.58,Mumbai,Maharashtra
+2/12/2024,DM004,Groceries,P4088,3,84.93,6%,239.5,Chennai,Tamil Nadu
+7/18/2024,DM016,Electronics,P8754,19,450.06,2%,8380.12,Thiruvananthapuram,Kerala
+11/28/2024,DM013,Home & Kitchen,P6850,47,392.25,30%,12905.02,Patna,Bihar
+4/5/2024,DM004,Home & Kitchen,P3199,4,170.17,27%,496.9,Chennai,Tamil Nadu
+7/18/2024,DM009,Clothing,P8177,38,267.17,8%,9340.26,Jaipur,Rajasthan
+5/24/2024,DM008,Clothing,P2695,14,197.3,12%,2430.74,Kolkata,West Bengal
+4/10/2024,DM010,Clothing,P4968,23,385.46,22%,6915.15,Lucknow,Uttar Pradesh
+11/22/2024,DM020,Groceries,P6038,48,223.74,12%,9450.78,Panaji,Goa
+7/2/2024,DM007,Electronics,P2580,3,95.6,3%,278.2,Ahmedabad,Gujarat
+12/25/2024,DM006,Groceries,P6151,38,74.21,25%,2114.98,Delhi,Delhi
+2/21/2024,DM015,Stationery,P6001,13,377.43,5%,4661.26,Guwahati,Assam
+5/29/2024,DM004,Groceries,P6114,16,133.51,14%,1837.1,Chennai,Tamil Nadu
+9/5/2024,DM015,Groceries,P3456,2,436.64,26%,646.23,Guwahati,Assam
+10/6/2024,DM004,Home & Kitchen,P4184,19,346.43,26%,4870.81,Chennai,Tamil Nadu
+5/22/2024,DM016,Clothing,P1918,37,107.81,19%,3231.07,Thiruvananthapuram,Kerala
+7/10/2024,DM015,Home & Kitchen,P6022,8,32.64,11%,232.4,Guwahati,Assam
+7/31/2024,DM020,Clothing,P8245,26,155.11,17%,3347.27,Panaji,Goa
+8/11/2024,DM009,Electronics,P9272,9,55.8,7%,467.05,Jaipur,Rajasthan
+6/7/2024,DM014,Stationery,P2317,50,63.73,21%,2517.34,Bhubaneswar,Odisha
+9/21/2024,DM018,Electronics,P8866,27,281.56,23%,5853.63,Shimla,Himachal Pradesh
+8/30/2024,DM011,Groceries,P7884,32,440.22,26%,10424.41,Chandigarh,Punjab
+10/7/2024,DM003,Stationery,P6873,47,219.85,18%,8473.02,Bangalore,Karnataka
+6/9/2024,DM006,Electronics,P5276,18,295.41,24%,4041.21,Delhi,Delhi
+1/11/2024,DM011,Home & Kitchen,P2353,34,295.19,27%,7326.62,Chandigarh,Punjab
+7/30/2024,DM003,Clothing,P2113,29,394.77,1%,11333.85,Bangalore,Karnataka
+12/31/2024,DM008,Home & Kitchen,P4553,22,345.08,2%,7439.92,Kolkata,West Bengal
+11/14/2024,DM008,Groceries,P7006,28,405.18,29%,8054.98,Kolkata,West Bengal
+7/21/2024,DM002,Stationery,P9612,19,189.87,30%,2525.27,Pune,Maharashtra
+12/17/2024,DM015,Electronics,P5957,44,410.95,1%,17900.98,Guwahati,Assam
+12/28/2024,DM013,Electronics,P6474,49,275.31,10%,12141.17,Patna,Bihar
+4/5/2024,DM003,Groceries,P1283,10,271.25,22%,2115.75,Bangalore,Karnataka
+2/3/2024,DM020,Clothing,P1738,24,125.27,22%,2345.05,Panaji,Goa
+2/15/2024,DM005,Clothing,P3719,18,198.26,18%,2926.32,Hyderabad,Telangana
+5/7/2024,DM001,Home & Kitchen,P7922,16,260.75,11%,3713.08,Mumbai,Maharashtra
+3/13/2024,DM008,Stationery,P1455,49,165.66,1%,8036.17,Kolkata,West Bengal
+12/4/2024,DM017,Groceries,P3151,48,85.4,5%,3894.24,Dehradun,Uttarakhand
+4/25/2024,DM013,Electronics,P7341,7,198.64,21%,1098.48,Patna,Bihar
+3/24/2024,DM014,Stationery,P8957,19,269.37,2%,5015.67,Bhubaneswar,Odisha
+12/21/2024,DM014,Home & Kitchen,P2024,31,58.64,9%,1654.23,Bhubaneswar,Odisha
+9/3/2024,DM012,Clothing,P3631,6,131.94,0%,791.64,Indore,Madhya Pradesh
+4/23/2024,DM003,Groceries,P8701,24,289.54,25%,5211.72,Bangalore,Karnataka
+2/14/2024,DM009,Home & Kitchen,P8690,44,27.67,29%,864.41,Jaipur,Rajasthan
+2/7/2024,DM009,Clothing,P3831,16,329.9,29%,3747.66,Jaipur,Rajasthan
+5/8/2024,DM014,Stationery,P8279,38,344.26,5%,12427.79,Bhubaneswar,Odisha
+7/23/2024,DM005,Stationery,P8766,21,429.8,21%,7130.38,Hyderabad,Telangana
+2/9/2024,DM019,Home & Kitchen,P9763,35,397.58,22%,10853.93,Ranchi,Jharkhand
+6/28/2024,DM016,Home & Kitchen,P6142,9,427.12,26%,2844.62,Thiruvananthapuram,Kerala
+3/26/2024,DM015,Electronics,P3608,21,312.16,10%,5899.82,Guwahati,Assam
+10/1/2024,DM015,Stationery,P8526,34,114.21,23%,2990.02,Guwahati,Assam
+5/8/2024,DM010,Electronics,P1188,13,403.63,10%,4722.47,Lucknow,Uttar Pradesh
+9/30/2024,DM012,Groceries,P5169,11,185.73,25%,1532.27,Indore,Madhya Pradesh
+1/17/2024,DM011,Groceries,P1689,16,457.09,24%,5558.21,Chandigarh,Punjab
+12/14/2024,DM012,Groceries,P3819,4,16.72,3%,64.87,Indore,Madhya Pradesh
+12/2/2024,DM010,Stationery,P2535,45,409.24,7%,17126.69,Lucknow,Uttar Pradesh
+9/5/2024,DM006,Stationery,P9029,22,476.23,23%,8067.34,Delhi,Delhi
+12/25/2024,DM020,Electronics,P9075,33,432.05,15%,12119,Panaji,Goa
+12/22/2024,DM003,Groceries,P6578,45,248.99,18%,9187.73,Bangalore,Karnataka
+5/3/2024,DM019,Electronics,P4160,23,479.46,27%,8050.13,Ranchi,Jharkhand
+2/6/2024,DM014,Home & Kitchen,P6219,40,358.95,19%,11629.98,Bhubaneswar,Odisha
+4/5/2024,DM018,Clothing,P9077,48,281.1,17%,11199.02,Shimla,Himachal Pradesh
+10/18/2024,DM002,Electronics,P3741,43,364.9,11%,13964.72,Pune,Maharashtra
+3/31/2024,DM011,Clothing,P9017,4,214.34,12%,754.48,Chandigarh,Punjab
+8/19/2024,DM009,Stationery,P7755,15,191.57,23%,2212.63,Jaipur,Rajasthan
+8/30/2024,DM020,Groceries,P4707,39,259.79,16%,8510.72,Panaji,Goa
+8/8/2024,DM020,Clothing,P4177,38,344.6,9%,11916.27,Panaji,Goa
+11/22/2024,DM018,Electronics,P9170,17,452.48,25%,5769.12,Shimla,Himachal Pradesh
+7/31/2024,DM013,Home & Kitchen,P5252,13,198.78,25%,1938.11,Patna,Bihar
+4/27/2024,DM001,Stationery,P1532,8,290.49,20%,1859.14,Mumbai,Maharashtra
+8/17/2024,DM009,Clothing,P8468,49,120.49,2%,5785.93,Jaipur,Rajasthan
+5/24/2024,DM017,Stationery,P9508,46,27.45,3%,1224.82,Dehradun,Uttarakhand
+11/24/2024,DM004,Stationery,P5927,35,63.07,29%,1567.29,Chennai,Tamil Nadu
+4/8/2024,DM016,Clothing,P2202,10,155.36,5%,1475.92,Thiruvananthapuram,Kerala
+12/13/2024,DM019,Clothing,P9032,28,416.78,9%,10619.55,Ranchi,Jharkhand
+4/22/2024,DM009,Groceries,P1452,29,456.42,4%,12706.73,Jaipur,Rajasthan
+7/2/2024,DM005,Home & Kitchen,P9693,12,391.84,23%,3620.6,Hyderabad,Telangana
+3/31/2024,DM006,Home & Kitchen,P8862,37,474.86,1%,17394.12,Delhi,Delhi
+3/23/2024,DM016,Home & Kitchen,P2685,30,381.07,27%,8345.43,Thiruvananthapuram,Kerala
+4/28/2024,DM019,Clothing,P3471,1,232.64,1%,230.31,Ranchi,Jharkhand
+3/26/2024,DM005,Groceries,P8933,4,150.26,11%,534.93,Hyderabad,Telangana
+1/11/2024,DM018,Stationery,P5290,21,93.99,24%,1500.08,Shimla,Himachal Pradesh
+4/1/2024,DM005,Home & Kitchen,P1019,36,424.11,29%,10840.25,Hyderabad,Telangana
+7/10/2024,DM009,Electronics,P4242,49,375.96,5%,17500.94,Jaipur,Rajasthan
+12/13/2024,DM015,Clothing,P4542,29,494.79,17%,11909.6,Guwahati,Assam
+12/10/2024,DM005,Home & Kitchen,P2276,5,168.88,25%,633.3,Hyderabad,Telangana
+4/9/2024,DM002,Home & Kitchen,P5085,21,44.33,29%,660.96,Pune,Maharashtra
+6/4/2024,DM015,Clothing,P3319,39,315.49,15%,10458.49,Guwahati,Assam
+6/2/2024,DM012,Home & Kitchen,P9303,3,98.23,27%,215.12,Indore,Madhya Pradesh
+1/7/2024,DM013,Stationery,P7122,37,354.51,7%,12198.69,Patna,Bihar
+8/20/2024,DM015,Clothing,P1315,28,150.98,13%,3677.87,Guwahati,Assam
+1/24/2024,DM020,Electronics,P2998,44,40.8,28%,1292.54,Panaji,Goa
+7/24/2024,DM003,Groceries,P8692,46,102.71,26%,3496.25,Bangalore,Karnataka
+5/22/2024,DM014,Clothing,P1114,18,165.44,29%,2114.32,Bhubaneswar,Odisha
+10/6/2024,DM008,Clothing,P3457,40,349.09,8%,12846.51,Kolkata,West Bengal
+3/27/2024,DM009,Electronics,P8261,3,396.11,21%,938.78,Jaipur,Rajasthan
+1/6/2024,DM007,Electronics,P6862,33,312.21,0%,10302.93,Ahmedabad,Gujarat
+4/17/2024,DM018,Stationery,P7921,40,260.77,19%,8448.95,Shimla,Himachal Pradesh
+2/22/2024,DM006,Clothing,P2631,39,481.13,11%,16700.02,Delhi,Delhi
+12/4/2024,DM003,Stationery,P8821,9,61.57,21%,437.76,Bangalore,Karnataka
+4/20/2024,DM007,Clothing,P8165,23,402.14,16%,7769.34,Ahmedabad,Gujarat
+11/9/2024,DM008,Stationery,P4129,26,454.12,8%,10862.55,Kolkata,West Bengal
+10/17/2024,DM001,Home & Kitchen,P4861,24,328.8,27%,5760.58,Mumbai,Maharashtra
+2/8/2024,DM019,Home & Kitchen,P8950,28,266.85,27%,5454.41,Ranchi,Jharkhand
+8/17/2024,DM018,Home & Kitchen,P3271,20,119.29,22%,1860.92,Shimla,Himachal Pradesh
+6/15/2024,DM011,Home & Kitchen,P1199,16,462.72,26%,5478.6,Chandigarh,Punjab
+12/25/2024,DM008,Stationery,P1413,17,457.29,19%,6296.88,Kolkata,West Bengal
+1/6/2024,DM017,Home & Kitchen,P4724,42,178.06,24%,5683.68,Dehradun,Uttarakhand
+8/30/2024,DM004,Home & Kitchen,P8494,9,436.2,3%,3808.03,Chennai,Tamil Nadu
+4/10/2024,DM019,Clothing,P9789,38,362.44,13%,11982.27,Ranchi,Jharkhand
+6/28/2024,DM019,Clothing,P1971,1,214.49,11%,190.9,Ranchi,Jharkhand
+7/17/2024,DM016,Stationery,P9147,18,109.4,4%,1890.43,Thiruvananthapuram,Kerala
+9/14/2024,DM004,Home & Kitchen,P1424,3,363.94,5%,1037.23,Chennai,Tamil Nadu
+2/13/2024,DM005,Stationery,P2796,34,214.59,30%,5107.24,Hyderabad,Telangana
+2/23/2024,DM018,Stationery,P3106,11,51.06,24%,426.86,Shimla,Himachal Pradesh
+7/25/2024,DM017,Stationery,P9334,42,487.1,27%,14934.49,Dehradun,Uttarakhand
+10/26/2024,DM015,Stationery,P5420,12,128.61,16%,1296.39,Guwahati,Assam
+10/7/2024,DM008,Clothing,P8531,34,369.38,8%,11554.21,Kolkata,West Bengal
+4/20/2024,DM011,Groceries,P4518,33,249.75,5%,7829.66,Chandigarh,Punjab
+7/18/2024,DM008,Electronics,P8731,50,228.97,21%,9044.32,Kolkata,West Bengal
+10/21/2024,DM014,Groceries,P9508,29,462.51,20%,10730.23,Bhubaneswar,Odisha
+6/11/2024,DM011,Stationery,P5641,30,133.82,18%,3291.97,Chandigarh,Punjab
+6/26/2024,DM018,Stationery,P9248,40,481.88,20%,15420.16,Shimla,Himachal Pradesh
+10/13/2024,DM005,Electronics,P2945,17,310.69,30%,3697.21,Hyderabad,Telangana
+6/22/2024,DM015,Clothing,P9874,42,317.87,26%,9879.4,Guwahati,Assam
+2/16/2024,DM014,Groceries,P6048,41,270.94,12%,9775.52,Bhubaneswar,Odisha
+3/6/2024,DM009,Home & Kitchen,P4568,34,107.65,26%,2708.47,Jaipur,Rajasthan
+12/13/2024,DM014,Electronics,P6598,20,441.36,19%,7150.03,Bhubaneswar,Odisha
+4/1/2024,DM017,Electronics,P3468,33,86.65,2%,2802.26,Dehradun,Uttarakhand
+9/5/2024,DM019,Clothing,P5804,8,30.64,7%,227.96,Ranchi,Jharkhand
+6/6/2024,DM012,Groceries,P9187,18,325.1,11%,5208.1,Indore,Madhya Pradesh
+9/14/2024,DM014,Clothing,P9330,33,54.72,9%,1643.24,Bhubaneswar,Odisha
+5/1/2024,DM004,Home & Kitchen,P6083,25,380.1,7%,8837.32,Chennai,Tamil Nadu
+9/15/2024,DM008,Electronics,P3998,13,421.01,17%,4542.7,Kolkata,West Bengal
+3/3/2024,DM016,Home & Kitchen,P4462,17,15.33,18%,213.7,Thiruvananthapuram,Kerala
+3/2/2024,DM006,Groceries,P4099,17,498.29,12%,7454.42,Delhi,Delhi
+12/10/2024,DM002,Stationery,P6925,30,241.07,24%,5496.4,Pune,Maharashtra
+11/6/2024,DM008,Home & Kitchen,P8799,4,494.52,5%,1879.18,Kolkata,West Bengal
+5/26/2024,DM017,Groceries,P1935,34,380.26,2%,12670.26,Dehradun,Uttarakhand
+4/30/2024,DM004,Stationery,P2794,46,112.56,30%,3624.43,Chennai,Tamil Nadu
+3/30/2024,DM001,Electronics,P9895,49,111.13,24%,4138.48,Mumbai,Maharashtra
+2/6/2024,DM004,Electronics,P5534,32,316.24,17%,8399.33,Chennai,Tamil Nadu
+4/23/2024,DM014,Home & Kitchen,P7648,18,184.02,9%,3014.25,Bhubaneswar,Odisha
+3/17/2024,DM015,Electronics,P8776,25,219.12,11%,4875.42,Guwahati,Assam
+11/1/2024,DM001,Electronics,P8030,30,290.13,10%,7833.51,Mumbai,Maharashtra
+5/5/2024,DM012,Clothing,P8252,38,142.2,3%,5241.49,Indore,Madhya Pradesh
+12/23/2024,DM002,Home & Kitchen,P9769,26,458.58,6%,11207.7,Pune,Maharashtra
+11/5/2024,DM007,Electronics,P8409,43,24.93,30%,750.39,Ahmedabad,Gujarat
+5/20/2024,DM004,Groceries,P7716,32,288.7,6%,8684.1,Chennai,Tamil Nadu
+12/17/2024,DM016,Stationery,P5128,29,380.36,27%,8052.22,Thiruvananthapuram,Kerala
+5/29/2024,DM015,Clothing,P9766,50,441.4,30%,15449,Guwahati,Assam
+2/18/2024,DM001,Stationery,P5317,27,64.14,24%,1316.15,Mumbai,Maharashtra
+1/19/2024,DM018,Electronics,P9010,42,301.13,25%,9485.59,Shimla,Himachal Pradesh
+5/15/2024,DM001,Home & Kitchen,P1710,37,116.08,4%,4123.16,Mumbai,Maharashtra
+8/19/2024,DM009,Groceries,P7576,5,375.87,15%,1597.45,Jaipur,Rajasthan
+5/10/2024,DM013,Stationery,P9664,2,146.5,10%,263.7,Patna,Bihar
+9/2/2024,DM018,Stationery,P2769,18,295.81,21%,4206.42,Shimla,Himachal Pradesh
+6/28/2024,DM010,Stationery,P3990,6,337.95,1%,2007.42,Lucknow,Uttar Pradesh
+12/9/2024,DM002,Electronics,P6274,38,140.1,25%,3992.85,Pune,Maharashtra
+11/27/2024,DM020,Electronics,P4760,16,179.92,23%,2216.61,Panaji,Goa
+6/13/2024,DM009,Electronics,P7054,50,114.11,25%,4279.12,Jaipur,Rajasthan
+6/15/2024,DM010,Home & Kitchen,P2621,41,126.83,22%,4056.02,Lucknow,Uttar Pradesh
+10/7/2024,DM015,Electronics,P6854,4,14.58,0%,58.32,Guwahati,Assam
+12/21/2024,DM002,Electronics,P5013,26,55.47,16%,1211.46,Pune,Maharashtra
+5/11/2024,DM013,Groceries,P5835,47,102.01,14%,4123.24,Patna,Bihar
+5/31/2024,DM016,Home & Kitchen,P9866,24,132,30%,2217.6,Thiruvananthapuram,Kerala
+9/1/2024,DM012,Groceries,P4287,17,499.41,24%,6452.38,Indore,Madhya Pradesh
+9/12/2024,DM005,Electronics,P4539,16,239.43,23%,2949.78,Hyderabad,Telangana
+2/8/2024,DM019,Clothing,P5951,35,165.07,18%,4737.51,Ranchi,Jharkhand
+2/1/2024,DM017,Clothing,P9391,49,275.2,27%,9843.9,Dehradun,Uttarakhand
+5/4/2024,DM017,Electronics,P6512,1,69.44,6%,65.27,Dehradun,Uttarakhand
+8/1/2024,DM008,Electronics,P7956,46,365.65,20%,13455.92,Kolkata,West Bengal
+9/26/2024,DM016,Clothing,P8958,39,433.59,3%,16402.71,Thiruvananthapuram,Kerala
+3/18/2024,DM019,Home & Kitchen,P6072,35,310.37,5%,10319.8,Ranchi,Jharkhand
+7/29/2024,DM001,Clothing,P7305,39,186.75,9%,6627.76,Mumbai,Maharashtra
+10/12/2024,DM008,Home & Kitchen,P5638,33,198.05,27%,4771.02,Kolkata,West Bengal
+2/20/2024,DM001,Groceries,P1216,48,445.83,4%,20543.85,Mumbai,Maharashtra
+8/25/2024,DM008,Home & Kitchen,P4855,12,270.95,13%,2828.72,Kolkata,West Bengal
+4/15/2024,DM013,Home & Kitchen,P1805,28,465.6,2%,12776.06,Patna,Bihar
+3/8/2024,DM013,Stationery,P6200,2,278.1,11%,495.02,Patna,Bihar
+11/15/2024,DM007,Clothing,P5513,20,397.34,1%,7867.33,Ahmedabad,Gujarat
+6/11/2024,DM005,Electronics,P9556,38,348.52,29%,9403.07,Hyderabad,Telangana
+3/15/2024,DM019,Stationery,P6818,47,44.61,15%,1782.17,Ranchi,Jharkhand
+2/21/2024,DM003,Stationery,P5224,13,401.41,3%,5061.78,Bangalore,Karnataka
+10/6/2024,DM011,Electronics,P2766,16,391.15,26%,4631.22,Chandigarh,Punjab
+1/24/2024,DM005,Electronics,P8474,8,217,27%,1267.28,Hyderabad,Telangana
+9/14/2024,DM012,Electronics,P8196,5,233.44,3%,1132.18,Indore,Madhya Pradesh
+9/5/2024,DM010,Groceries,P7233,22,245.09,13%,4691.02,Lucknow,Uttar Pradesh
+4/28/2024,DM015,Electronics,P6966,25,304.73,29%,5408.96,Guwahati,Assam
+7/12/2024,DM006,Home & Kitchen,P4348,2,83.16,19%,134.72,Delhi,Delhi
+1/29/2024,DM004,Electronics,P2815,4,332.02,29%,942.94,Chennai,Tamil Nadu
+11/23/2024,DM007,Home & Kitchen,P7003,48,351.17,21%,13316.37,Ahmedabad,Gujarat
+10/14/2024,DM020,Home & Kitchen,P2721,32,432.25,12%,12172.16,Panaji,Goa
+4/8/2024,DM005,Electronics,P5731,43,284.05,26%,9038.47,Hyderabad,Telangana
+9/27/2024,DM007,Electronics,P3441,32,425.47,25%,10211.28,Ahmedabad,Gujarat
+8/3/2024,DM008,Electronics,P5185,8,461.72,24%,2807.26,Kolkata,West Bengal
+11/11/2024,DM005,Home & Kitchen,P6219,23,493.83,25%,8518.57,Hyderabad,Telangana
+10/14/2024,DM015,Electronics,P3683,1,244.23,14%,210.04,Guwahati,Assam
+4/28/2024,DM010,Stationery,P5788,50,388.67,5%,18461.83,Lucknow,Uttar Pradesh
+2/10/2024,DM009,Stationery,P5315,44,251.18,22%,8620.5,Jaipur,Rajasthan
+6/16/2024,DM004,Electronics,P9577,1,364.03,3%,353.11,Chennai,Tamil Nadu
+11/22/2024,DM002,Clothing,P2216,31,15.68,1%,481.22,Pune,Maharashtra
+7/28/2024,DM015,Electronics,P2492,25,21.15,12%,465.3,Guwahati,Assam
+6/27/2024,DM013,Electronics,P6552,50,39.23,24%,1490.74,Patna,Bihar
+10/10/2024,DM010,Clothing,P8765,4,114.88,20%,367.62,Lucknow,Uttar Pradesh
+9/26/2024,DM016,Electronics,P3506,23,236.01,14%,4668.28,Thiruvananthapuram,Kerala
+1/17/2024,DM002,Electronics,P6339,27,263.14,2%,6962.68,Pune,Maharashtra
+3/11/2024,DM015,Stationery,P9206,31,355.57,10%,9920.4,Guwahati,Assam
+6/30/2024,DM015,Groceries,P2720,27,91.56,21%,1952.97,Guwahati,Assam
+2/27/2024,DM012,Stationery,P1107,22,182.42,19%,3250.72,Indore,Madhya Pradesh
+10/19/2024,DM013,Groceries,P8093,6,303.19,11%,1619.03,Patna,Bihar
+4/5/2024,DM018,Clothing,P2921,9,133.69,7%,1118.99,Shimla,Himachal Pradesh
+9/9/2024,DM013,Electronics,P2454,21,154.76,10%,2924.96,Patna,Bihar
+3/13/2024,DM019,Electronics,P8586,6,244.15,19%,1186.57,Ranchi,Jharkhand
+1/7/2024,DM004,Electronics,P9205,3,402.68,1%,1195.96,Chennai,Tamil Nadu
+3/23/2024,DM020,Home & Kitchen,P4334,36,118.54,11%,3798.02,Panaji,Goa
+3/25/2024,DM013,Home & Kitchen,P5261,16,22.51,30%,252.11,Patna,Bihar
+4/17/2024,DM001,Electronics,P9716,7,109.55,7%,713.17,Mumbai,Maharashtra
+12/18/2024,DM008,Electronics,P3285,45,75.25,30%,2370.38,Kolkata,West Bengal
+12/27/2024,DM006,Groceries,P7449,49,145.6,22%,5564.83,Delhi,Delhi
+8/14/2024,DM012,Clothing,P4368,21,293.39,29%,4374.44,Indore,Madhya Pradesh
+3/9/2024,DM006,Stationery,P3707,40,86.34,9%,3142.78,Delhi,Delhi
+12/26/2024,DM001,Clothing,P1187,29,163.93,26%,3517.94,Mumbai,Maharashtra
+1/28/2024,DM008,Home & Kitchen,P7021,10,241.92,3%,2346.62,Kolkata,West Bengal
+12/30/2024,DM002,Stationery,P3942,10,382.84,20%,3062.72,Pune,Maharashtra
+11/19/2024,DM011,Stationery,P4641,13,235.11,1%,3025.87,Chandigarh,Punjab
+6/23/2024,DM011,Clothing,P4327,3,94.45,17%,235.18,Chandigarh,Punjab
+12/5/2024,DM007,Groceries,P1284,26,170.23,17%,3673.56,Ahmedabad,Gujarat
+10/18/2024,DM011,Home & Kitchen,P5268,34,331.8,8%,10378.7,Chandigarh,Punjab
+2/12/2024,DM013,Electronics,P5822,18,175.48,5%,3000.71,Patna,Bihar
+8/12/2024,DM007,Electronics,P7892,31,446.88,23%,10667.03,Ahmedabad,Gujarat
+11/17/2024,DM005,Electronics,P4440,33,492.59,17%,13492.04,Hyderabad,Telangana
+4/24/2024,DM004,Electronics,P5088,38,200.76,5%,7247.44,Chennai,Tamil Nadu
+1/15/2024,DM013,Clothing,P8892,47,36.43,29%,1215.67,Patna,Bihar
+1/8/2024,DM009,Electronics,P1498,37,26.46,3%,949.65,Jaipur,Rajasthan
+10/12/2024,DM014,Electronics,P2886,16,116.71,18%,1531.24,Bhubaneswar,Odisha
+4/4/2024,DM004,Home & Kitchen,P8628,3,415.79,19%,1010.37,Chennai,Tamil Nadu
+11/3/2024,DM001,Home & Kitchen,P1716,21,333.52,23%,5393.02,Mumbai,Maharashtra
+1/8/2024,DM016,Stationery,P4488,42,77.71,19%,2643.69,Thiruvananthapuram,Kerala
+12/5/2024,DM014,Electronics,P2406,18,199.76,3%,3487.81,Bhubaneswar,Odisha
+10/18/2024,DM019,Clothing,P5416,15,414.55,18%,5098.97,Ranchi,Jharkhand
+2/21/2024,DM002,Electronics,P3269,39,409.33,20%,12771.1,Pune,Maharashtra
+10/11/2024,DM006,Electronics,P2588,40,407.33,3%,15804.4,Delhi,Delhi
+3/17/2024,DM006,Home & Kitchen,P1716,35,33.33,24%,886.58,Delhi,Delhi
+7/21/2024,DM011,Groceries,P9983,17,333.45,3%,5498.59,Chandigarh,Punjab
+1/14/2024,DM020,Clothing,P3262,17,204.11,5%,3296.38,Panaji,Goa
+9/6/2024,DM008,Stationery,P6125,37,197.81,24%,5562.42,Kolkata,West Bengal
+1/1/2024,DM012,Clothing,P1095,32,392.63,8%,11559.03,Indore,Madhya Pradesh
+9/24/2024,DM001,Clothing,P8989,14,160.33,9%,2042.6,Mumbai,Maharashtra
+1/16/2024,DM009,Stationery,P3551,18,433.95,8%,7186.21,Jaipur,Rajasthan
+11/18/2024,DM006,Electronics,P5754,37,495.02,23%,14103.12,Delhi,Delhi
+11/7/2024,DM001,Home & Kitchen,P7912,12,311.98,15%,3182.2,Mumbai,Maharashtra
+3/6/2024,DM018,Electronics,P6402,36,453.41,16%,13711.12,Shimla,Himachal Pradesh
+10/25/2024,DM015,Groceries,P3503,27,95.84,26%,1914.88,Guwahati,Assam
+1/24/2024,DM016,Groceries,P9460,42,154.72,17%,5393.54,Thiruvananthapuram,Kerala
+9/17/2024,DM003,Home & Kitchen,P4467,17,418.68,23%,5480.52,Bangalore,Karnataka
+12/1/2024,DM017,Home & Kitchen,P7901,16,281.69,6%,4236.62,Dehradun,Uttarakhand
+7/23/2024,DM014,Clothing,P6057,43,136.7,24%,4467.36,Bhubaneswar,Odisha
+12/24/2024,DM003,Groceries,P6368,9,309.17,14%,2392.98,Bangalore,Karnataka
+4/19/2024,DM013,Electronics,P5152,44,348.45,12%,13491.98,Patna,Bihar
+2/25/2024,DM017,Clothing,P5289,31,494.84,2%,15033.24,Dehradun,Uttarakhand
+12/5/2024,DM013,Groceries,P1413,48,49.18,9%,2148.18,Patna,Bihar
+4/9/2024,DM016,Electronics,P6260,36,165.38,6%,5596.46,Thiruvananthapuram,Kerala
+9/13/2024,DM010,Home & Kitchen,P5775,36,314.86,15%,9634.72,Lucknow,Uttar Pradesh
+6/18/2024,DM012,Groceries,P9311,17,407.38,6%,6509.93,Indore,Madhya Pradesh
+6/18/2024,DM013,Groceries,P6441,1,375.72,5%,356.93,Patna,Bihar
+1/31/2024,DM019,Groceries,P3147,46,319.92,29%,10448.59,Ranchi,Jharkhand
+7/19/2024,DM001,Groceries,P8764,29,16.5,9%,435.44,Mumbai,Maharashtra
+2/19/2024,DM017,Electronics,P3488,48,80.05,29%,2728.1,Dehradun,Uttarakhand
+9/16/2024,DM001,Groceries,P2602,11,461.25,2%,4972.27,Mumbai,Maharashtra
+11/21/2024,DM009,Stationery,P6022,24,230.28,0%,5526.72,Jaipur,Rajasthan
+9/13/2024,DM013,Stationery,P4106,9,480.64,28%,3114.55,Patna,Bihar
+10/31/2024,DM001,Clothing,P6659,46,290.9,14%,11508,Mumbai,Maharashtra
+10/30/2024,DM005,Clothing,P4553,8,99.45,19%,644.44,Hyderabad,Telangana
+4/8/2024,DM017,Stationery,P6553,7,398.41,1%,2760.98,Dehradun,Uttarakhand
+3/8/2024,DM004,Groceries,P6132,46,84.49,17%,3225.83,Chennai,Tamil Nadu
+4/3/2024,DM003,Groceries,P2581,50,461.77,26%,17085.49,Bangalore,Karnataka
+12/9/2024,DM005,Groceries,P4595,36,228.81,0%,8237.16,Hyderabad,Telangana
+4/17/2024,DM020,Home & Kitchen,P3537,14,281.1,15%,3345.09,Panaji,Goa
+6/10/2024,DM011,Stationery,P6926,9,471.5,13%,3691.84,Chandigarh,Punjab
+3/7/2024,DM006,Home & Kitchen,P4550,37,307.99,3%,11053.76,Delhi,Delhi
+11/3/2024,DM012,Clothing,P7587,42,71.14,28%,2151.27,Indore,Madhya Pradesh
+6/24/2024,DM017,Electronics,P1881,42,216.25,10%,8174.25,Dehradun,Uttarakhand
+5/12/2024,DM015,Home & Kitchen,P4648,2,62.24,24%,94.6,Guwahati,Assam
+9/18/2024,DM011,Clothing,P3923,31,80.06,14%,2134.4,Chandigarh,Punjab
+3/8/2024,DM007,Groceries,P1270,1,331.06,6%,311.2,Ahmedabad,Gujarat
+3/28/2024,DM009,Stationery,P2657,2,320.69,2%,628.55,Jaipur,Rajasthan
+1/9/2024,DM007,Groceries,P6626,1,384.66,8%,353.89,Ahmedabad,Gujarat
+4/22/2024,DM010,Home & Kitchen,P9069,8,467.75,3%,3629.74,Lucknow,Uttar Pradesh
+11/14/2024,DM009,Stationery,P3377,17,55.61,20%,756.3,Jaipur,Rajasthan
+8/10/2024,DM014,Stationery,P3814,26,488.29,12%,11172.08,Bhubaneswar,Odisha
+12/7/2024,DM003,Electronics,P5213,35,261.79,21%,7238.49,Bangalore,Karnataka
+4/20/2024,DM011,Stationery,P8188,13,293.82,26%,2826.55,Chandigarh,Punjab
+2/24/2024,DM006,Electronics,P8531,32,383.17,7%,11403.14,Delhi,Delhi
+4/8/2024,DM014,Stationery,P6841,12,429.68,29%,3660.87,Bhubaneswar,Odisha
+9/1/2024,DM004,Clothing,P2231,40,171.14,11%,6092.58,Chennai,Tamil Nadu
+3/11/2024,DM008,Stationery,P1850,33,457.32,28%,10865.92,Kolkata,West Bengal
+9/27/2024,DM009,Groceries,P1045,50,192.87,7%,8968.45,Jaipur,Rajasthan
+5/2/2024,DM007,Electronics,P3796,37,301.51,12%,9817.17,Ahmedabad,Gujarat
+11/20/2024,DM013,Home & Kitchen,P4541,34,54.68,12%,1636.03,Patna,Bihar
+11/26/2024,DM001,Stationery,P4311,21,396.53,19%,6744.98,Mumbai,Maharashtra
+12/1/2024,DM013,Home & Kitchen,P7125,29,330.17,11%,8521.69,Patna,Bihar
+1/29/2024,DM002,Groceries,P9204,48,464.08,5%,21162.05,Pune,Maharashtra
+6/8/2024,DM004,Groceries,P6111,42,248.65,15%,8876.81,Chennai,Tamil Nadu
+1/7/2024,DM009,Home & Kitchen,P7072,11,61.29,16%,566.32,Jaipur,Rajasthan
+12/12/2024,DM009,Home & Kitchen,P6503,26,33.43,12%,764.88,Jaipur,Rajasthan
+2/17/2024,DM008,Groceries,P2605,10,453.71,10%,4083.39,Kolkata,West Bengal
+5/2/2024,DM010,Stationery,P4999,5,327.88,24%,1245.94,Lucknow,Uttar Pradesh
+5/10/2024,DM011,Clothing,P9271,34,490.21,1%,16500.47,Chandigarh,Punjab
+7/23/2024,DM016,Stationery,P2622,37,28.98,16%,900.7,Thiruvananthapuram,Kerala
+2/14/2024,DM010,Home & Kitchen,P9089,30,117.6,2%,3457.44,Lucknow,Uttar Pradesh
+5/8/2024,DM010,Home & Kitchen,P5162,2,284.19,30%,397.87,Lucknow,Uttar Pradesh
+1/16/2024,DM019,Groceries,P2725,43,443.15,1%,18864.9,Ranchi,Jharkhand
+5/14/2024,DM015,Groceries,P7904,30,277.29,15%,7070.9,Guwahati,Assam
+12/13/2024,DM019,Electronics,P1721,17,359.16,25%,4579.29,Ranchi,Jharkhand
+4/8/2024,DM007,Home & Kitchen,P4833,3,496.14,28%,1071.66,Ahmedabad,Gujarat
+4/18/2024,DM002,Home & Kitchen,P2016,14,67.89,0%,950.46,Pune,Maharashtra
+2/27/2024,DM016,Electronics,P5414,1,336.8,14%,289.65,Thiruvananthapuram,Kerala
+4/13/2024,DM015,Home & Kitchen,P7234,15,242.94,27%,2660.19,Guwahati,Assam
+12/9/2024,DM009,Clothing,P5393,32,411.53,21%,10403.48,Jaipur,Rajasthan
+11/21/2024,DM012,Electronics,P4845,20,486.67,4%,9344.06,Indore,Madhya Pradesh
+8/12/2024,DM013,Groceries,P2522,24,68.64,18%,1350.84,Patna,Bihar
+12/1/2024,DM019,Clothing,P8754,33,95.02,13%,2728.02,Ranchi,Jharkhand
+4/1/2024,DM006,Clothing,P8645,20,222.16,17%,3687.86,Delhi,Delhi
+3/17/2024,DM011,Electronics,P1663,48,282.81,15%,11538.65,Chandigarh,Punjab
+12/1/2024,DM004,Electronics,P8049,32,155.08,8%,4565.56,Chennai,Tamil Nadu
+12/20/2024,DM009,Stationery,P3157,3,40.73,0%,122.19,Jaipur,Rajasthan
+1/29/2024,DM009,Groceries,P7958,48,473.22,6%,21351.69,Jaipur,Rajasthan
+3/14/2024,DM007,Electronics,P1310,30,397.35,24%,9059.58,Ahmedabad,Gujarat
+7/8/2024,DM008,Stationery,P4931,28,283.99,12%,6997.51,Kolkata,West Bengal
+4/12/2024,DM006,Groceries,P7075,19,111.89,30%,1488.14,Delhi,Delhi
+3/16/2024,DM008,Stationery,P7563,15,231.17,6%,3259.5,Kolkata,West Bengal
+8/5/2024,DM020,Groceries,P1248,5,316.23,28%,1138.43,Panaji,Goa
+5/6/2024,DM020,Home & Kitchen,P9242,40,267.65,21%,8457.74,Panaji,Goa
+12/3/2024,DM003,Groceries,P3678,17,28.49,26%,358.4,Bangalore,Karnataka
+3/16/2024,DM019,Home & Kitchen,P8717,36,247.31,8%,8190.91,Ranchi,Jharkhand
+8/13/2024,DM015,Stationery,P7604,45,90.35,27%,2968,Guwahati,Assam
+9/18/2024,DM005,Stationery,P3910,38,179.45,23%,5250.71,Hyderabad,Telangana
+9/2/2024,DM003,Stationery,P3914,27,265.68,30%,5021.35,Bangalore,Karnataka
+3/9/2024,DM014,Groceries,P8031,48,138.33,9%,6042.25,Bhubaneswar,Odisha
+9/8/2024,DM009,Groceries,P1168,5,216.8,11%,964.76,Jaipur,Rajasthan
+5/20/2024,DM005,Clothing,P1390,35,410.5,0%,14367.5,Hyderabad,Telangana
+12/17/2024,DM014,Groceries,P3001,9,156.33,4%,1350.69,Bhubaneswar,Odisha
+6/10/2024,DM005,Groceries,P9078,12,51.9,12%,548.06,Hyderabad,Telangana
+9/4/2024,DM015,Electronics,P5121,37,88.85,20%,2629.96,Guwahati,Assam
+1/20/2024,DM003,Electronics,P8956,46,110.28,7%,4717.78,Bangalore,Karnataka
+8/3/2024,DM001,Electronics,P2585,32,487.91,30%,10929.18,Mumbai,Maharashtra
+4/10/2024,DM007,Stationery,P8738,39,459.84,13%,15602.37,Ahmedabad,Gujarat
+12/6/2024,DM018,Stationery,P8751,2,55.42,29%,78.7,Shimla,Himachal Pradesh
+8/5/2024,DM002,Home & Kitchen,P4639,39,76.55,26%,2209.23,Pune,Maharashtra
+5/21/2024,DM014,Groceries,P9880,7,58.72,30%,287.73,Bhubaneswar,Odisha
+4/15/2024,DM018,Clothing,P6282,22,26.78,0%,589.16,Shimla,Himachal Pradesh
+7/29/2024,DM007,Clothing,P8773,24,164.77,8%,3638.12,Ahmedabad,Gujarat
+11/4/2024,DM018,Clothing,P7469,16,306.06,3%,4750.05,Shimla,Himachal Pradesh
+2/24/2024,DM007,Home & Kitchen,P8839,32,220.9,26%,5230.91,Ahmedabad,Gujarat
+6/17/2024,DM008,Groceries,P9676,27,497.55,14%,11553.11,Kolkata,West Bengal
+6/25/2024,DM014,Clothing,P9277,1,343.09,28%,247.02,Bhubaneswar,Odisha
+11/5/2024,DM003,Stationery,P5362,43,257.18,19%,8957.58,Bangalore,Karnataka
+9/28/2024,DM019,Clothing,P7937,18,274.16,24%,3750.51,Ranchi,Jharkhand
+10/19/2024,DM008,Clothing,P7505,2,355.7,12%,626.03,Kolkata,West Bengal
+8/24/2024,DM004,Stationery,P4357,31,415.85,1%,12762.44,Chennai,Tamil Nadu
+12/6/2024,DM019,Stationery,P7734,31,382.51,19%,9604.83,Ranchi,Jharkhand
+9/23/2024,DM018,Groceries,P4557,18,39.53,26%,526.54,Shimla,Himachal Pradesh
+1/9/2024,DM019,Clothing,P2104,26,21.64,13%,489.5,Ranchi,Jharkhand
+10/29/2024,DM010,Clothing,P8430,4,352.27,1%,1394.99,Lucknow,Uttar Pradesh
+12/20/2024,DM015,Home & Kitchen,P8050,8,489.3,2%,3836.11,Guwahati,Assam
+8/17/2024,DM015,Home & Kitchen,P4972,48,117.4,7%,5240.74,Guwahati,Assam
+8/31/2024,DM009,Groceries,P5537,37,269.83,1%,9883.87,Jaipur,Rajasthan
+9/21/2024,DM008,Electronics,P5600,15,494.48,10%,6675.48,Kolkata,West Bengal
+6/27/2024,DM018,Clothing,P8017,25,104.61,6%,2458.34,Shimla,Himachal Pradesh
+4/10/2024,DM004,Electronics,P8667,39,16.81,10%,590.03,Chennai,Tamil Nadu
+8/25/2024,DM001,Groceries,P3325,1,438.69,10%,394.82,Mumbai,Maharashtra
+9/13/2024,DM013,Clothing,P5580,20,42.08,26%,622.78,Patna,Bihar
+5/1/2024,DM020,Clothing,P3453,49,386.64,1%,18755.91,Panaji,Goa
+3/2/2024,DM012,Electronics,P3824,38,247.21,3%,9112.16,Indore,Madhya Pradesh
+1/16/2024,DM016,Clothing,P6918,37,260.24,4%,9243.72,Thiruvananthapuram,Kerala
+4/3/2024,DM014,Home & Kitchen,P4873,11,104.95,27%,842.75,Bhubaneswar,Odisha
+5/12/2024,DM007,Groceries,P3626,27,131.93,0%,3562.11,Ahmedabad,Gujarat
+3/3/2024,DM001,Home & Kitchen,P7476,22,327.2,11%,6406.58,Mumbai,Maharashtra
+7/18/2024,DM007,Electronics,P4423,2,317.72,7%,590.96,Ahmedabad,Gujarat
+9/5/2024,DM003,Groceries,P7201,40,441.68,27%,12897.06,Bangalore,Karnataka
+5/5/2024,DM018,Electronics,P4422,46,332.74,1%,15152.98,Shimla,Himachal Pradesh
+11/5/2024,DM015,Home & Kitchen,P9865,22,257.62,7%,5270.91,Guwahati,Assam
+11/16/2024,DM008,Home & Kitchen,P3711,5,364.28,4%,1748.54,Kolkata,West Bengal
+4/30/2024,DM001,Home & Kitchen,P9076,30,153.68,2%,4518.19,Mumbai,Maharashtra
+1/10/2024,DM019,Electronics,P6432,22,272.39,8%,5513.17,Ranchi,Jharkhand
+6/3/2024,DM002,Home & Kitchen,P9010,37,397.49,22%,11471.56,Pune,Maharashtra
+3/8/2024,DM003,Clothing,P6233,22,215.22,12%,4166.66,Bangalore,Karnataka
+3/1/2024,DM017,Stationery,P7901,6,54.81,29%,233.49,Dehradun,Uttarakhand
+8/29/2024,DM006,Electronics,P9858,47,381.66,8%,16502.98,Delhi,Delhi
+2/6/2024,DM009,Electronics,P9981,47,481.62,23%,17429.83,Jaipur,Rajasthan
+3/25/2024,DM018,Stationery,P1939,15,85.93,22%,1005.38,Shimla,Himachal Pradesh
+2/18/2024,DM007,Electronics,P6932,22,302.27,8%,6117.94,Ahmedabad,Gujarat
+7/1/2024,DM016,Electronics,P5171,28,422.3,15%,10050.74,Thiruvananthapuram,Kerala
+3/10/2024,DM017,Groceries,P2907,39,81.23,12%,2787.81,Dehradun,Uttarakhand
+1/20/2024,DM012,Electronics,P1308,3,410.33,3%,1194.06,Indore,Madhya Pradesh
+11/8/2024,DM007,Groceries,P3406,35,428.58,13%,13050.26,Ahmedabad,Gujarat
+11/19/2024,DM015,Home & Kitchen,P1083,38,388.04,11%,13123.51,Guwahati,Assam
+6/29/2024,DM003,Stationery,P7980,31,407.94,11%,11255.06,Bangalore,Karnataka
+12/28/2024,DM012,Clothing,P5747,5,255.12,4%,1224.58,Indore,Madhya Pradesh
+7/20/2024,DM002,Groceries,P9079,12,34.26,19%,333.01,Pune,Maharashtra
+1/11/2024,DM014,Clothing,P3543,25,431.1,29%,7652.02,Bhubaneswar,Odisha
+3/30/2024,DM015,Groceries,P3097,6,129.15,18%,635.42,Guwahati,Assam
+2/14/2024,DM018,Electronics,P9781,33,267.03,28%,6344.63,Shimla,Himachal Pradesh
+7/22/2024,DM002,Stationery,P7246,17,476.99,20%,6487.06,Pune,Maharashtra
+1/12/2024,DM009,Stationery,P7466,12,374.47,27%,3280.36,Jaipur,Rajasthan
+11/22/2024,DM015,Groceries,P7777,28,47.15,9%,1201.38,Guwahati,Assam
+11/10/2024,DM004,Groceries,P8569,33,323.19,4%,10238.66,Chennai,Tamil Nadu
+1/31/2024,DM002,Home & Kitchen,P9027,47,314.07,2%,14466.06,Pune,Maharashtra
+11/23/2024,DM002,Clothing,P7693,48,25.8,16%,1040.26,Pune,Maharashtra
+10/14/2024,DM017,Stationery,P4222,13,188.51,11%,2181.06,Dehradun,Uttarakhand
+12/16/2024,DM012,Clothing,P9897,35,58.93,17%,1711.92,Indore,Madhya Pradesh
+7/29/2024,DM002,Home & Kitchen,P7646,48,190.7,30%,6407.52,Pune,Maharashtra
+2/24/2024,DM002,Home & Kitchen,P6412,4,424.34,5%,1612.49,Pune,Maharashtra
+3/28/2024,DM017,Stationery,P6732,28,139.51,5%,3710.97,Dehradun,Uttarakhand
+4/23/2024,DM002,Electronics,P3971,3,417.73,3%,1215.59,Pune,Maharashtra
+11/24/2024,DM018,Home & Kitchen,P5816,7,337.29,0%,2361.03,Shimla,Himachal Pradesh
+1/1/2024,DM016,Groceries,P5793,24,117.56,10%,2539.3,Thiruvananthapuram,Kerala
+7/17/2024,DM010,Home & Kitchen,P1133,8,162.47,12%,1143.79,Lucknow,Uttar Pradesh
+3/14/2024,DM002,Home & Kitchen,P3944,28,394.65,5%,10497.69,Pune,Maharashtra
+8/20/2024,DM006,Groceries,P9197,12,445.33,28%,3847.65,Delhi,Delhi
+4/23/2024,DM001,Clothing,P8009,27,100.22,2%,2651.82,Mumbai,Maharashtra
+2/12/2024,DM015,Stationery,P7946,37,322.14,14%,10250.49,Guwahati,Assam
+6/13/2024,DM003,Stationery,P1565,42,146.36,3%,5962.71,Bangalore,Karnataka
+3/29/2024,DM020,Stationery,P5260,14,40.04,27%,409.21,Panaji,Goa
+2/12/2024,DM016,Clothing,P1531,11,178.01,29%,1390.26,Thiruvananthapuram,Kerala
+5/29/2024,DM018,Home & Kitchen,P5064,14,274.73,15%,3269.29,Shimla,Himachal Pradesh
+12/13/2024,DM001,Stationery,P5001,16,191.36,9%,2786.2,Mumbai,Maharashtra
+2/26/2024,DM013,Stationery,P6559,11,318.05,19%,2833.83,Patna,Bihar
+2/15/2024,DM012,Home & Kitchen,P5847,21,482.15,5%,9618.89,Indore,Madhya Pradesh
+1/3/2024,DM017,Clothing,P8934,15,217.39,2%,3195.63,Dehradun,Uttarakhand
+9/14/2024,DM013,Stationery,P8973,49,473.22,13%,20173.37,Patna,Bihar
+6/6/2024,DM003,Home & Kitchen,P2437,18,220.82,13%,3458.04,Bangalore,Karnataka
+2/6/2024,DM007,Stationery,P1811,18,392.91,5%,6718.76,Ahmedabad,Gujarat
+9/11/2024,DM003,Stationery,P4257,33,19.2,6%,595.58,Bangalore,Karnataka
+3/27/2024,DM008,Stationery,P4013,25,92.79,8%,2134.17,Kolkata,West Bengal
+5/28/2024,DM001,Groceries,P8136,35,377.14,18%,10823.92,Mumbai,Maharashtra
+4/24/2024,DM018,Stationery,P1415,48,471.57,11%,20145.47,Shimla,Himachal Pradesh
+3/15/2024,DM011,Electronics,P2655,43,56.2,21%,1909.11,Chandigarh,Punjab
+9/26/2024,DM005,Groceries,P7477,26,279.92,29%,5167.32,Hyderabad,Telangana
+7/3/2024,DM005,Groceries,P9180,38,354.64,0%,13476.32,Hyderabad,Telangana
+3/22/2024,DM004,Clothing,P2552,3,345.19,10%,932.01,Chennai,Tamil Nadu
+4/2/2024,DM017,Groceries,P2804,19,270.67,10%,4628.46,Dehradun,Uttarakhand
+6/21/2024,DM004,Electronics,P9897,26,447.61,16%,9775.8,Chennai,Tamil Nadu
+6/26/2024,DM001,Stationery,P5542,16,435.3,16%,5850.43,Mumbai,Maharashtra
+7/24/2024,DM015,Stationery,P4254,10,88.6,13%,770.82,Guwahati,Assam
+2/28/2024,DM015,Stationery,P4926,26,422.36,19%,8894.9,Guwahati,Assam
+10/17/2024,DM005,Electronics,P8769,6,453.71,6%,2558.92,Hyderabad,Telangana
+1/21/2024,DM020,Clothing,P9317,22,351.16,5%,7339.24,Panaji,Goa
+7/17/2024,DM007,Home & Kitchen,P1139,23,310.49,3%,6927.03,Ahmedabad,Gujarat
+2/23/2024,DM009,Electronics,P8600,31,383.06,21%,9381.14,Jaipur,Rajasthan
+1/6/2024,DM014,Clothing,P2962,9,122.56,25%,827.28,Bhubaneswar,Odisha
+7/28/2024,DM007,Stationery,P4972,5,270.26,27%,986.45,Ahmedabad,Gujarat
+10/8/2024,DM019,Electronics,P5384,29,496.84,15%,12247.11,Ranchi,Jharkhand
+9/18/2024,DM018,Stationery,P9779,19,491.73,3%,9062.58,Shimla,Himachal Pradesh
+6/9/2024,DM013,Electronics,P4995,27,468.29,15%,10747.26,Patna,Bihar
+12/1/2024,DM009,Clothing,P1081,43,27.42,25%,884.3,Jaipur,Rajasthan
+2/17/2024,DM018,Groceries,P5307,7,176.78,15%,1051.84,Shimla,Himachal Pradesh
+3/25/2024,DM008,Home & Kitchen,P2669,11,399.2,27%,3205.58,Kolkata,West Bengal
+7/16/2024,DM012,Clothing,P4215,32,331.76,5%,10085.5,Indore,Madhya Pradesh
+8/21/2024,DM001,Electronics,P8818,4,313.02,1%,1239.56,Mumbai,Maharashtra
+5/24/2024,DM002,Groceries,P1784,5,332.48,14%,1429.66,Pune,Maharashtra
+1/31/2024,DM011,Home & Kitchen,P4984,16,232.75,24%,2830.24,Chandigarh,Punjab
+6/18/2024,DM012,Home & Kitchen,P7251,20,25.43,2%,498.43,Indore,Madhya Pradesh
+3/23/2024,DM015,Electronics,P6799,13,347.36,6%,4244.74,Guwahati,Assam
+7/4/2024,DM016,Clothing,P4149,35,295.04,28%,7435.01,Thiruvananthapuram,Kerala
+9/17/2024,DM011,Home & Kitchen,P5321,2,117.09,17%,194.37,Chandigarh,Punjab
+7/20/2024,DM020,Electronics,P5319,2,425.32,10%,765.58,Panaji,Goa
+6/8/2024,DM009,Groceries,P2109,18,242.62,27%,3188.03,Jaipur,Rajasthan
+11/26/2024,DM007,Electronics,P3787,18,349.89,28%,4534.57,Ahmedabad,Gujarat
+8/4/2024,DM003,Clothing,P5728,36,342.54,28%,8878.64,Bangalore,Karnataka
+3/19/2024,DM003,Stationery,P2453,41,335.64,11%,12247.5,Bangalore,Karnataka
+9/24/2024,DM013,Home & Kitchen,P5911,40,250.48,26%,7414.21,Patna,Bihar
+2/10/2024,DM003,Clothing,P9566,50,319.07,14%,13720.01,Bangalore,Karnataka
+5/6/2024,DM019,Home & Kitchen,P5039,6,357.68,23%,1652.48,Ranchi,Jharkhand
+4/9/2024,DM010,Clothing,P1750,29,208.29,3%,5859.2,Lucknow,Uttar Pradesh
+8/10/2024,DM002,Electronics,P8197,42,189.52,17%,6606.67,Pune,Maharashtra
+3/30/2024,DM014,Groceries,P8627,42,38.07,21%,1263.16,Bhubaneswar,Odisha
+8/11/2024,DM004,Electronics,P5496,27,192.45,17%,4312.8,Chennai,Tamil Nadu
+9/29/2024,DM007,Stationery,P6946,1,449.75,22%,350.81,Ahmedabad,Gujarat
+7/7/2024,DM012,Groceries,P8852,3,179.68,16%,452.79,Indore,Madhya Pradesh
+4/26/2024,DM018,Clothing,P2571,8,168.93,12%,1189.27,Shimla,Himachal Pradesh
+10/11/2024,DM009,Clothing,P6247,10,231.86,22%,1808.51,Jaipur,Rajasthan
+10/1/2024,DM013,Groceries,P8039,19,87.66,9%,1515.64,Patna,Bihar
+8/23/2024,DM018,Stationery,P5886,9,385.14,25%,2599.69,Shimla,Himachal Pradesh
+12/6/2024,DM008,Stationery,P3839,22,388.38,19%,6920.93,Kolkata,West Bengal
+10/18/2024,DM012,Groceries,P2011,49,81.5,19%,3234.74,Indore,Madhya Pradesh
+1/18/2024,DM011,Home & Kitchen,P5238,28,320.57,22%,7001.25,Chandigarh,Punjab
+10/19/2024,DM016,Clothing,P2476,4,460.86,3%,1788.14,Thiruvananthapuram,Kerala
+5/15/2024,DM007,Clothing,P8170,8,211.21,2%,1655.89,Ahmedabad,Gujarat
+6/18/2024,DM006,Clothing,P9690,22,365.53,14%,6915.83,Delhi,Delhi
+10/10/2024,DM018,Home & Kitchen,P8302,19,364.01,24%,5256.3,Shimla,Himachal Pradesh
+10/24/2024,DM005,Electronics,P6455,50,131.34,12%,5778.96,Hyderabad,Telangana
+10/14/2024,DM013,Groceries,P8859,28,298.4,16%,7018.37,Patna,Bihar
+6/22/2024,DM004,Stationery,P7117,26,483.76,5%,11948.87,Chennai,Tamil Nadu
+7/3/2024,DM015,Clothing,P6894,4,445.7,24%,1354.93,Guwahati,Assam
+12/17/2024,DM011,Groceries,P8808,9,428.97,4%,3706.3,Chandigarh,Punjab
+1/17/2024,DM003,Electronics,P7400,24,124.6,25%,2242.8,Bangalore,Karnataka
+5/8/2024,DM014,Clothing,P2029,33,201.08,4%,6370.21,Bhubaneswar,Odisha
+9/24/2024,DM004,Groceries,P6035,45,412.68,15%,15785.01,Chennai,Tamil Nadu
+5/30/2024,DM002,Electronics,P5291,16,252.31,10%,3633.26,Pune,Maharashtra
+9/4/2024,DM006,Home & Kitchen,P7819,35,257.64,27%,6582.7,Delhi,Delhi
+3/8/2024,DM001,Stationery,P3789,22,25.55,8%,517.13,Mumbai,Maharashtra
+11/16/2024,DM009,Clothing,P3697,25,333.16,14%,7162.94,Jaipur,Rajasthan
+9/25/2024,DM006,Home & Kitchen,P7343,44,417.98,17%,15264.63,Delhi,Delhi
+10/4/2024,DM012,Electronics,P9828,29,81.66,3%,2297.1,Indore,Madhya Pradesh
+3/17/2024,DM006,Stationery,P7775,30,22.07,27%,483.33,Delhi,Delhi
+9/26/2024,DM012,Stationery,P3525,16,123.9,19%,1605.74,Indore,Madhya Pradesh
+5/15/2024,DM008,Groceries,P1930,32,276.54,12%,7787.37,Kolkata,West Bengal
+1/30/2024,DM007,Groceries,P2212,23,271.57,19%,5059.35,Ahmedabad,Gujarat
+2/13/2024,DM001,Stationery,P7069,23,452.5,23%,8013.78,Mumbai,Maharashtra
+5/26/2024,DM013,Electronics,P9798,27,492,27%,9697.32,Patna,Bihar
+5/17/2024,DM020,Groceries,P3983,38,140.63,9%,4862.99,Panaji,Goa
+11/11/2024,DM013,Clothing,P9190,18,258.91,12%,4101.13,Patna,Bihar
+1/27/2024,DM016,Electronics,P5369,32,134.26,19%,3480.02,Thiruvananthapuram,Kerala
+8/15/2024,DM005,Clothing,P1632,34,48.31,4%,1576.84,Hyderabad,Telangana
+8/1/2024,DM012,Home & Kitchen,P1950,1,320.98,0%,320.98,Indore,Madhya Pradesh
+2/25/2024,DM002,Groceries,P9582,41,466.21,22%,14909.4,Pune,Maharashtra
+5/8/2024,DM007,Electronics,P1933,21,220.54,17%,3844.01,Ahmedabad,Gujarat
+1/18/2024,DM004,Groceries,P6865,38,391.63,12%,13096.11,Chennai,Tamil Nadu
+4/19/2024,DM006,Home & Kitchen,P9393,8,451.76,29%,2566,Delhi,Delhi
+5/28/2024,DM008,Groceries,P4507,4,210.6,11%,749.74,Kolkata,West Bengal
+7/8/2024,DM014,Clothing,P3256,38,164.12,10%,5612.9,Bhubaneswar,Odisha
+12/1/2024,DM020,Stationery,P7275,4,320.93,15%,1091.16,Panaji,Goa
+2/8/2024,DM008,Groceries,P5449,21,343,18%,5906.46,Kolkata,West Bengal
+11/27/2024,DM013,Home & Kitchen,P1307,2,330.42,1%,654.23,Patna,Bihar
+9/8/2024,DM018,Clothing,P4997,50,202.9,18%,8318.9,Shimla,Himachal Pradesh
+3/22/2024,DM015,Groceries,P7856,42,489.8,12%,18103.01,Guwahati,Assam
+7/22/2024,DM015,Groceries,P3643,42,250.98,19%,8538.34,Guwahati,Assam
+7/2/2024,DM002,Clothing,P3028,41,416.05,20%,13646.44,Pune,Maharashtra
+5/2/2024,DM016,Clothing,P3886,8,236.3,11%,1682.46,Thiruvananthapuram,Kerala
+5/6/2024,DM004,Clothing,P5846,10,193.42,12%,1702.1,Chennai,Tamil Nadu
+4/30/2024,DM011,Stationery,P5522,21,218.55,18%,3763.43,Chandigarh,Punjab
+3/8/2024,DM011,Stationery,P6674,40,49.63,28%,1429.34,Chandigarh,Punjab
+9/18/2024,DM005,Stationery,P4164,2,337.85,17%,560.83,Hyderabad,Telangana
+5/10/2024,DM014,Stationery,P4108,1,92.54,15%,78.66,Bhubaneswar,Odisha
+1/28/2024,DM020,Electronics,P7424,12,428.57,10%,4628.56,Panaji,Goa
+1/17/2024,DM018,Home & Kitchen,P4245,16,188.11,14%,2588.39,Shimla,Himachal Pradesh
+7/28/2024,DM019,Electronics,P9815,47,63.92,12%,2643.73,Ranchi,Jharkhand
+6/22/2024,DM001,Clothing,P9800,17,384.58,11%,5818.7,Mumbai,Maharashtra
+6/26/2024,DM012,Clothing,P2683,19,97.63,13%,1613.82,Indore,Madhya Pradesh
+6/29/2024,DM013,Stationery,P8899,39,485.92,7%,17624.32,Patna,Bihar
+11/24/2024,DM012,Home & Kitchen,P5661,31,212.67,2%,6460.91,Indore,Madhya Pradesh
+5/13/2024,DM006,Groceries,P8966,8,14.61,6%,109.87,Delhi,Delhi
+10/20/2024,DM012,Groceries,P7812,15,486.89,4%,7011.22,Indore,Madhya Pradesh
+1/29/2024,DM006,Home & Kitchen,P2152,8,488.06,3%,3787.35,Delhi,Delhi
+12/11/2024,DM001,Clothing,P1423,29,469.63,26%,10078.26,Mumbai,Maharashtra
+6/24/2024,DM017,Stationery,P6281,29,407.2,22%,9210.86,Dehradun,Uttarakhand
+12/12/2024,DM019,Home & Kitchen,P3666,27,22.84,14%,530.34,Ranchi,Jharkhand
+11/22/2024,DM019,Electronics,P1710,39,424.38,12%,14564.72,Ranchi,Jharkhand
+4/12/2024,DM015,Groceries,P1716,6,386.92,28%,1671.49,Guwahati,Assam
+7/8/2024,DM013,Electronics,P8884,18,386.35,25%,5215.73,Patna,Bihar
+3/24/2024,DM001,Clothing,P7515,15,345.16,16%,4349.02,Mumbai,Maharashtra
+2/23/2024,DM015,Electronics,P3559,1,397.56,25%,298.17,Guwahati,Assam
+5/12/2024,DM006,Stationery,P4050,42,354.02,7%,13828.02,Delhi,Delhi
+8/7/2024,DM003,Electronics,P4250,23,239.35,11%,4899.49,Bangalore,Karnataka
+1/28/2024,DM011,Home & Kitchen,P3436,37,204.32,14%,6501.46,Chandigarh,Punjab
+7/21/2024,DM013,Home & Kitchen,P3335,35,217.26,6%,7147.85,Patna,Bihar
+10/11/2024,DM012,Groceries,P5033,21,298.2,1%,6199.58,Indore,Madhya Pradesh
+5/6/2024,DM009,Home & Kitchen,P9443,8,416.35,12%,2931.1,Jaipur,Rajasthan
+7/2/2024,DM004,Stationery,P6822,11,313.16,5%,3272.52,Chennai,Tamil Nadu
+1/18/2024,DM010,Electronics,P2623,4,191.98,8%,706.49,Lucknow,Uttar Pradesh
+1/10/2024,DM010,Clothing,P6091,48,131.06,17%,5221.43,Lucknow,Uttar Pradesh
+9/3/2024,DM001,Stationery,P2273,17,313.02,17%,4416.71,Mumbai,Maharashtra
+3/2/2024,DM011,Home & Kitchen,P2335,25,438.21,14%,9421.51,Chandigarh,Punjab
+1/15/2024,DM008,Home & Kitchen,P1693,22,44.78,6%,926.05,Kolkata,West Bengal
+10/10/2024,DM004,Stationery,P6244,11,113.9,14%,1077.49,Chennai,Tamil Nadu
+9/5/2024,DM013,Groceries,P8708,33,249.59,16%,6918.63,Patna,Bihar
+5/30/2024,DM019,Clothing,P2592,6,422.86,3%,2461.05,Ranchi,Jharkhand
+11/9/2024,DM014,Groceries,P9581,2,32.32,25%,48.48,Bhubaneswar,Odisha
+3/21/2024,DM002,Groceries,P7268,24,333.39,8%,7361.25,Pune,Maharashtra
+6/23/2024,DM018,Stationery,P6984,2,371.22,4%,712.74,Shimla,Himachal Pradesh
+11/5/2024,DM012,Groceries,P4254,42,26.61,21%,882.92,Indore,Madhya Pradesh
+11/11/2024,DM002,Stationery,P4630,6,325.29,25%,1463.81,Pune,Maharashtra
+9/30/2024,DM009,Stationery,P7573,26,270.97,17%,5847.53,Jaipur,Rajasthan
+7/7/2024,DM007,Stationery,P5677,15,137.1,29%,1460.12,Ahmedabad,Gujarat
+7/27/2024,DM003,Home & Kitchen,P9217,25,480.58,3%,11654.07,Bangalore,Karnataka
+4/7/2024,DM011,Groceries,P8446,13,300.87,15%,3324.61,Chandigarh,Punjab
+8/2/2024,DM011,Stationery,P5691,2,448.75,27%,655.17,Chandigarh,Punjab
+4/27/2024,DM001,Home & Kitchen,P9268,49,143.66,0%,7039.34,Mumbai,Maharashtra
+12/18/2024,DM020,Groceries,P6894,44,165.16,26%,5377.61,Panaji,Goa
+11/14/2024,DM003,Groceries,P5537,44,110.47,18%,3985.76,Bangalore,Karnataka
+2/3/2024,DM005,Groceries,P6609,12,107.13,23%,989.88,Hyderabad,Telangana
+2/7/2024,DM009,Home & Kitchen,P8654,15,278.17,16%,3504.94,Jaipur,Rajasthan
+10/28/2024,DM002,Clothing,P7545,4,435.96,2%,1708.96,Pune,Maharashtra
+4/6/2024,DM012,Groceries,P6740,40,316.73,10%,11402.28,Indore,Madhya Pradesh
+7/17/2024,DM004,Groceries,P6963,43,33.45,26%,1064.38,Chennai,Tamil Nadu
+7/10/2024,DM019,Home & Kitchen,P4892,42,337.75,1%,14043.65,Ranchi,Jharkhand
+5/18/2024,DM016,Clothing,P3688,44,418.88,29%,13085.81,Thiruvananthapuram,Kerala
+1/19/2024,DM019,Stationery,P9894,45,226.47,28%,7337.63,Ranchi,Jharkhand
+12/19/2024,DM017,Groceries,P5347,37,376.69,23%,10731.9,Dehradun,Uttarakhand
+7/29/2024,DM001,Stationery,P4409,32,37.38,6%,1124.39,Mumbai,Maharashtra
+2/21/2024,DM010,Stationery,P9080,17,159.11,1%,2677.82,Lucknow,Uttar Pradesh
+7/19/2024,DM004,Stationery,P6858,8,61,2%,478.24,Chennai,Tamil Nadu
+8/22/2024,DM020,Stationery,P2399,30,231.25,26%,5133.75,Panaji,Goa
+4/26/2024,DM009,Home & Kitchen,P5203,36,84.61,18%,2497.69,Jaipur,Rajasthan
+5/10/2024,DM008,Clothing,P8064,25,109.81,18%,2251.11,Kolkata,West Bengal
+2/14/2024,DM006,Stationery,P6526,12,239.08,4%,2754.2,Delhi,Delhi
+10/14/2024,DM013,Home & Kitchen,P4954,37,356.74,28%,9503.55,Patna,Bihar
+8/1/2024,DM014,Electronics,P1712,38,265.76,1%,9997.89,Bhubaneswar,Odisha
+5/18/2024,DM005,Home & Kitchen,P1471,48,62.72,25%,2257.92,Hyderabad,Telangana
+5/13/2024,DM006,Home & Kitchen,P5714,35,116.4,8%,3748.08,Delhi,Delhi
+7/15/2024,DM019,Electronics,P5085,39,335.07,17%,10846.22,Ranchi,Jharkhand
+11/28/2024,DM004,Clothing,P2408,20,60.36,22%,941.62,Chennai,Tamil Nadu
+4/7/2024,DM006,Stationery,P2880,12,453.94,3%,5283.86,Delhi,Delhi
+1/29/2024,DM010,Clothing,P9128,13,474.65,22%,4812.95,Lucknow,Uttar Pradesh
+7/31/2024,DM009,Clothing,P6300,39,452.73,21%,13948.61,Jaipur,Rajasthan
+5/27/2024,DM001,Electronics,P7016,12,141.87,22%,1327.9,Mumbai,Maharashtra
+4/3/2024,DM019,Electronics,P6023,44,224.51,1%,9779.66,Ranchi,Jharkhand
+5/1/2024,DM013,Electronics,P7620,7,238.81,9%,1521.22,Patna,Bihar
+11/16/2024,DM016,Groceries,P3635,25,120.82,6%,2839.27,Thiruvananthapuram,Kerala
+5/15/2024,DM019,Clothing,P3523,31,188.12,12%,5131.91,Ranchi,Jharkhand
+2/5/2024,DM005,Electronics,P1704,1,23.81,5%,22.62,Hyderabad,Telangana
+4/7/2024,DM004,Stationery,P8015,23,265.44,28%,4395.69,Chennai,Tamil Nadu
+6/18/2024,DM001,Home & Kitchen,P8632,7,70.4,11%,438.59,Mumbai,Maharashtra
+5/28/2024,DM009,Home & Kitchen,P4702,31,272.73,13%,7355.53,Jaipur,Rajasthan
+4/21/2024,DM009,Home & Kitchen,P6329,17,356.08,8%,5569.09,Jaipur,Rajasthan
+9/17/2024,DM008,Stationery,P1560,17,36.57,24%,472.48,Kolkata,West Bengal
+11/1/2024,DM016,Stationery,P9656,38,105.81,26%,2975.38,Thiruvananthapuram,Kerala
+10/14/2024,DM003,Groceries,P6524,21,491.1,16%,8663,Bangalore,Karnataka
+6/4/2024,DM019,Groceries,P2249,3,80.19,21%,190.05,Ranchi,Jharkhand
+10/25/2024,DM014,Clothing,P7853,37,337.32,0%,12480.84,Bhubaneswar,Odisha
+11/3/2024,DM020,Groceries,P5953,5,370.27,13%,1610.67,Panaji,Goa
+10/2/2024,DM012,Stationery,P3592,10,259.03,23%,1994.53,Indore,Madhya Pradesh
+7/16/2024,DM016,Home & Kitchen,P9009,23,234.1,10%,4845.87,Thiruvananthapuram,Kerala
+3/26/2024,DM006,Clothing,P4900,6,429.06,4%,2471.39,Delhi,Delhi
+11/25/2024,DM004,Stationery,P5128,5,186.34,16%,782.63,Chennai,Tamil Nadu
+12/12/2024,DM015,Groceries,P6431,34,129.44,21%,3476.76,Guwahati,Assam
+4/21/2024,DM011,Stationery,P7043,23,410.96,19%,7656.18,Chandigarh,Punjab
+2/1/2024,DM002,Stationery,P5449,1,481.93,13%,419.28,Pune,Maharashtra
+7/14/2024,DM006,Stationery,P5968,32,338.12,4%,10387.05,Delhi,Delhi
+10/24/2024,DM002,Home & Kitchen,P3618,20,348.7,0%,6974,Pune,Maharashtra
+3/7/2024,DM006,Stationery,P8806,3,21.33,23%,49.27,Delhi,Delhi
+7/27/2024,DM008,Electronics,P9711,9,362.07,15%,2769.84,Kolkata,West Bengal
+3/3/2024,DM016,Electronics,P2093,35,356.22,23%,9600.13,Thiruvananthapuram,Kerala
+3/3/2024,DM007,Groceries,P6869,42,304.15,12%,11241.38,Ahmedabad,Gujarat
+7/28/2024,DM006,Groceries,P5286,41,206.11,16%,7098.43,Delhi,Delhi
+8/29/2024,DM002,Clothing,P4319,50,435.51,27%,15896.11,Pune,Maharashtra
+12/9/2024,DM020,Stationery,P3763,49,490.33,13%,20902.77,Panaji,Goa
+2/2/2024,DM018,Home & Kitchen,P3136,3,327.06,13%,853.63,Shimla,Himachal Pradesh
+3/14/2024,DM011,Clothing,P3543,50,411.53,3%,19959.2,Chandigarh,Punjab
+7/25/2024,DM015,Electronics,P1570,33,466.46,12%,13546,Guwahati,Assam
+1/28/2024,DM012,Groceries,P5113,18,150.44,24%,2058.02,Indore,Madhya Pradesh
+10/9/2024,DM019,Home & Kitchen,P3395,40,204.55,23%,6300.14,Ranchi,Jharkhand
+3/2/2024,DM013,Clothing,P9837,49,317.73,2%,15257.39,Patna,Bihar
+1/31/2024,DM018,Stationery,P9233,14,81.87,29%,813.79,Shimla,Himachal Pradesh
+9/27/2024,DM015,Home & Kitchen,P2448,39,105.17,11%,3650.45,Guwahati,Assam
+8/13/2024,DM004,Groceries,P4320,23,235.61,23%,4172.65,Chennai,Tamil Nadu
+1/25/2024,DM014,Clothing,P7959,13,391.08,22%,3965.55,Bhubaneswar,Odisha
+1/5/2024,DM009,Groceries,P9127,40,153.87,15%,5231.58,Jaipur,Rajasthan
+4/13/2024,DM003,Home & Kitchen,P7872,42,148.22,25%,4668.93,Bangalore,Karnataka
+3/12/2024,DM019,Clothing,P5853,37,101.92,2%,3695.62,Ranchi,Jharkhand
+2/4/2024,DM018,Clothing,P2617,37,437.31,18%,13267.99,Shimla,Himachal Pradesh
+6/27/2024,DM013,Home & Kitchen,P8716,42,466.53,22%,15283.52,Patna,Bihar
+11/27/2024,DM019,Groceries,P9188,34,105.07,9%,3250.87,Ranchi,Jharkhand
+5/19/2024,DM014,Groceries,P6174,35,115.47,13%,3516.06,Bhubaneswar,Odisha
+11/17/2024,DM006,Groceries,P6057,22,135.82,0%,2988.04,Delhi,Delhi
+3/27/2024,DM015,Groceries,P4562,45,349.91,4%,15116.11,Guwahati,Assam
+4/13/2024,DM006,Clothing,P3060,27,453.87,10%,11029.04,Delhi,Delhi
+6/24/2024,DM015,Electronics,P9278,19,416.41,19%,6408.55,Guwahati,Assam
+9/23/2024,DM013,Electronics,P2676,43,387.59,6%,15666.39,Patna,Bihar
+3/27/2024,DM006,Home & Kitchen,P6891,2,25.35,7%,47.15,Delhi,Delhi
+10/27/2024,DM006,Electronics,P8455,19,208.74,2%,3886.74,Delhi,Delhi
+4/22/2024,DM001,Groceries,P7894,50,473.28,23%,18221.28,Mumbai,Maharashtra
+2/21/2024,DM003,Stationery,P8853,33,386.11,30%,8919.14,Bangalore,Karnataka
+11/6/2024,DM001,Clothing,P5718,50,384.57,10%,17305.65,Mumbai,Maharashtra
+7/15/2024,DM010,Electronics,P9237,22,120.85,6%,2499.18,Lucknow,Uttar Pradesh
+5/2/2024,DM013,Clothing,P9904,34,497.47,21%,13362.04,Patna,Bihar
+4/11/2024,DM001,Home & Kitchen,P1391,1,413.6,17%,343.29,Mumbai,Maharashtra
+12/27/2024,DM003,Electronics,P1911,39,74.87,16%,2452.74,Bangalore,Karnataka
+6/12/2024,DM019,Electronics,P1868,25,327.37,12%,7202.14,Ranchi,Jharkhand
+12/27/2024,DM005,Home & Kitchen,P3615,43,310.71,4%,12826.11,Hyderabad,Telangana
+2/6/2024,DM011,Stationery,P5363,5,440.6,30%,1542.1,Chandigarh,Punjab
+11/21/2024,DM004,Groceries,P5946,22,299.25,25%,4937.62,Chennai,Tamil Nadu
+3/8/2024,DM015,Groceries,P5112,32,426.66,17%,11332.09,Guwahati,Assam
+7/25/2024,DM008,Home & Kitchen,P3716,38,107.55,20%,3269.52,Kolkata,West Bengal
+10/3/2024,DM006,Groceries,P5864,39,33.32,2%,1273.49,Delhi,Delhi
+1/22/2024,DM012,Electronics,P2240,47,139.28,27%,4778.7,Indore,Madhya Pradesh
+8/27/2024,DM008,Electronics,P2158,24,17.57,10%,379.51,Kolkata,West Bengal
+6/17/2024,DM010,Clothing,P7277,43,300,7%,11997,Lucknow,Uttar Pradesh
+5/29/2024,DM008,Home & Kitchen,P9686,18,92.03,20%,1325.23,Kolkata,West Bengal
+12/11/2024,DM015,Clothing,P1274,34,133.05,13%,3935.62,Guwahati,Assam
+3/9/2024,DM020,Clothing,P8728,50,301.16,21%,11895.82,Panaji,Goa
+3/15/2024,DM007,Clothing,P7187,15,205.7,14%,2653.53,Ahmedabad,Gujarat
+10/26/2024,DM003,Electronics,P2607,41,221.71,12%,7999.3,Bangalore,Karnataka
+1/25/2024,DM012,Groceries,P8754,38,442.51,4%,16142.76,Indore,Madhya Pradesh
+10/18/2024,DM003,Stationery,P2164,50,64.41,21%,2544.2,Bangalore,Karnataka
+6/11/2024,DM019,Home & Kitchen,P1326,20,205.79,0%,4115.8,Ranchi,Jharkhand
+7/19/2024,DM006,Stationery,P9798,49,118.54,10%,5227.61,Delhi,Delhi
+7/21/2024,DM018,Groceries,P7504,35,28.54,19%,809.11,Shimla,Himachal Pradesh
+11/22/2024,DM014,Groceries,P7289,11,307.58,14%,2909.71,Bhubaneswar,Odisha
+4/24/2024,DM008,Clothing,P5449,11,461.55,8%,4670.89,Kolkata,West Bengal
+10/26/2024,DM016,Stationery,P1662,46,497.51,28%,16477.53,Thiruvananthapuram,Kerala
+12/3/2024,DM003,Stationery,P9609,41,385.51,2%,15489.79,Bangalore,Karnataka
+12/28/2024,DM015,Electronics,P5885,41,424.83,19%,14108.6,Guwahati,Assam
+6/11/2024,DM019,Home & Kitchen,P2490,2,444.45,10%,800.01,Ranchi,Jharkhand
+9/19/2024,DM010,Stationery,P4200,1,190.5,1%,188.59,Lucknow,Uttar Pradesh
+12/2/2024,DM001,Stationery,P5175,35,359.35,26%,9307.16,Mumbai,Maharashtra
+10/6/2024,DM020,Electronics,P6616,17,166.54,25%,2123.38,Panaji,Goa
+8/26/2024,DM017,Clothing,P2504,38,72.38,12%,2420.39,Dehradun,Uttarakhand
+7/15/2024,DM012,Stationery,P8621,1,286.14,1%,283.28,Indore,Madhya Pradesh
+2/1/2024,DM019,Groceries,P1718,18,472.98,29%,6044.68,Ranchi,Jharkhand
+3/25/2024,DM007,Home & Kitchen,P7566,4,397.31,12%,1398.53,Ahmedabad,Gujarat
+11/8/2024,DM017,Electronics,P9357,41,26.78,22%,856.42,Dehradun,Uttarakhand
+1/8/2024,DM016,Stationery,P8360,31,38.71,10%,1080.01,Thiruvananthapuram,Kerala
+2/15/2024,DM013,Electronics,P4178,8,116.52,6%,876.23,Patna,Bihar
+2/26/2024,DM016,Clothing,P5908,3,210.9,3%,613.72,Thiruvananthapuram,Kerala
+3/8/2024,DM014,Stationery,P5215,49,489.4,24%,18225.26,Bhubaneswar,Odisha
+6/1/2024,DM004,Groceries,P1974,29,277.16,25%,6028.23,Chennai,Tamil Nadu
+9/17/2024,DM009,Groceries,P4602,38,116.74,22%,3460.17,Jaipur,Rajasthan
+3/7/2024,DM007,Groceries,P7290,5,105.27,6%,494.77,Ahmedabad,Gujarat
+6/9/2024,DM009,Clothing,P5251,40,223.18,4%,8570.11,Jaipur,Rajasthan
+8/26/2024,DM006,Home & Kitchen,P5229,14,103.06,21%,1139.84,Delhi,Delhi
+10/7/2024,DM010,Clothing,P5564,16,89.94,15%,1223.18,Lucknow,Uttar Pradesh
+2/4/2024,DM016,Stationery,P9401,37,403.48,2%,14630.18,Thiruvananthapuram,Kerala
+1/12/2024,DM006,Stationery,P6382,18,458.98,11%,7352.86,Delhi,Delhi
+3/11/2024,DM015,Home & Kitchen,P3457,16,157.14,9%,2287.96,Guwahati,Assam
+1/18/2024,DM017,Groceries,P9912,45,391.51,19%,14270.54,Dehradun,Uttarakhand
+6/10/2024,DM013,Clothing,P4744,41,412.98,25%,12699.14,Patna,Bihar
+4/3/2024,DM007,Home & Kitchen,P8524,13,150.97,17%,1628.97,Ahmedabad,Gujarat
+5/24/2024,DM008,Groceries,P5507,31,113.38,13%,3057.86,Kolkata,West Bengal
+2/20/2024,DM017,Clothing,P2816,2,260.2,0%,520.4,Dehradun,Uttarakhand
+3/1/2024,DM013,Clothing,P8611,34,403.3,16%,11518.25,Patna,Bihar
+9/22/2024,DM013,Electronics,P3122,27,212.19,15%,4869.76,Patna,Bihar
+10/18/2024,DM018,Home & Kitchen,P9707,49,74.51,12%,3212.87,Shimla,Himachal Pradesh
+9/6/2024,DM016,Home & Kitchen,P6003,43,289.48,1%,12323.16,Thiruvananthapuram,Kerala
+6/15/2024,DM009,Stationery,P8871,23,143.57,11%,2938.88,Jaipur,Rajasthan
+5/27/2024,DM005,Groceries,P8124,8,450.71,8%,3317.23,Hyderabad,Telangana
+8/11/2024,DM016,Home & Kitchen,P8213,5,481.53,7%,2239.11,Thiruvananthapuram,Kerala
+9/23/2024,DM019,Clothing,P1374,44,486.39,29%,15194.82,Ranchi,Jharkhand
+4/21/2024,DM011,Groceries,P6071,2,289.57,8%,532.81,Chandigarh,Punjab
+9/10/2024,DM017,Clothing,P5751,46,205.57,10%,8510.6,Dehradun,Uttarakhand
+4/7/2024,DM016,Electronics,P5020,16,206.29,15%,2805.54,Thiruvananthapuram,Kerala
+4/23/2024,DM006,Electronics,P5858,5,91.36,7%,424.82,Delhi,Delhi
+2/23/2024,DM016,Stationery,P7951,42,303.3,14%,10955.2,Thiruvananthapuram,Kerala
+2/9/2024,DM001,Clothing,P5717,38,406.62,29%,10970.61,Mumbai,Maharashtra
+12/12/2024,DM018,Groceries,P3607,28,492.03,19%,11159.24,Shimla,Himachal Pradesh
+8/15/2024,DM013,Home & Kitchen,P9143,2,55.28,14%,95.08,Patna,Bihar
+9/12/2024,DM001,Groceries,P7150,33,159.39,10%,4733.88,Mumbai,Maharashtra
+2/12/2024,DM001,Clothing,P1713,15,115.09,27%,1260.24,Mumbai,Maharashtra
+11/11/2024,DM015,Electronics,P4886,7,400.78,27%,2047.99,Guwahati,Assam
+5/25/2024,DM016,Electronics,P3365,43,16.41,17%,585.67,Thiruvananthapuram,Kerala
+4/13/2024,DM018,Home & Kitchen,P3363,7,280.41,4%,1884.36,Shimla,Himachal Pradesh
+10/31/2024,DM010,Groceries,P8936,46,498.52,22%,17886.9,Lucknow,Uttar Pradesh
+2/2/2024,DM003,Home & Kitchen,P7988,47,400.89,12%,16580.81,Bangalore,Karnataka
+7/31/2024,DM010,Stationery,P3228,46,287.45,14%,11371.52,Lucknow,Uttar Pradesh
+4/10/2024,DM002,Clothing,P8525,32,29.99,7%,892.5,Pune,Maharashtra
+9/16/2024,DM012,Clothing,P8522,37,449.27,6%,15625.61,Indore,Madhya Pradesh
+11/29/2024,DM014,Electronics,P7975,4,155.02,13%,539.47,Bhubaneswar,Odisha
+8/5/2024,DM004,Groceries,P8079,15,277.54,25%,3122.33,Chennai,Tamil Nadu
+5/15/2024,DM007,Stationery,P2669,30,141.64,23%,3271.88,Ahmedabad,Gujarat
+12/6/2024,DM004,Electronics,P6114,34,96.87,22%,2568.99,Chennai,Tamil Nadu
+3/26/2024,DM001,Groceries,P4085,3,415.54,6%,1171.82,Mumbai,Maharashtra
+2/5/2024,DM014,Clothing,P5412,22,118.47,0%,2606.34,Bhubaneswar,Odisha
+1/5/2024,DM010,Electronics,P8901,44,42.46,8%,1718.78,Lucknow,Uttar Pradesh
+12/24/2024,DM010,Stationery,P4600,12,464.91,27%,4072.61,Lucknow,Uttar Pradesh
+11/29/2024,DM016,Groceries,P9733,5,446.42,16%,1874.96,Thiruvananthapuram,Kerala
+11/9/2024,DM006,Electronics,P7066,50,97.83,9%,4451.27,Delhi,Delhi
+8/1/2024,DM016,Electronics,P3695,23,493.81,9%,10335.44,Thiruvananthapuram,Kerala
+2/28/2024,DM006,Electronics,P7554,38,418.65,12%,13999.66,Delhi,Delhi
+12/17/2024,DM012,Electronics,P4381,35,277.17,6%,9118.89,Indore,Madhya Pradesh
+5/27/2024,DM003,Clothing,P8966,36,252.17,27%,6627.03,Bangalore,Karnataka
+8/16/2024,DM009,Electronics,P2513,31,443.67,26%,10177.79,Jaipur,Rajasthan
+2/12/2024,DM007,Groceries,P1384,36,248.93,22%,6989.95,Ahmedabad,Gujarat
+7/1/2024,DM008,Electronics,P7645,26,226.21,29%,4175.84,Kolkata,West Bengal
+3/8/2024,DM019,Groceries,P3754,32,412.84,8%,12154.01,Ranchi,Jharkhand
+4/23/2024,DM017,Stationery,P7084,16,17.69,30%,198.13,Dehradun,Uttarakhand
+12/6/2024,DM005,Clothing,P6384,47,358.59,10%,15168.36,Hyderabad,Telangana
+12/16/2024,DM019,Groceries,P5221,12,395.01,20%,3792.1,Ranchi,Jharkhand
+10/28/2024,DM007,Clothing,P2169,41,71.54,8%,2698.49,Ahmedabad,Gujarat
+3/22/2024,DM007,Electronics,P2471,8,18.72,8%,137.78,Ahmedabad,Gujarat
+12/3/2024,DM018,Home & Kitchen,P7190,12,190.42,20%,1828.03,Shimla,Himachal Pradesh
+11/23/2024,DM001,Electronics,P8695,3,406.56,29%,865.97,Mumbai,Maharashtra
+3/15/2024,DM015,Home & Kitchen,P8589,41,76.74,5%,2989.02,Guwahati,Assam
+10/22/2024,DM003,Groceries,P2512,32,73.36,30%,1643.26,Bangalore,Karnataka
+6/24/2024,DM017,Stationery,P6290,8,482.47,13%,3357.99,Dehradun,Uttarakhand
+12/22/2024,DM016,Home & Kitchen,P3149,47,441.59,14%,17849.07,Thiruvananthapuram,Kerala
+1/28/2024,DM008,Clothing,P3915,39,375.16,5%,13899.68,Kolkata,West Bengal
+5/3/2024,DM012,Home & Kitchen,P2479,24,412.09,29%,7022.01,Indore,Madhya Pradesh
+4/28/2024,DM015,Clothing,P2046,47,303.03,3%,13815.14,Guwahati,Assam
+12/10/2024,DM004,Stationery,P6158,35,359.98,7%,11717.35,Chennai,Tamil Nadu
+6/4/2024,DM004,Clothing,P4792,31,151.71,4%,4514.89,Chennai,Tamil Nadu
+3/7/2024,DM001,Stationery,P9536,3,70.82,10%,191.21,Mumbai,Maharashtra
+8/20/2024,DM008,Home & Kitchen,P1084,48,499.84,12%,21113.24,Kolkata,West Bengal
+5/5/2024,DM004,Stationery,P3807,3,473.55,1%,1406.44,Chennai,Tamil Nadu
+8/3/2024,DM015,Home & Kitchen,P6609,6,165.51,3%,963.27,Guwahati,Assam
+4/10/2024,DM012,Electronics,P1778,13,136.91,6%,1673.04,Indore,Madhya Pradesh
+10/23/2024,DM014,Home & Kitchen,P9086,44,477.83,24%,15978.64,Bhubaneswar,Odisha
+10/29/2024,DM009,Electronics,P1949,10,65.54,3%,635.74,Jaipur,Rajasthan
+11/11/2024,DM010,Stationery,P5027,44,203.02,5%,8486.24,Lucknow,Uttar Pradesh
+10/8/2024,DM015,Groceries,P4776,43,133.67,28%,4138.42,Guwahati,Assam
+11/13/2024,DM017,Clothing,P5120,32,217.4,12%,6121.98,Dehradun,Uttarakhand
+7/26/2024,DM012,Groceries,P9742,19,203.35,21%,3052.28,Indore,Madhya Pradesh
+9/23/2024,DM019,Groceries,P7694,36,283.67,5%,9701.51,Ranchi,Jharkhand
+12/31/2024,DM007,Stationery,P6048,44,185.26,23%,6276.61,Ahmedabad,Gujarat
+4/12/2024,DM019,Groceries,P9408,15,384.61,26%,4269.17,Ranchi,Jharkhand
+1/30/2024,DM012,Electronics,P7700,50,286.52,27%,10457.98,Indore,Madhya Pradesh
+8/29/2024,DM001,Home & Kitchen,P6835,50,299.58,4%,14379.84,Mumbai,Maharashtra
+4/12/2024,DM003,Stationery,P3136,21,493.9,3%,10060.74,Bangalore,Karnataka
+8/17/2024,DM014,Home & Kitchen,P3901,20,486.54,21%,7687.33,Bhubaneswar,Odisha
+3/30/2024,DM005,Clothing,P9219,8,67.46,2%,528.89,Hyderabad,Telangana
+5/10/2024,DM012,Electronics,P8160,50,253.91,24%,9648.58,Indore,Madhya Pradesh
+12/20/2024,DM017,Electronics,P6194,38,394.16,17%,12431.81,Dehradun,Uttarakhand
+6/18/2024,DM020,Stationery,P9848,8,399.85,5%,3038.86,Panaji,Goa
+11/21/2024,DM007,Clothing,P6333,33,395.81,29%,9273.83,Ahmedabad,Gujarat
+11/18/2024,DM010,Home & Kitchen,P9539,48,190.41,7%,8499.9,Lucknow,Uttar Pradesh
+11/24/2024,DM013,Home & Kitchen,P8071,7,129.49,4%,870.17,Patna,Bihar
+7/17/2024,DM012,Electronics,P5382,29,318.19,3%,8950.68,Indore,Madhya Pradesh
+9/29/2024,DM004,Stationery,P6381,32,419,15%,11396.8,Chennai,Tamil Nadu
+9/25/2024,DM004,Clothing,P5374,20,228.21,4%,4381.63,Chennai,Tamil Nadu
+11/29/2024,DM002,Home & Kitchen,P9238,22,42.19,7%,863.21,Pune,Maharashtra
+1/2/2024,DM009,Clothing,P1728,36,217.94,23%,6041.3,Jaipur,Rajasthan
+10/14/2024,DM008,Groceries,P9351,7,439.42,3%,2983.66,Kolkata,West Bengal
+10/25/2024,DM011,Stationery,P4826,28,79.74,12%,1964.79,Chandigarh,Punjab
+4/5/2024,DM001,Clothing,P6223,29,210.11,27%,4448.03,Mumbai,Maharashtra
+6/3/2024,DM015,Home & Kitchen,P3083,32,240.76,6%,7242.06,Guwahati,Assam
+12/27/2024,DM013,Groceries,P2477,24,87.05,22%,1629.58,Patna,Bihar
+4/1/2024,DM019,Stationery,P6660,2,135.63,18%,222.43,Ranchi,Jharkhand
+10/11/2024,DM020,Groceries,P8407,47,91.28,27%,3131.82,Panaji,Goa
+11/20/2024,DM018,Stationery,P1770,32,410.33,22%,10241.84,Shimla,Himachal Pradesh
+3/3/2024,DM009,Home & Kitchen,P2562,6,173.49,18%,853.57,Jaipur,Rajasthan
+4/5/2024,DM016,Electronics,P2725,30,244.48,19%,5940.86,Thiruvananthapuram,Kerala
+6/1/2024,DM017,Home & Kitchen,P5316,7,312.9,19%,1774.14,Dehradun,Uttarakhand
+9/6/2024,DM010,Clothing,P4994,12,324.33,17%,3230.33,Lucknow,Uttar Pradesh
+4/26/2024,DM006,Groceries,P7462,37,26.72,19%,800.8,Delhi,Delhi
+12/13/2024,DM020,Clothing,P5426,49,377.38,23%,14238.55,Panaji,Goa
+7/28/2024,DM015,Groceries,P6996,40,349.65,30%,9790.2,Guwahati,Assam
+1/16/2024,DM009,Home & Kitchen,P1912,5,486.08,28%,1749.89,Jaipur,Rajasthan
+4/2/2024,DM001,Groceries,P4544,12,356.27,3%,4146.98,Mumbai,Maharashtra
+3/23/2024,DM005,Clothing,P1783,21,306.84,13%,5605.97,Hyderabad,Telangana
+3/14/2024,DM020,Stationery,P9043,23,311.38,20%,5729.39,Panaji,Goa
+9/12/2024,DM001,Stationery,P5740,42,374,15%,13351.8,Mumbai,Maharashtra
+6/28/2024,DM010,Electronics,P4666,46,86.19,3%,3845.8,Lucknow,Uttar Pradesh
+10/14/2024,DM006,Groceries,P5562,15,469.62,28%,5071.9,Delhi,Delhi
+5/25/2024,DM001,Clothing,P4748,6,142.89,15%,728.74,Mumbai,Maharashtra
+6/25/2024,DM011,Stationery,P4014,1,299.2,22%,233.38,Chandigarh,Punjab
+5/18/2024,DM019,Electronics,P8748,28,293.76,8%,7567.26,Ranchi,Jharkhand
+10/15/2024,DM010,Electronics,P9906,49,323.56,19%,12842.1,Lucknow,Uttar Pradesh
+2/10/2024,DM001,Stationery,P5103,12,342.02,17%,3406.52,Mumbai,Maharashtra
+6/11/2024,DM004,Groceries,P8751,42,286.77,8%,11080.79,Chennai,Tamil Nadu
+10/7/2024,DM005,Groceries,P8542,14,322.82,28%,3254.03,Hyderabad,Telangana
+5/3/2024,DM002,Electronics,P2123,41,494.23,2%,19858.16,Pune,Maharashtra
+7/30/2024,DM004,Home & Kitchen,P7335,1,216.32,14%,186.04,Chennai,Tamil Nadu
+2/8/2024,DM017,Home & Kitchen,P1421,29,309.68,8%,8262.26,Dehradun,Uttarakhand
+9/27/2024,DM010,Stationery,P1830,27,91.33,21%,1948.07,Lucknow,Uttar Pradesh
+7/25/2024,DM010,Home & Kitchen,P5088,46,101.3,10%,4193.82,Lucknow,Uttar Pradesh
+12/4/2024,DM007,Electronics,P4221,21,74.72,12%,1380.83,Ahmedabad,Gujarat
+6/28/2024,DM011,Clothing,P8299,27,193.01,6%,4898.59,Chandigarh,Punjab
+11/26/2024,DM018,Groceries,P9888,9,219.01,7%,1833.11,Shimla,Himachal Pradesh
+10/22/2024,DM002,Groceries,P3952,42,201.07,9%,7684.9,Pune,Maharashtra
+8/29/2024,DM015,Electronics,P3149,47,445.67,17%,17385.59,Guwahati,Assam
+11/27/2024,DM008,Electronics,P9653,12,174.2,9%,1902.26,Kolkata,West Bengal
+12/7/2024,DM017,Stationery,P1447,38,39.11,15%,1263.25,Dehradun,Uttarakhand
+9/18/2024,DM017,Groceries,P9511,28,341.02,22%,7447.88,Dehradun,Uttarakhand
+3/25/2024,DM017,Groceries,P1079,11,92.95,7%,950.88,Dehradun,Uttarakhand
+2/12/2024,DM020,Home & Kitchen,P9696,24,38.12,14%,786.8,Panaji,Goa
+2/15/2024,DM015,Clothing,P8406,5,182.01,25%,682.54,Guwahati,Assam
+5/9/2024,DM013,Clothing,P2848,27,61.73,11%,1483.37,Patna,Bihar
+9/5/2024,DM009,Groceries,P3439,36,418.41,9%,13707.11,Jaipur,Rajasthan
+1/11/2024,DM020,Clothing,P1036,37,58.51,8%,1991.68,Panaji,Goa
+4/18/2024,DM006,Electronics,P7654,12,350.34,2%,4120,Delhi,Delhi
+6/16/2024,DM012,Home & Kitchen,P9501,6,357.87,25%,1610.42,Indore,Madhya Pradesh
+3/14/2024,DM003,Home & Kitchen,P7462,18,149.69,13%,2344.15,Bangalore,Karnataka
+8/23/2024,DM006,Home & Kitchen,P5290,29,137.9,23%,3079.31,Delhi,Delhi
+12/2/2024,DM008,Home & Kitchen,P8454,2,493.59,2%,967.44,Kolkata,West Bengal
+10/18/2024,DM018,Home & Kitchen,P1653,34,364.46,28%,8921.98,Shimla,Himachal Pradesh
+4/2/2024,DM020,Home & Kitchen,P8135,25,287.62,21%,5680.49,Panaji,Goa
+3/6/2024,DM016,Home & Kitchen,P9859,38,449.94,10%,15387.95,Thiruvananthapuram,Kerala
+8/27/2024,DM003,Stationery,P2273,22,47.21,26%,768.58,Bangalore,Karnataka
+7/10/2024,DM002,Groceries,P9215,41,90.7,29%,2640.28,Pune,Maharashtra
+12/31/2024,DM008,Electronics,P4456,50,454.74,5%,21600.15,Kolkata,West Bengal
+3/23/2024,DM020,Clothing,P4071,25,259.36,27%,4733.32,Panaji,Goa
+5/9/2024,DM017,Groceries,P7155,2,430.6,30%,602.84,Dehradun,Uttarakhand
+9/11/2024,DM006,Stationery,P2857,4,235.65,6%,886.04,Delhi,Delhi
+9/8/2024,DM019,Groceries,P6894,37,68.44,25%,1899.21,Ranchi,Jharkhand
+8/5/2024,DM017,Stationery,P5417,24,418.67,23%,7737.02,Dehradun,Uttarakhand
+2/2/2024,DM014,Home & Kitchen,P8789,28,263.43,15%,6269.63,Bhubaneswar,Odisha
+10/29/2024,DM009,Stationery,P4956,1,401.08,22%,312.84,Jaipur,Rajasthan
+1/29/2024,DM007,Electronics,P4503,26,487.73,22%,9891.16,Ahmedabad,Gujarat
+11/1/2024,DM012,Electronics,P1836,3,322.8,18%,794.09,Indore,Madhya Pradesh
+4/13/2024,DM007,Stationery,P2201,4,271.11,18%,889.24,Ahmedabad,Gujarat
+11/19/2024,DM020,Groceries,P2865,49,426.21,13%,18169.33,Panaji,Goa
+11/21/2024,DM019,Electronics,P3561,39,494.62,14%,16589.55,Ranchi,Jharkhand
+9/5/2024,DM019,Groceries,P2993,19,128.4,6%,2293.22,Ranchi,Jharkhand
+6/30/2024,DM020,Stationery,P5293,2,356.86,15%,606.66,Panaji,Goa
+12/22/2024,DM015,Groceries,P1923,20,390.26,30%,5463.64,Guwahati,Assam
+9/15/2024,DM013,Clothing,P9064,33,467.48,21%,12187.2,Patna,Bihar
+1/11/2024,DM019,Groceries,P6255,50,428.14,7%,19908.51,Ranchi,Jharkhand
+1/7/2024,DM012,Home & Kitchen,P6778,32,315,2%,9878.4,Indore,Madhya Pradesh
+10/2/2024,DM020,Electronics,P2991,33,175.68,0%,5797.44,Panaji,Goa
+5/4/2024,DM009,Home & Kitchen,P9321,21,334.37,22%,5476.98,Jaipur,Rajasthan
+1/4/2024,DM018,Home & Kitchen,P1061,13,117.33,17%,1265.99,Shimla,Himachal Pradesh
+9/4/2024,DM004,Clothing,P6010,3,279.83,18%,688.38,Chennai,Tamil Nadu
+10/3/2024,DM003,Clothing,P3408,14,343.7,2%,4715.56,Bangalore,Karnataka
+8/9/2024,DM014,Stationery,P1088,19,77.96,30%,1036.87,Bhubaneswar,Odisha
+6/19/2024,DM013,Groceries,P3035,39,267.1,9%,9479.38,Patna,Bihar
+6/10/2024,DM020,Electronics,P7870,8,42.28,2%,331.48,Panaji,Goa
+12/24/2024,DM015,Electronics,P8459,8,367.85,12%,2589.66,Guwahati,Assam
+11/24/2024,DM014,Clothing,P5471,40,398.19,28%,11467.87,Bhubaneswar,Odisha
+10/27/2024,DM011,Home & Kitchen,P2573,10,53.63,29%,380.77,Chandigarh,Punjab
+11/14/2024,DM003,Home & Kitchen,P5367,28,271.7,28%,5477.47,Bangalore,Karnataka
+4/14/2024,DM018,Clothing,P9486,35,487.81,20%,13658.68,Shimla,Himachal Pradesh
+5/6/2024,DM004,Home & Kitchen,P3332,32,192.53,14%,5298.43,Chennai,Tamil Nadu
+7/23/2024,DM009,Groceries,P7615,11,403.84,26%,3287.26,Jaipur,Rajasthan
+3/30/2024,DM020,Groceries,P3504,18,129.37,22%,1816.35,Panaji,Goa
+5/29/2024,DM006,Clothing,P6068,21,230.17,23%,3721.85,Delhi,Delhi
+4/22/2024,DM020,Home & Kitchen,P9416,24,75.9,12%,1603.01,Panaji,Goa
+11/9/2024,DM015,Electronics,P5908,1,61.74,1%,61.12,Guwahati,Assam
+12/28/2024,DM017,Electronics,P6062,12,144.68,25%,1302.12,Dehradun,Uttarakhand
+3/8/2024,DM014,Stationery,P1469,50,294.21,9%,13386.55,Bhubaneswar,Odisha
+5/31/2024,DM018,Electronics,P3072,41,292.25,14%,10304.74,Shimla,Himachal Pradesh
+4/22/2024,DM011,Clothing,P3775,12,274.25,15%,2797.35,Chandigarh,Punjab
+7/20/2024,DM018,Home & Kitchen,P6442,1,451.58,17%,374.81,Shimla,Himachal Pradesh
+3/17/2024,DM006,Home & Kitchen,P3055,25,131.94,19%,2671.79,Delhi,Delhi
+11/18/2024,DM016,Clothing,P1782,22,118.77,6%,2456.16,Thiruvananthapuram,Kerala
+12/17/2024,DM016,Clothing,P8678,9,41.17,29%,263.08,Thiruvananthapuram,Kerala
+1/8/2024,DM020,Stationery,P4147,11,157.23,15%,1470.1,Panaji,Goa
+11/5/2024,DM015,Clothing,P2244,34,13.64,16%,389.56,Guwahati,Assam
+5/2/2024,DM004,Stationery,P8340,46,57.38,15%,2243.56,Chennai,Tamil Nadu
+3/15/2024,DM019,Groceries,P2900,47,177.62,22%,6511.55,Ranchi,Jharkhand
+7/9/2024,DM006,Electronics,P5325,13,87.69,7%,1060.17,Delhi,Delhi
+11/18/2024,DM009,Groceries,P4442,5,276.98,30%,969.43,Jaipur,Rajasthan
+12/8/2024,DM003,Electronics,P1515,18,402.71,22%,5654.05,Bangalore,Karnataka
+9/23/2024,DM004,Electronics,P6661,3,161.47,10%,435.97,Chennai,Tamil Nadu
+1/30/2024,DM003,Stationery,P8461,16,194.22,26%,2299.56,Bangalore,Karnataka
+4/6/2024,DM020,Clothing,P5800,11,279.94,10%,2771.41,Panaji,Goa
+12/30/2024,DM001,Home & Kitchen,P9123,27,153.95,8%,3824.12,Mumbai,Maharashtra
+4/12/2024,DM004,Groceries,P2918,31,69.94,11%,1929.64,Chennai,Tamil Nadu
+7/16/2024,DM005,Stationery,P4185,10,150.44,19%,1218.56,Hyderabad,Telangana
+4/17/2024,DM007,Stationery,P1185,34,170.2,17%,4803.04,Ahmedabad,Gujarat
+2/14/2024,DM006,Clothing,P5321,13,456.62,27%,4333.32,Delhi,Delhi
+3/5/2024,DM013,Stationery,P7560,24,58.37,14%,1204.76,Patna,Bihar
+4/20/2024,DM015,Stationery,P4868,48,43.32,6%,1954.6,Guwahati,Assam
+11/29/2024,DM002,Electronics,P1799,7,176.98,22%,966.31,Pune,Maharashtra
+5/5/2024,DM010,Groceries,P6954,37,343.73,19%,10301.59,Lucknow,Uttar Pradesh
+11/8/2024,DM011,Groceries,P9268,21,426.6,8%,8241.91,Chandigarh,Punjab
+3/21/2024,DM007,Home & Kitchen,P6525,30,33.44,3%,973.1,Ahmedabad,Gujarat
+12/31/2024,DM009,Stationery,P7398,19,487.64,29%,6578.26,Jaipur,Rajasthan
+10/20/2024,DM010,Stationery,P8276,11,283.08,10%,2802.49,Lucknow,Uttar Pradesh
+4/25/2024,DM015,Clothing,P4144,36,356.16,0%,12821.76,Guwahati,Assam
+4/7/2024,DM010,Stationery,P7286,37,269.86,12%,8786.64,Lucknow,Uttar Pradesh
+1/19/2024,DM009,Groceries,P8561,32,381.94,22%,9533.22,Jaipur,Rajasthan
+6/13/2024,DM005,Clothing,P9459,30,450.33,18%,11078.12,Hyderabad,Telangana
+2/19/2024,DM004,Home & Kitchen,P3043,32,102.08,10%,2939.9,Chennai,Tamil Nadu
+6/23/2024,DM005,Clothing,P6815,47,337.88,28%,11433.86,Hyderabad,Telangana
+6/1/2024,DM001,Stationery,P9600,7,291.78,13%,1776.94,Mumbai,Maharashtra
+6/10/2024,DM008,Stationery,P6859,3,388.27,25%,873.61,Kolkata,West Bengal
+4/1/2024,DM003,Stationery,P2776,39,306.33,26%,8840.68,Bangalore,Karnataka
+8/14/2024,DM018,Groceries,P6094,17,436.62,28%,5344.23,Shimla,Himachal Pradesh
+5/2/2024,DM006,Home & Kitchen,P1322,19,316.78,27%,4393.74,Delhi,Delhi
+6/20/2024,DM008,Clothing,P4565,30,394.18,21%,9342.07,Kolkata,West Bengal
+6/17/2024,DM017,Home & Kitchen,P8375,32,32.99,14%,907.88,Dehradun,Uttarakhand
+4/21/2024,DM013,Clothing,P1911,1,273.34,12%,240.54,Patna,Bihar
+2/19/2024,DM009,Clothing,P4894,10,346.42,0%,3464.2,Jaipur,Rajasthan
+12/25/2024,DM006,Clothing,P7719,40,367.19,26%,10868.82,Delhi,Delhi
+3/11/2024,DM005,Electronics,P4279,2,410.23,10%,738.41,Hyderabad,Telangana
+1/31/2024,DM019,Clothing,P8806,28,139.83,0%,3915.24,Ranchi,Jharkhand
+11/4/2024,DM003,Groceries,P7719,2,30.76,25%,46.14,Bangalore,Karnataka
+2/1/2024,DM009,Stationery,P3958,20,48.71,2%,954.72,Jaipur,Rajasthan
+11/4/2024,DM006,Groceries,P3649,42,332.83,10%,12580.97,Delhi,Delhi
+5/7/2024,DM020,Clothing,P2373,13,72.58,15%,802.01,Panaji,Goa
+1/10/2024,DM015,Clothing,P8893,39,197.65,2%,7554.18,Guwahati,Assam
+4/8/2024,DM016,Groceries,P1573,13,474.69,23%,4751.65,Thiruvananthapuram,Kerala
+2/24/2024,DM004,Groceries,P1034,15,204.93,19%,2489.9,Chennai,Tamil Nadu
+9/24/2024,DM012,Groceries,P1493,36,257.03,2%,9068.02,Indore,Madhya Pradesh
+1/8/2024,DM012,Electronics,P2653,49,86.03,11%,3751.77,Indore,Madhya Pradesh
+11/26/2024,DM005,Electronics,P4892,48,306.35,0%,14704.8,Hyderabad,Telangana
+10/17/2024,DM018,Stationery,P7007,1,398.91,21%,315.14,Shimla,Himachal Pradesh
+12/10/2024,DM002,Stationery,P2248,3,91.96,7%,256.57,Pune,Maharashtra
+5/22/2024,DM015,Clothing,P5184,44,62.29,10%,2466.68,Guwahati,Assam
+10/15/2024,DM010,Electronics,P3603,21,160.04,27%,2453.41,Lucknow,Uttar Pradesh
+10/29/2024,DM009,Electronics,P9124,34,77.8,9%,2407.13,Jaipur,Rajasthan
+8/24/2024,DM007,Groceries,P2511,3,356.22,28%,769.44,Ahmedabad,Gujarat
+2/6/2024,DM012,Groceries,P1164,49,312.13,2%,14988.48,Indore,Madhya Pradesh
+3/26/2024,DM019,Home & Kitchen,P6308,35,257.99,17%,7494.61,Ranchi,Jharkhand
+3/10/2024,DM018,Electronics,P4200,17,427.81,13%,6327.31,Shimla,Himachal Pradesh
+2/28/2024,DM005,Stationery,P4683,35,498.35,24%,13256.11,Hyderabad,Telangana
+1/16/2024,DM014,Stationery,P1548,7,323.57,13%,1970.54,Bhubaneswar,Odisha
+3/26/2024,DM003,Home & Kitchen,P7860,50,56.64,15%,2407.2,Bangalore,Karnataka
+1/2/2024,DM008,Clothing,P2504,10,332.37,28%,2393.06,Kolkata,West Bengal
+7/31/2024,DM016,Stationery,P3587,4,169.06,22%,527.47,Thiruvananthapuram,Kerala
+6/10/2024,DM003,Electronics,P2371,16,14.99,6%,225.45,Bangalore,Karnataka
+4/9/2024,DM007,Home & Kitchen,P9983,23,202.39,12%,4096.37,Ahmedabad,Gujarat
+11/9/2024,DM018,Clothing,P2982,25,159.29,20%,3185.8,Shimla,Himachal Pradesh
+6/27/2024,DM002,Clothing,P7103,31,346.64,4%,10316.01,Pune,Maharashtra
+2/26/2024,DM014,Groceries,P6786,25,418.64,3%,10152.02,Bhubaneswar,Odisha
+7/26/2024,DM017,Home & Kitchen,P4284,30,83.18,27%,1821.64,Dehradun,Uttarakhand
+10/1/2024,DM018,Groceries,P6228,16,161.21,7%,2398.8,Shimla,Himachal Pradesh
+3/9/2024,DM005,Groceries,P4412,36,14.36,7%,480.77,Hyderabad,Telangana
+8/5/2024,DM016,Stationery,P8731,33,329.22,15%,9234.62,Thiruvananthapuram,Kerala
+11/30/2024,DM016,Home & Kitchen,P4380,35,298.87,18%,8577.57,Thiruvananthapuram,Kerala
+11/29/2024,DM015,Electronics,P2033,30,465.76,10%,12575.52,Guwahati,Assam
+10/4/2024,DM006,Home & Kitchen,P4248,15,305.89,5%,4358.93,Delhi,Delhi
+4/12/2024,DM008,Electronics,P2339,2,254.69,25%,382.03,Kolkata,West Bengal
+7/6/2024,DM005,Groceries,P1631,18,493.65,22%,6930.85,Hyderabad,Telangana
+2/15/2024,DM019,Clothing,P4184,3,215.55,19%,523.79,Ranchi,Jharkhand
+1/30/2024,DM009,Clothing,P4091,7,341.26,29%,1696.06,Jaipur,Rajasthan
+1/10/2024,DM020,Clothing,P2379,39,358.34,30%,9782.68,Panaji,Goa
+3/3/2024,DM016,Stationery,P8392,46,52.51,17%,2004.83,Thiruvananthapuram,Kerala
+7/23/2024,DM006,Electronics,P7784,47,210.93,13%,8624.93,Delhi,Delhi
+6/24/2024,DM004,Clothing,P3907,25,16.32,9%,371.28,Chennai,Tamil Nadu
+5/12/2024,DM008,Stationery,P7794,11,129.57,19%,1154.47,Kolkata,West Bengal
+7/29/2024,DM007,Electronics,P1069,31,354.4,15%,9338.44,Ahmedabad,Gujarat
+9/17/2024,DM018,Home & Kitchen,P9322,29,98,18%,2330.44,Shimla,Himachal Pradesh
+5/31/2024,DM017,Electronics,P1152,9,159.2,4%,1375.49,Dehradun,Uttarakhand
+11/29/2024,DM002,Clothing,P3718,9,180.14,16%,1361.86,Pune,Maharashtra
+10/2/2024,DM014,Home & Kitchen,P9716,7,53.24,6%,350.32,Bhubaneswar,Odisha
+9/21/2024,DM017,Stationery,P3357,40,269.54,16%,9056.54,Dehradun,Uttarakhand
+9/4/2024,DM003,Home & Kitchen,P4650,46,73.57,15%,2876.59,Bangalore,Karnataka
+6/29/2024,DM016,Stationery,P3110,25,168.14,27%,3068.55,Thiruvananthapuram,Kerala
+10/9/2024,DM008,Stationery,P4370,37,438.85,30%,11366.22,Kolkata,West Bengal
+8/8/2024,DM008,Groceries,P5927,21,321.87,5%,6421.31,Kolkata,West Bengal
+5/18/2024,DM002,Electronics,P4562,23,176.02,21%,3198.28,Pune,Maharashtra
+10/9/2024,DM010,Stationery,P7930,22,164.06,13%,3140.11,Lucknow,Uttar Pradesh
+1/11/2024,DM014,Home & Kitchen,P3401,23,230.32,30%,3708.15,Bhubaneswar,Odisha
+11/8/2024,DM006,Groceries,P4455,25,122.24,16%,2567.04,Delhi,Delhi
+8/7/2024,DM007,Groceries,P8089,25,21.43,20%,428.6,Ahmedabad,Gujarat
+5/4/2024,DM019,Home & Kitchen,P8020,24,475.21,10%,10264.54,Ranchi,Jharkhand
+8/17/2024,DM020,Clothing,P4705,14,480.73,30%,4711.15,Panaji,Goa
+9/26/2024,DM017,Groceries,P2705,37,476.56,5%,16751.08,Dehradun,Uttarakhand
+12/11/2024,DM008,Electronics,P7411,49,271.02,20%,10623.98,Kolkata,West Bengal
+10/1/2024,DM003,Electronics,P7272,30,354.14,2%,10411.72,Bangalore,Karnataka
+4/14/2024,DM020,Clothing,P4859,50,118.97,23%,4580.35,Panaji,Goa
+4/11/2024,DM008,Stationery,P9218,35,487.37,3%,16546.21,Kolkata,West Bengal
+12/14/2024,DM001,Home & Kitchen,P2787,40,186.71,29%,5302.56,Mumbai,Maharashtra
+5/4/2024,DM019,Electronics,P9135,19,205.78,19%,3166.95,Ranchi,Jharkhand
+6/2/2024,DM013,Home & Kitchen,P8608,41,434.83,0%,17828.03,Patna,Bihar
+7/17/2024,DM009,Groceries,P8996,50,93.89,11%,4178.11,Jaipur,Rajasthan
+9/12/2024,DM001,Home & Kitchen,P6834,20,120.73,8%,2221.43,Mumbai,Maharashtra
+11/23/2024,DM019,Home & Kitchen,P1074,25,262.99,6%,6180.26,Ranchi,Jharkhand
+9/15/2024,DM012,Clothing,P6395,39,392.97,19%,12413.92,Indore,Madhya Pradesh
+4/16/2024,DM019,Stationery,P4126,3,466.41,10%,1259.31,Ranchi,Jharkhand
+12/14/2024,DM001,Clothing,P8493,28,383.62,5%,10204.29,Mumbai,Maharashtra
+8/15/2024,DM001,Electronics,P1046,33,427.99,1%,13982.43,Mumbai,Maharashtra
+6/14/2024,DM001,Electronics,P7862,28,395.59,16%,9304.28,Mumbai,Maharashtra
+4/1/2024,DM007,Electronics,P3350,10,494.18,27%,3607.51,Ahmedabad,Gujarat
+1/6/2024,DM010,Clothing,P1489,48,376.52,27%,13193.26,Lucknow,Uttar Pradesh
+1/12/2024,DM012,Groceries,P3698,50,410.98,17%,17055.67,Indore,Madhya Pradesh
+7/23/2024,DM005,Stationery,P4895,11,275.2,21%,2391.49,Hyderabad,Telangana
+9/16/2024,DM015,Clothing,P3834,33,377.59,22%,9719.17,Guwahati,Assam
+1/21/2024,DM005,Home & Kitchen,P2359,48,377.66,14%,15589.8,Hyderabad,Telangana
+1/18/2024,DM003,Clothing,P1201,14,49.43,11%,615.9,Bangalore,Karnataka
+6/11/2024,DM011,Electronics,P7276,17,468.93,28%,5739.7,Chandigarh,Punjab
+1/24/2024,DM012,Electronics,P9840,24,133.54,10%,2884.46,Indore,Madhya Pradesh
+5/16/2024,DM012,Electronics,P7015,48,334.28,27%,11713.17,Indore,Madhya Pradesh
+2/26/2024,DM004,Clothing,P3709,17,127.56,3%,2103.46,Chennai,Tamil Nadu
+10/23/2024,DM002,Groceries,P2062,25,298.15,13%,6484.76,Pune,Maharashtra
+7/7/2024,DM002,Clothing,P2167,42,306.11,4%,12342.36,Pune,Maharashtra
+11/21/2024,DM020,Clothing,P6098,25,25.8,26%,477.3,Panaji,Goa
+2/16/2024,DM014,Stationery,P4906,36,335.3,20%,9656.64,Bhubaneswar,Odisha
+1/10/2024,DM003,Groceries,P7101,12,432.59,5%,4931.53,Bangalore,Karnataka
+10/21/2024,DM012,Electronics,P4346,44,141.06,18%,5089.44,Indore,Madhya Pradesh
+11/1/2024,DM012,Stationery,P9099,15,54.96,18%,676.01,Indore,Madhya Pradesh
+9/12/2024,DM017,Home & Kitchen,P6551,46,362.65,25%,12511.42,Dehradun,Uttarakhand
+2/10/2024,DM008,Groceries,P2743,27,478.87,28%,9309.23,Kolkata,West Bengal
+8/18/2024,DM012,Stationery,P3113,48,153.82,5%,7014.19,Indore,Madhya Pradesh
+12/19/2024,DM010,Groceries,P9871,27,101.76,1%,2720.04,Lucknow,Uttar Pradesh
+12/9/2024,DM019,Clothing,P3389,10,363.38,27%,2652.67,Ranchi,Jharkhand
+2/3/2024,DM013,Clothing,P5162,35,276.28,12%,8509.42,Patna,Bihar
+4/28/2024,DM011,Stationery,P3858,3,418.35,16%,1054.24,Chandigarh,Punjab
+5/2/2024,DM020,Stationery,P9280,24,445.64,26%,7914.57,Panaji,Goa
+7/15/2024,DM011,Home & Kitchen,P8234,31,340.08,29%,7485.16,Chandigarh,Punjab
+10/12/2024,DM008,Clothing,P7923,23,220.32,12%,4459.28,Kolkata,West Bengal
+2/26/2024,DM012,Clothing,P9464,35,159.01,0%,5565.35,Indore,Madhya Pradesh
+1/5/2024,DM003,Groceries,P7920,43,254.93,18%,8988.83,Bangalore,Karnataka
+1/6/2024,DM006,Stationery,P4944,9,471.82,16%,3566.96,Delhi,Delhi
+7/28/2024,DM017,Groceries,P6680,34,137.32,6%,4388.75,Dehradun,Uttarakhand
+4/5/2024,DM013,Electronics,P3575,29,243.03,29%,5003.99,Patna,Bihar
+11/5/2024,DM005,Electronics,P9729,48,139.83,15%,5705.06,Hyderabad,Telangana
+4/14/2024,DM017,Groceries,P1650,40,373.52,9%,13596.13,Dehradun,Uttarakhand
+8/9/2024,DM014,Groceries,P8490,39,218.95,4%,8197.49,Bhubaneswar,Odisha
+7/17/2024,DM008,Stationery,P1360,30,325.05,22%,7606.17,Kolkata,West Bengal
+7/9/2024,DM005,Groceries,P8685,19,403.79,2%,7518.57,Hyderabad,Telangana
+9/29/2024,DM007,Clothing,P3760,16,284.44,8%,4186.96,Ahmedabad,Gujarat
+1/26/2024,DM007,Groceries,P1815,31,98.39,6%,2867.08,Ahmedabad,Gujarat
+4/25/2024,DM009,Stationery,P6393,28,97.24,25%,2042.04,Jaipur,Rajasthan
+1/14/2024,DM013,Stationery,P1996,4,361.82,28%,1042.04,Patna,Bihar
+4/9/2024,DM015,Home & Kitchen,P4477,48,29.57,22%,1107.1,Guwahati,Assam
+5/7/2024,DM007,Clothing,P7107,8,417.9,4%,3209.47,Ahmedabad,Gujarat
+11/9/2024,DM009,Clothing,P9454,13,314.95,7%,3807.75,Jaipur,Rajasthan
+1/3/2024,DM018,Stationery,P7301,28,413.64,6%,10887,Shimla,Himachal Pradesh
+9/7/2024,DM017,Electronics,P5504,26,321.61,9%,7609.29,Dehradun,Uttarakhand
+11/16/2024,DM016,Home & Kitchen,P4064,43,484.34,23%,16036.5,Thiruvananthapuram,Kerala
+2/25/2024,DM020,Electronics,P7938,13,294.59,22%,2987.14,Panaji,Goa
+7/16/2024,DM004,Electronics,P1766,39,313.6,24%,9295.1,Chennai,Tamil Nadu
+3/29/2024,DM001,Stationery,P4264,3,169.75,2%,499.06,Mumbai,Maharashtra
+5/30/2024,DM019,Home & Kitchen,P4469,16,21.29,25%,255.48,Ranchi,Jharkhand
+2/11/2024,DM007,Stationery,P7395,19,473.33,16%,7554.35,Ahmedabad,Gujarat
+1/20/2024,DM003,Electronics,P5015,16,282.86,15%,3846.9,Bangalore,Karnataka
+4/5/2024,DM010,Clothing,P1093,50,199.46,6%,9374.62,Lucknow,Uttar Pradesh
+7/18/2024,DM003,Clothing,P5539,25,229.14,10%,5155.65,Bangalore,Karnataka
+7/6/2024,DM013,Electronics,P9740,36,156.84,18%,4629.92,Patna,Bihar
+12/18/2024,DM014,Groceries,P9483,4,341.15,23%,1050.74,Bhubaneswar,Odisha
+7/11/2024,DM016,Home & Kitchen,P1198,32,163.26,26%,3866,Thiruvananthapuram,Kerala
+9/9/2024,DM008,Electronics,P9170,24,238.51,4%,5495.27,Kolkata,West Bengal
+6/7/2024,DM014,Electronics,P9049,18,353.19,20%,5085.94,Bhubaneswar,Odisha
+12/28/2024,DM019,Home & Kitchen,P2562,25,160.68,15%,3414.45,Ranchi,Jharkhand
+6/26/2024,DM006,Clothing,P9588,12,475.97,8%,5254.71,Delhi,Delhi
+7/1/2024,DM006,Home & Kitchen,P4669,32,124.9,19%,3237.41,Delhi,Delhi
+5/24/2024,DM016,Electronics,P5608,35,449.13,11%,13990.4,Thiruvananthapuram,Kerala
+9/18/2024,DM013,Home & Kitchen,P4999,46,321.56,27%,10797.98,Patna,Bihar
+3/15/2024,DM005,Home & Kitchen,P2795,31,139.91,17%,3599.88,Hyderabad,Telangana
+10/20/2024,DM002,Groceries,P8663,12,280.46,0%,3365.52,Pune,Maharashtra
+9/7/2024,DM009,Home & Kitchen,P4884,49,473.04,26%,17152.43,Jaipur,Rajasthan
+8/8/2024,DM005,Stationery,P6768,14,47.37,2%,649.92,Hyderabad,Telangana
+1/30/2024,DM013,Stationery,P5785,38,200.36,22%,5938.67,Patna,Bihar
+10/6/2024,DM016,Electronics,P4886,46,58.38,5%,2551.21,Thiruvananthapuram,Kerala
+12/25/2024,DM010,Clothing,P3271,50,211.22,10%,9504.9,Lucknow,Uttar Pradesh
+8/6/2024,DM008,Stationery,P2249,26,300.5,27%,5703.49,Kolkata,West Bengal
+12/5/2024,DM003,Clothing,P5395,33,249.08,16%,6904.5,Bangalore,Karnataka
+10/13/2024,DM019,Clothing,P6374,37,85.29,29%,2240.57,Ranchi,Jharkhand
+11/29/2024,DM015,Groceries,P5006,47,449.8,11%,18815.13,Guwahati,Assam
+6/25/2024,DM020,Electronics,P9111,46,328.88,27%,11043.79,Panaji,Goa
+2/13/2024,DM006,Home & Kitchen,P3384,45,75.43,8%,3122.8,Delhi,Delhi
+7/7/2024,DM005,Home & Kitchen,P4720,21,56.18,17%,979.22,Hyderabad,Telangana
+6/4/2024,DM006,Home & Kitchen,P9415,37,334.46,0%,12375.02,Delhi,Delhi
+12/30/2024,DM012,Clothing,P4165,26,250.87,25%,4891.97,Indore,Madhya Pradesh
+2/19/2024,DM004,Clothing,P7883,7,162.71,9%,1036.46,Chennai,Tamil Nadu
+11/2/2024,DM009,Clothing,P7179,7,153.18,13%,932.87,Jaipur,Rajasthan
+4/21/2024,DM007,Clothing,P4532,50,420.6,7%,19557.9,Ahmedabad,Gujarat
+4/21/2024,DM020,Electronics,P4088,20,476.72,17%,7913.55,Panaji,Goa
+10/3/2024,DM002,Stationery,P9799,41,324.78,6%,12517.02,Pune,Maharashtra
+2/3/2024,DM020,Clothing,P6911,15,246.7,13%,3219.43,Panaji,Goa
+4/24/2024,DM002,Groceries,P3636,21,259.15,22%,4244.88,Pune,Maharashtra
+10/3/2024,DM014,Groceries,P9704,49,25.46,30%,873.28,Bhubaneswar,Odisha
+10/17/2024,DM011,Clothing,P4523,20,140.6,23%,2165.24,Chandigarh,Punjab
+2/3/2024,DM009,Groceries,P2080,1,21.66,28%,15.6,Jaipur,Rajasthan
+9/19/2024,DM019,Clothing,P6352,33,303.72,0%,10022.76,Ranchi,Jharkhand
+8/2/2024,DM010,Clothing,P5732,38,306.88,2%,11428.21,Lucknow,Uttar Pradesh
+2/9/2024,DM015,Groceries,P8572,12,62.1,18%,611.06,Guwahati,Assam
+11/1/2024,DM001,Electronics,P9117,17,157.59,9%,2437.92,Mumbai,Maharashtra
+9/20/2024,DM020,Stationery,P9870,49,291.41,24%,10852.11,Panaji,Goa
+3/24/2024,DM002,Home & Kitchen,P4233,16,149.63,15%,2034.97,Pune,Maharashtra
+9/26/2024,DM003,Electronics,P2021,42,172.41,25%,5430.91,Bangalore,Karnataka
+10/5/2024,DM009,Electronics,P7539,27,254.23,30%,4804.95,Jaipur,Rajasthan
+2/13/2024,DM007,Electronics,P1977,49,420.53,29%,14630.24,Ahmedabad,Gujarat
+3/25/2024,DM008,Home & Kitchen,P9450,46,82.96,14%,3281.9,Kolkata,West Bengal
+6/20/2024,DM012,Clothing,P9269,25,207.07,4%,4969.68,Indore,Madhya Pradesh
+4/15/2024,DM016,Stationery,P5722,35,378.38,11%,11786.54,Thiruvananthapuram,Kerala
+2/10/2024,DM020,Home & Kitchen,P2863,45,479.03,4%,20694.1,Panaji,Goa
+4/10/2024,DM009,Stationery,P2835,13,185.45,6%,2266.2,Jaipur,Rajasthan
+7/26/2024,DM012,Electronics,P7789,45,10.2,29%,325.89,Indore,Madhya Pradesh
+7/7/2024,DM016,Groceries,P8413,30,280.83,9%,7666.66,Thiruvananthapuram,Kerala
+3/7/2024,DM018,Electronics,P1550,25,121.95,27%,2225.59,Shimla,Himachal Pradesh
+2/26/2024,DM016,Groceries,P9933,38,239.4,6%,8551.37,Thiruvananthapuram,Kerala
+8/10/2024,DM004,Stationery,P2420,12,45.53,27%,398.84,Chennai,Tamil Nadu
+3/17/2024,DM014,Home & Kitchen,P1246,40,285.28,3%,11068.86,Bhubaneswar,Odisha
+9/12/2024,DM003,Clothing,P1002,11,366.53,1%,3991.51,Bangalore,Karnataka
+8/2/2024,DM006,Home & Kitchen,P6082,4,197.78,15%,672.45,Delhi,Delhi
+10/2/2024,DM003,Clothing,P4214,49,299.11,23%,11285.42,Bangalore,Karnataka
+8/30/2024,DM006,Groceries,P5302,49,344.64,7%,15705.24,Delhi,Delhi
+2/15/2024,DM011,Stationery,P1674,24,75.65,29%,1289.08,Chandigarh,Punjab
+10/26/2024,DM016,Stationery,P2593,17,131.88,10%,2017.76,Thiruvananthapuram,Kerala
+7/15/2024,DM018,Groceries,P3757,42,48.41,0%,2033.22,Shimla,Himachal Pradesh
+7/23/2024,DM003,Stationery,P4351,49,152.81,22%,5840.4,Bangalore,Karnataka
+8/3/2024,DM012,Stationery,P3278,14,359.92,14%,4333.44,Indore,Madhya Pradesh
+1/5/2024,DM004,Electronics,P4894,28,357.11,30%,6999.36,Chennai,Tamil Nadu
+12/14/2024,DM017,Clothing,P9984,32,490.7,8%,14446.21,Dehradun,Uttarakhand
+2/24/2024,DM003,Electronics,P1818,3,460.72,6%,1299.23,Bangalore,Karnataka
+11/7/2024,DM003,Electronics,P3054,41,429.56,26%,13032.85,Bangalore,Karnataka
+6/9/2024,DM018,Groceries,P9890,24,215.14,22%,4027.42,Shimla,Himachal Pradesh
+2/14/2024,DM004,Stationery,P8029,10,384.95,7%,3580.03,Chennai,Tamil Nadu
+2/12/2024,DM017,Clothing,P8122,19,268.06,29%,3616.13,Dehradun,Uttarakhand
+6/29/2024,DM010,Electronics,P9169,28,173.6,12%,4277.5,Lucknow,Uttar Pradesh
+11/8/2024,DM008,Home & Kitchen,P4357,16,353.14,18%,4633.2,Kolkata,West Bengal
+7/18/2024,DM008,Stationery,P5120,18,338.94,25%,4575.69,Kolkata,West Bengal
+5/22/2024,DM002,Stationery,P3102,42,114.73,24%,3662.18,Pune,Maharashtra
+9/25/2024,DM018,Stationery,P9954,19,58.6,4%,1068.86,Shimla,Himachal Pradesh
+11/17/2024,DM002,Electronics,P7512,29,328.33,3%,9235.92,Pune,Maharashtra
+10/3/2024,DM017,Home & Kitchen,P8852,16,337.65,21%,4267.9,Dehradun,Uttarakhand
+7/29/2024,DM015,Clothing,P6629,43,447.77,23%,14825.66,Guwahati,Assam
+8/9/2024,DM007,Groceries,P8457,14,333.24,17%,3872.25,Ahmedabad,Gujarat
+12/18/2024,DM014,Groceries,P4511,8,277.13,0%,2217.04,Bhubaneswar,Odisha
+6/11/2024,DM011,Stationery,P2007,12,257.89,6%,2909,Chandigarh,Punjab
+2/8/2024,DM010,Clothing,P8099,6,121.95,0%,731.7,Lucknow,Uttar Pradesh
+8/24/2024,DM019,Groceries,P8240,20,13.67,5%,259.73,Ranchi,Jharkhand
+5/23/2024,DM010,Electronics,P3199,26,436.99,2%,11134.51,Lucknow,Uttar Pradesh
+2/23/2024,DM002,Electronics,P1902,4,392.81,7%,1461.25,Pune,Maharashtra
+5/10/2024,DM019,Electronics,P3535,22,467.44,6%,9666.66,Ranchi,Jharkhand
+12/21/2024,DM009,Home & Kitchen,P3137,12,315.57,25%,2840.13,Jaipur,Rajasthan
+6/30/2024,DM007,Electronics,P7638,24,19.35,16%,390.1,Ahmedabad,Gujarat
+3/20/2024,DM007,Groceries,P7515,35,242.73,25%,6371.66,Ahmedabad,Gujarat
+6/28/2024,DM007,Stationery,P8110,7,192.64,9%,1227.12,Ahmedabad,Gujarat
+2/22/2024,DM016,Groceries,P1205,34,369.94,24%,9559.25,Thiruvananthapuram,Kerala
+12/24/2024,DM020,Groceries,P4893,7,109.3,10%,688.59,Panaji,Goa
+3/10/2024,DM002,Clothing,P6453,6,207.24,23%,957.45,Pune,Maharashtra
+7/22/2024,DM011,Stationery,P9129,8,107.05,17%,710.81,Chandigarh,Punjab
+7/21/2024,DM011,Electronics,P2829,25,182.82,24%,3473.58,Chandigarh,Punjab
+6/13/2024,DM015,Home & Kitchen,P3965,7,491.52,13%,2993.36,Guwahati,Assam
+4/16/2024,DM020,Electronics,P2739,5,369.69,28%,1330.88,Panaji,Goa
+1/23/2024,DM017,Clothing,P7110,25,477.82,7%,11109.31,Dehradun,Uttarakhand
+9/22/2024,DM003,Home & Kitchen,P3291,15,276.93,14%,3572.4,Bangalore,Karnataka
+12/5/2024,DM018,Groceries,P6521,9,33.33,5%,284.97,Shimla,Himachal Pradesh
+3/10/2024,DM020,Home & Kitchen,P9724,30,421.01,5%,11998.78,Panaji,Goa
+8/31/2024,DM005,Electronics,P6977,31,446.1,4%,13275.94,Hyderabad,Telangana
+8/10/2024,DM015,Home & Kitchen,P4274,33,59.96,29%,1404.86,Guwahati,Assam
+8/16/2024,DM015,Home & Kitchen,P7385,2,122.73,21%,193.91,Guwahati,Assam
+3/2/2024,DM017,Home & Kitchen,P8742,39,95.49,11%,3314.46,Dehradun,Uttarakhand
+8/14/2024,DM008,Stationery,P4107,50,284.91,22%,11111.49,Kolkata,West Bengal
+2/2/2024,DM011,Stationery,P9152,30,213.41,23%,4929.77,Chandigarh,Punjab
+12/20/2024,DM019,Clothing,P5635,15,493.46,0%,7401.9,Ranchi,Jharkhand
+5/10/2024,DM010,Clothing,P6500,12,443.34,2%,5213.68,Lucknow,Uttar Pradesh
+3/4/2024,DM013,Stationery,P8234,42,238.17,14%,8602.7,Patna,Bihar
+6/17/2024,DM014,Clothing,P3964,43,145.41,4%,6002.52,Bhubaneswar,Odisha
+9/2/2024,DM004,Groceries,P2082,46,396.32,18%,14949.19,Chennai,Tamil Nadu
+9/8/2024,DM003,Groceries,P7744,23,358.33,27%,6016.36,Bangalore,Karnataka
+9/28/2024,DM001,Groceries,P3160,23,418.87,8%,8863.29,Mumbai,Maharashtra
+7/25/2024,DM005,Electronics,P4292,29,294.94,10%,7697.93,Hyderabad,Telangana
+7/28/2024,DM008,Stationery,P1411,9,463.11,20%,3334.39,Kolkata,West Bengal
+5/21/2024,DM015,Stationery,P4805,46,56.11,14%,2219.71,Guwahati,Assam
+9/3/2024,DM005,Electronics,P5145,18,124.48,22%,1747.7,Hyderabad,Telangana
+9/4/2024,DM012,Electronics,P5016,37,237.21,14%,7548.02,Indore,Madhya Pradesh
+6/18/2024,DM003,Electronics,P4253,24,142.87,27%,2503.08,Bangalore,Karnataka
+10/24/2024,DM014,Groceries,P8582,10,18.95,23%,145.91,Bhubaneswar,Odisha
+10/27/2024,DM014,Home & Kitchen,P3972,31,334.77,20%,8302.3,Bhubaneswar,Odisha
+10/24/2024,DM011,Groceries,P9440,6,326.57,6%,1841.85,Chandigarh,Punjab
+6/19/2024,DM012,Electronics,P7561,18,23.9,19%,348.46,Indore,Madhya Pradesh
+11/23/2024,DM019,Clothing,P2956,48,328.43,3%,15291.7,Ranchi,Jharkhand
+9/5/2024,DM015,Home & Kitchen,P4101,9,66.28,1%,590.55,Guwahati,Assam
+3/26/2024,DM015,Electronics,P5263,20,452.12,3%,8771.13,Guwahati,Assam
+11/18/2024,DM020,Stationery,P5583,17,232.19,6%,3710.4,Panaji,Goa
+2/28/2024,DM003,Home & Kitchen,P6647,50,12.74,11%,566.93,Bangalore,Karnataka
+7/23/2024,DM010,Clothing,P6937,49,88.01,26%,3191.24,Lucknow,Uttar Pradesh
+6/21/2024,DM005,Clothing,P3749,43,215.93,27%,6778.04,Hyderabad,Telangana
+1/30/2024,DM010,Electronics,P5435,7,487.06,22%,2659.35,Lucknow,Uttar Pradesh
+10/24/2024,DM017,Groceries,P9574,17,476.11,17%,6717.91,Dehradun,Uttarakhand
+5/11/2024,DM018,Clothing,P4441,12,244.87,0%,2938.44,Shimla,Himachal Pradesh
+7/5/2024,DM003,Clothing,P3805,2,127.5,0%,255,Bangalore,Karnataka
+9/17/2024,DM012,Electronics,P8442,34,352.53,14%,10307.98,Indore,Madhya Pradesh
+11/30/2024,DM010,Home & Kitchen,P8037,4,248.61,22%,775.66,Lucknow,Uttar Pradesh
+8/9/2024,DM011,Clothing,P8139,17,60.14,2%,1001.93,Chandigarh,Punjab
+5/29/2024,DM005,Groceries,P3516,20,210.57,19%,3411.23,Hyderabad,Telangana
+5/19/2024,DM017,Stationery,P6513,23,170.14,16%,3287.1,Dehradun,Uttarakhand
+4/15/2024,DM014,Clothing,P9364,13,51.72,24%,510.99,Bhubaneswar,Odisha
+2/2/2024,DM018,Stationery,P1137,17,14.05,0%,238.85,Shimla,Himachal Pradesh
+4/28/2024,DM016,Clothing,P7620,42,403.88,8%,15605.92,Thiruvananthapuram,Kerala
+1/1/2024,DM015,Clothing,P4870,48,471.52,5%,21501.31,Guwahati,Assam
+8/9/2024,DM008,Groceries,P6195,10,423.88,2%,4154.02,Kolkata,West Bengal
+10/10/2024,DM015,Stationery,P6467,14,257.26,22%,2809.28,Guwahati,Assam
+5/23/2024,DM008,Groceries,P2463,5,447.39,24%,1700.08,Kolkata,West Bengal
+1/9/2024,DM007,Electronics,P7637,19,406.75,28%,5564.34,Ahmedabad,Gujarat
+2/26/2024,DM002,Home & Kitchen,P7600,21,206,16%,3633.84,Pune,Maharashtra
+6/19/2024,DM007,Electronics,P8434,3,330.92,16%,833.92,Ahmedabad,Gujarat
+9/4/2024,DM009,Clothing,P7430,32,201.66,23%,4968.9,Jaipur,Rajasthan
+3/21/2024,DM016,Groceries,P8978,21,213.37,13%,3898.27,Thiruvananthapuram,Kerala
+5/1/2024,DM005,Home & Kitchen,P9404,39,188.32,14%,6316.25,Hyderabad,Telangana
+3/7/2024,DM018,Home & Kitchen,P3902,32,191.03,7%,5685.05,Shimla,Himachal Pradesh
+10/27/2024,DM012,Stationery,P4187,1,298.26,10%,268.43,Indore,Madhya Pradesh
+12/27/2024,DM009,Stationery,P1219,9,435.87,29%,2785.21,Jaipur,Rajasthan
+5/25/2024,DM015,Electronics,P2830,28,478.22,2%,13122.36,Guwahati,Assam
+5/6/2024,DM013,Home & Kitchen,P6751,48,175.2,20%,6727.68,Patna,Bihar
+8/15/2024,DM010,Clothing,P8979,10,333.9,8%,3071.88,Lucknow,Uttar Pradesh
+6/1/2024,DM011,Clothing,P1728,12,36.4,18%,358.18,Chandigarh,Punjab
+4/11/2024,DM020,Groceries,P2284,39,344.55,20%,10749.96,Panaji,Goa
+11/30/2024,DM010,Home & Kitchen,P3369,16,290.64,25%,3487.68,Lucknow,Uttar Pradesh
+7/22/2024,DM018,Clothing,P9965,21,196.42,26%,3052.37,Shimla,Himachal Pradesh
+1/5/2024,DM009,Home & Kitchen,P2877,24,93.08,24%,1697.78,Jaipur,Rajasthan
+1/4/2024,DM006,Stationery,P3887,18,286.75,16%,4335.66,Delhi,Delhi
+4/7/2024,DM015,Home & Kitchen,P2840,50,133.24,12%,5862.56,Guwahati,Assam
+8/14/2024,DM018,Groceries,P2231,3,172.04,2%,505.8,Shimla,Himachal Pradesh
+7/7/2024,DM003,Groceries,P1259,3,194.2,6%,547.64,Bangalore,Karnataka
+3/14/2024,DM003,Home & Kitchen,P1428,7,128.21,29%,637.2,Bangalore,Karnataka
+11/29/2024,DM001,Groceries,P4135,46,225.52,15%,8817.83,Mumbai,Maharashtra
+2/28/2024,DM016,Clothing,P7301,10,64.73,26%,479,Thiruvananthapuram,Kerala
+6/3/2024,DM002,Home & Kitchen,P1941,30,274.79,19%,6677.4,Pune,Maharashtra
+4/18/2024,DM013,Stationery,P3830,31,215.56,8%,6147.77,Patna,Bihar
+7/24/2024,DM015,Groceries,P6413,17,170.75,0%,2902.75,Guwahati,Assam
+10/19/2024,DM018,Electronics,P9597,26,406.68,27%,7718.79,Shimla,Himachal Pradesh
+6/21/2024,DM013,Home & Kitchen,P9044,6,180.56,21%,855.85,Patna,Bihar
+11/24/2024,DM015,Electronics,P5637,3,47.13,13%,123.01,Guwahati,Assam
+2/25/2024,DM001,Home & Kitchen,P9828,27,372.31,6%,9449.23,Mumbai,Maharashtra
+12/23/2024,DM015,Stationery,P4042,16,16.88,25%,202.56,Guwahati,Assam
+11/29/2024,DM010,Electronics,P8760,44,403.63,29%,12609.4,Lucknow,Uttar Pradesh
+7/12/2024,DM014,Electronics,P3364,45,253.02,1%,11272.04,Bhubaneswar,Odisha
+3/30/2024,DM012,Stationery,P3706,33,22.44,11%,659.06,Indore,Madhya Pradesh
+6/5/2024,DM014,Groceries,P8212,17,315.3,8%,4931.29,Bhubaneswar,Odisha
+11/22/2024,DM006,Home & Kitchen,P6882,6,32.97,24%,150.34,Delhi,Delhi
+1/1/2024,DM012,Clothing,P7783,37,130.09,22%,3754.4,Indore,Madhya Pradesh
+12/1/2024,DM012,Home & Kitchen,P6975,20,154.96,29%,2200.43,Indore,Madhya Pradesh
+7/1/2024,DM001,Groceries,P7358,39,235.14,27%,6694.44,Mumbai,Maharashtra
+8/3/2024,DM017,Clothing,P8057,20,119.17,9%,2168.89,Dehradun,Uttarakhand
+11/13/2024,DM006,Stationery,P1021,18,397.34,15%,6079.3,Delhi,Delhi
+1/27/2024,DM006,Stationery,P8583,18,21.16,26%,281.85,Delhi,Delhi
+5/29/2024,DM017,Electronics,P4620,10,478.98,29%,3400.76,Dehradun,Uttarakhand
+5/4/2024,DM010,Clothing,P3981,5,52.6,10%,236.7,Lucknow,Uttar Pradesh
+2/1/2024,DM018,Groceries,P1504,35,482.23,8%,15527.81,Shimla,Himachal Pradesh
+10/30/2024,DM005,Groceries,P6550,11,61.36,16%,566.97,Hyderabad,Telangana
+2/25/2024,DM013,Stationery,P4239,28,181.85,12%,4480.78,Patna,Bihar
+4/2/2024,DM005,Home & Kitchen,P6493,7,140.25,9%,893.39,Hyderabad,Telangana
+8/5/2024,DM004,Electronics,P3217,41,329.28,8%,12420.44,Chennai,Tamil Nadu
+3/9/2024,DM002,Groceries,P6400,5,438.3,1%,2169.59,Pune,Maharashtra
+10/9/2024,DM009,Clothing,P1152,21,257.72,18%,4437.94,Jaipur,Rajasthan
+5/1/2024,DM020,Clothing,P2161,1,423.76,10%,381.38,Panaji,Goa
+12/24/2024,DM006,Clothing,P5423,18,119.58,18%,1765,Delhi,Delhi
+1/24/2024,DM018,Electronics,P4771,44,198.31,27%,6369.72,Shimla,Himachal Pradesh
+11/20/2024,DM002,Clothing,P2835,9,380.94,14%,2948.48,Pune,Maharashtra
+10/8/2024,DM005,Electronics,P2608,3,38.28,13%,99.91,Hyderabad,Telangana
+8/1/2024,DM003,Electronics,P6731,15,285.85,12%,3773.22,Bangalore,Karnataka
+12/2/2024,DM011,Home & Kitchen,P5230,41,332.75,18%,11187.06,Chandigarh,Punjab
+12/11/2024,DM003,Home & Kitchen,P7874,46,388.09,18%,14638.75,Bangalore,Karnataka
+7/26/2024,DM001,Stationery,P8076,48,26.59,14%,1097.64,Mumbai,Maharashtra
+4/27/2024,DM006,Clothing,P9690,24,59.31,24%,1081.81,Delhi,Delhi
+2/18/2024,DM008,Stationery,P1151,15,265.09,26%,2942.5,Kolkata,West Bengal
+3/16/2024,DM005,Clothing,P1643,27,329.61,5%,8454.5,Hyderabad,Telangana
+3/21/2024,DM016,Groceries,P6304,41,209.29,3%,8323.46,Thiruvananthapuram,Kerala
+6/26/2024,DM020,Home & Kitchen,P6594,45,63.37,3%,2766.1,Panaji,Goa
+6/7/2024,DM002,Clothing,P6732,44,207.86,6%,8597.09,Pune,Maharashtra
+1/20/2024,DM020,Groceries,P1802,7,357.07,29%,1774.64,Panaji,Goa
+11/17/2024,DM012,Groceries,P3771,12,150.22,22%,1406.06,Indore,Madhya Pradesh
+12/15/2024,DM001,Stationery,P7472,23,340.48,27%,5716.66,Mumbai,Maharashtra
+7/1/2024,DM018,Home & Kitchen,P7287,24,462.01,13%,9646.77,Shimla,Himachal Pradesh
+6/6/2024,DM006,Clothing,P7135,3,44.86,29%,95.55,Delhi,Delhi
+4/16/2024,DM001,Stationery,P9852,31,246.24,12%,6717.43,Mumbai,Maharashtra
+4/28/2024,DM014,Electronics,P2973,4,355.56,8%,1308.46,Bhubaneswar,Odisha
+3/24/2024,DM018,Stationery,P1005,25,489.71,10%,11018.48,Shimla,Himachal Pradesh
+1/6/2024,DM006,Groceries,P3635,47,268.4,0%,12614.8,Delhi,Delhi
+12/28/2024,DM020,Clothing,P8702,44,416.44,1%,18140.13,Panaji,Goa
+8/30/2024,DM009,Electronics,P2687,4,358.28,5%,1361.46,Jaipur,Rajasthan
+11/8/2024,DM017,Home & Kitchen,P5300,32,64.11,4%,1969.46,Dehradun,Uttarakhand
+5/19/2024,DM004,Groceries,P6151,29,287.01,22%,6492.17,Chennai,Tamil Nadu
+1/21/2024,DM015,Clothing,P3578,30,18.71,5%,533.24,Guwahati,Assam
+5/16/2024,DM020,Clothing,P9849,23,329.45,22%,5910.33,Panaji,Goa
+10/25/2024,DM005,Home & Kitchen,P3343,45,382.67,10%,15498.14,Hyderabad,Telangana
+9/22/2024,DM017,Electronics,P7386,24,417.75,24%,7619.76,Dehradun,Uttarakhand
+10/21/2024,DM003,Clothing,P8811,8,395.11,12%,2781.57,Bangalore,Karnataka
+10/18/2024,DM003,Groceries,P3529,11,306.04,16%,2827.81,Bangalore,Karnataka
+7/28/2024,DM009,Groceries,P6427,37,427.93,26%,11716.72,Jaipur,Rajasthan
+2/17/2024,DM017,Stationery,P8247,28,166.58,11%,4151.17,Dehradun,Uttarakhand
+4/1/2024,DM007,Groceries,P7557,10,115.37,0%,1153.7,Ahmedabad,Gujarat
+8/17/2024,DM004,Groceries,P9263,4,193.65,29%,549.97,Chennai,Tamil Nadu
+10/3/2024,DM011,Clothing,P6925,14,472.89,14%,5693.6,Chandigarh,Punjab
+1/23/2024,DM008,Groceries,P9081,38,492.57,19%,15161.3,Kolkata,West Bengal
+4/13/2024,DM007,Groceries,P6149,32,259.34,26%,6141.17,Ahmedabad,Gujarat
+9/24/2024,DM013,Stationery,P9778,29,347.12,0%,10066.48,Patna,Bihar
+8/6/2024,DM019,Stationery,P5691,13,340.59,17%,3674.97,Ranchi,Jharkhand
+12/10/2024,DM006,Electronics,P3624,1,13.71,28%,9.87,Delhi,Delhi
+8/12/2024,DM019,Home & Kitchen,P2556,12,362.42,3%,4218.57,Ranchi,Jharkhand
+3/20/2024,DM011,Clothing,P8510,33,171.91,19%,4595.15,Chandigarh,Punjab
+7/5/2024,DM008,Groceries,P5265,39,148.17,4%,5547.48,Kolkata,West Bengal
+6/12/2024,DM013,Electronics,P8307,24,435.49,23%,8047.86,Patna,Bihar
+5/23/2024,DM015,Home & Kitchen,P1097,14,35.6,22%,388.75,Guwahati,Assam
+10/17/2024,DM008,Home & Kitchen,P9524,36,76.24,6%,2579.96,Kolkata,West Bengal
+6/13/2024,DM019,Electronics,P1361,4,101.18,2%,396.63,Ranchi,Jharkhand
+2/11/2024,DM020,Stationery,P2089,19,396.88,16%,6334.2,Panaji,Goa
+1/15/2024,DM020,Groceries,P7875,6,357.34,18%,1758.11,Panaji,Goa
+11/3/2024,DM010,Home & Kitchen,P6762,48,381.99,23%,14118.35,Lucknow,Uttar Pradesh
+1/2/2024,DM016,Home & Kitchen,P8501,35,59.83,6%,1968.41,Thiruvananthapuram,Kerala
+3/14/2024,DM010,Groceries,P4787,34,176.35,23%,4616.84,Lucknow,Uttar Pradesh
+9/13/2024,DM011,Groceries,P7890,32,332.84,5%,10118.34,Chandigarh,Punjab
+9/13/2024,DM013,Stationery,P7796,18,457.9,15%,7005.87,Patna,Bihar
+7/14/2024,DM018,Home & Kitchen,P7013,23,347.59,27%,5836.04,Shimla,Himachal Pradesh
+10/30/2024,DM020,Clothing,P8235,11,252.21,15%,2358.16,Panaji,Goa
+8/9/2024,DM009,Groceries,P8597,50,145.75,26%,5392.75,Jaipur,Rajasthan
+12/15/2024,DM016,Stationery,P3195,35,201.34,7%,6553.62,Thiruvananthapuram,Kerala
+8/13/2024,DM001,Groceries,P9662,19,111.84,6%,1997.46,Mumbai,Maharashtra
+6/9/2024,DM009,Electronics,P9938,49,356.84,20%,13988.13,Jaipur,Rajasthan
+6/8/2024,DM001,Clothing,P7840,35,288.41,10%,9084.92,Mumbai,Maharashtra
+10/14/2024,DM017,Groceries,P2730,34,176.14,23%,4611.35,Dehradun,Uttarakhand
+9/21/2024,DM001,Electronics,P3281,42,277.97,10%,10507.27,Mumbai,Maharashtra
+10/25/2024,DM012,Clothing,P1078,17,298.23,24%,3853.13,Indore,Madhya Pradesh
+8/24/2024,DM005,Clothing,P7104,15,381.79,21%,4524.21,Hyderabad,Telangana
+3/14/2024,DM016,Home & Kitchen,P1148,46,422.11,10%,17475.35,Thiruvananthapuram,Kerala
+3/24/2024,DM007,Home & Kitchen,P6685,32,199.07,25%,4777.68,Ahmedabad,Gujarat
+11/4/2024,DM007,Home & Kitchen,P6724,2,469.83,24%,714.14,Ahmedabad,Gujarat
+10/13/2024,DM009,Groceries,P6042,11,292.28,10%,2893.57,Jaipur,Rajasthan
+5/6/2024,DM003,Clothing,P7165,44,127.03,14%,4806.82,Bangalore,Karnataka
+2/29/2024,DM017,Groceries,P4761,27,260.41,13%,6117.03,Dehradun,Uttarakhand
+2/25/2024,DM001,Electronics,P2482,7,188.37,19%,1068.06,Mumbai,Maharashtra
+9/28/2024,DM014,Clothing,P9937,28,474.61,0%,13289.08,Bhubaneswar,Odisha
+8/7/2024,DM011,Clothing,P5903,19,481.17,16%,7679.47,Chandigarh,Punjab
+7/7/2024,DM020,Home & Kitchen,P4052,6,263.6,6%,1486.7,Panaji,Goa
+8/21/2024,DM010,Electronics,P8143,30,95.01,15%,2422.76,Lucknow,Uttar Pradesh
+6/8/2024,DM016,Stationery,P7945,33,475.58,13%,13653.9,Thiruvananthapuram,Kerala
+1/22/2024,DM015,Electronics,P5701,30,359.8,28%,7771.68,Guwahati,Assam
+1/23/2024,DM009,Stationery,P2646,47,328.02,5%,14646.09,Jaipur,Rajasthan
+12/26/2024,DM020,Stationery,P1005,9,101.16,0%,910.44,Panaji,Goa
+9/13/2024,DM004,Groceries,P1064,45,195.59,23%,6777.19,Chennai,Tamil Nadu
+6/9/2024,DM014,Stationery,P4078,33,359.62,14%,10206.02,Bhubaneswar,Odisha
+5/22/2024,DM002,Electronics,P1671,17,479.13,17%,6760.52,Pune,Maharashtra
+3/13/2024,DM015,Groceries,P4675,27,481.42,15%,11048.59,Guwahati,Assam
+1/24/2024,DM018,Electronics,P4918,24,301.79,0%,7242.96,Shimla,Himachal Pradesh
+8/12/2024,DM001,Home & Kitchen,P7291,34,120.06,22%,3183.99,Mumbai,Maharashtra
+2/18/2024,DM013,Stationery,P8751,47,448.7,24%,16027.56,Patna,Bihar
+6/19/2024,DM013,Home & Kitchen,P4627,36,191.93,30%,4836.64,Patna,Bihar
+7/16/2024,DM016,Groceries,P7994,44,98.73,0%,4344.12,Thiruvananthapuram,Kerala
+9/10/2024,DM020,Stationery,P1001,45,19.04,16%,719.71,Panaji,Goa
+1/12/2024,DM012,Clothing,P3196,12,261.36,0%,3136.32,Indore,Madhya Pradesh
+3/29/2024,DM009,Home & Kitchen,P3881,18,447.4,22%,6281.5,Jaipur,Rajasthan
+10/17/2024,DM011,Stationery,P8627,31,15.76,26%,361.53,Chandigarh,Punjab
+11/18/2024,DM018,Stationery,P9539,27,71.63,6%,1817.97,Shimla,Himachal Pradesh
+4/17/2024,DM020,Home & Kitchen,P1064,42,483.77,20%,16254.67,Panaji,Goa
+2/15/2024,DM006,Clothing,P4378,2,188.38,15%,320.25,Delhi,Delhi
+8/26/2024,DM012,Clothing,P1902,16,149.3,6%,2245.47,Indore,Madhya Pradesh
+1/24/2024,DM009,Groceries,P6978,49,415.43,21%,16081.3,Jaipur,Rajasthan
+5/8/2024,DM002,Stationery,P8844,3,19.97,1%,59.31,Pune,Maharashtra
+1/6/2024,DM019,Stationery,P6869,5,249.46,26%,923,Ranchi,Jharkhand
+5/1/2024,DM006,Home & Kitchen,P9188,47,189.65,12%,7843.92,Delhi,Delhi
+7/28/2024,DM003,Electronics,P2820,3,363.62,18%,894.51,Bangalore,Karnataka
+3/11/2024,DM006,Home & Kitchen,P8095,8,477.55,21%,3018.12,Delhi,Delhi
+7/6/2024,DM016,Electronics,P5441,42,471.34,20%,15837.02,Thiruvananthapuram,Kerala
+4/17/2024,DM007,Home & Kitchen,P5398,36,208.02,27%,5466.77,Ahmedabad,Gujarat
+6/6/2024,DM012,Groceries,P8005,3,359.39,8%,991.92,Indore,Madhya Pradesh
+8/5/2024,DM009,Electronics,P6243,8,299.59,21%,1893.41,Jaipur,Rajasthan
+6/5/2024,DM018,Electronics,P5893,26,216.27,23%,4329.73,Shimla,Himachal Pradesh
+7/7/2024,DM016,Clothing,P4022,16,218.87,18%,2871.57,Thiruvananthapuram,Kerala
+11/3/2024,DM018,Clothing,P9290,33,265.36,12%,7706.05,Shimla,Himachal Pradesh
+3/17/2024,DM001,Stationery,P1990,37,364.46,15%,11462.27,Mumbai,Maharashtra
+10/24/2024,DM001,Electronics,P4756,40,155.99,30%,4367.72,Mumbai,Maharashtra
+12/9/2024,DM004,Electronics,P9023,12,257.71,25%,2319.39,Chennai,Tamil Nadu
+2/12/2024,DM014,Electronics,P1099,2,192.43,2%,377.16,Bhubaneswar,Odisha
+6/4/2024,DM001,Electronics,P2373,7,409.41,25%,2149.4,Mumbai,Maharashtra
+5/7/2024,DM012,Electronics,P9677,12,313.04,2%,3681.35,Indore,Madhya Pradesh
+11/2/2024,DM009,Stationery,P2814,28,487.88,6%,12841,Jaipur,Rajasthan
+8/3/2024,DM007,Stationery,P5328,12,216.04,9%,2359.16,Ahmedabad,Gujarat
+2/24/2024,DM014,Electronics,P4744,15,39.87,22%,466.48,Bhubaneswar,Odisha
+8/18/2024,DM008,Home & Kitchen,P1654,20,73.09,10%,1315.62,Kolkata,West Bengal
+11/27/2024,DM008,Groceries,P4246,12,197.49,23%,1824.81,Kolkata,West Bengal
+12/4/2024,DM001,Home & Kitchen,P4603,5,255.29,1%,1263.69,Mumbai,Maharashtra
+10/29/2024,DM009,Clothing,P1976,24,207.67,18%,4086.95,Jaipur,Rajasthan
+11/5/2024,DM006,Home & Kitchen,P1494,29,363.63,12%,9279.84,Delhi,Delhi
+9/5/2024,DM005,Home & Kitchen,P8575,17,437.62,18%,6100.42,Hyderabad,Telangana
+11/22/2024,DM020,Stationery,P6926,44,71.14,18%,2566.73,Panaji,Goa
+8/3/2024,DM007,Electronics,P6691,14,333.82,29%,3318.17,Ahmedabad,Gujarat
+6/11/2024,DM005,Clothing,P8521,50,19.49,18%,799.09,Hyderabad,Telangana
+12/4/2024,DM014,Electronics,P4177,50,164.86,9%,7501.13,Bhubaneswar,Odisha
+8/23/2024,DM006,Home & Kitchen,P6738,14,481.61,27%,4922.05,Delhi,Delhi
+6/20/2024,DM013,Home & Kitchen,P3567,24,158.43,2%,3726.27,Patna,Bihar
+5/4/2024,DM004,Electronics,P3318,38,170.09,14%,5558.54,Chennai,Tamil Nadu
+12/31/2024,DM014,Groceries,P3057,23,477.11,0%,10973.53,Bhubaneswar,Odisha
+7/11/2024,DM020,Home & Kitchen,P8697,14,254.45,28%,2564.86,Panaji,Goa
+5/10/2024,DM012,Electronics,P5513,41,339.35,22%,10852.41,Indore,Madhya Pradesh
+11/11/2024,DM007,Groceries,P6956,50,469.45,4%,22533.6,Ahmedabad,Gujarat
+11/26/2024,DM009,Electronics,P2945,45,363.09,5%,15522.1,Jaipur,Rajasthan
+10/11/2024,DM016,Stationery,P6934,35,45.8,10%,1442.7,Thiruvananthapuram,Kerala
+6/15/2024,DM001,Stationery,P5113,22,203.09,25%,3350.99,Mumbai,Maharashtra
+2/6/2024,DM016,Clothing,P3148,8,328.13,10%,2362.54,Thiruvananthapuram,Kerala
+11/7/2024,DM017,Home & Kitchen,P4222,2,424.43,10%,763.97,Dehradun,Uttarakhand
+8/21/2024,DM013,Home & Kitchen,P6295,47,216.17,9%,9245.59,Patna,Bihar
+3/29/2024,DM020,Stationery,P7565,46,50.31,0%,2314.26,Panaji,Goa
+10/24/2024,DM012,Stationery,P4918,45,414.77,9%,16984.83,Indore,Madhya Pradesh
+2/8/2024,DM017,Clothing,P6490,47,254.47,4%,11481.69,Dehradun,Uttarakhand
+5/26/2024,DM001,Stationery,P2947,11,293.53,22%,2518.49,Mumbai,Maharashtra
+3/4/2024,DM003,Home & Kitchen,P6175,25,257.24,2%,6302.38,Bangalore,Karnataka
+5/10/2024,DM001,Electronics,P8416,27,413.16,18%,9147.36,Mumbai,Maharashtra
+8/31/2024,DM018,Groceries,P3964,45,334.84,4%,14465.09,Shimla,Himachal Pradesh
+5/4/2024,DM007,Home & Kitchen,P6616,31,431.45,10%,12037.45,Ahmedabad,Gujarat
+7/16/2024,DM011,Groceries,P1888,10,50.03,6%,470.28,Chandigarh,Punjab
+9/26/2024,DM006,Home & Kitchen,P7187,28,65.09,10%,1640.27,Delhi,Delhi
+4/18/2024,DM020,Electronics,P9583,12,221.53,28%,1914.02,Panaji,Goa
+12/28/2024,DM017,Groceries,P8060,35,433.19,26%,11219.62,Dehradun,Uttarakhand
+5/15/2024,DM010,Electronics,P3156,33,248.87,5%,7802.07,Lucknow,Uttar Pradesh
+2/10/2024,DM018,Groceries,P6084,41,231.73,13%,8265.81,Shimla,Himachal Pradesh
+8/5/2024,DM020,Stationery,P1639,38,125.44,2%,4671.39,Panaji,Goa
+4/19/2024,DM010,Electronics,P2195,12,416.51,10%,4498.31,Lucknow,Uttar Pradesh
+7/14/2024,DM014,Electronics,P8609,37,498.56,7%,17155.45,Bhubaneswar,Odisha
+5/22/2024,DM005,Clothing,P2827,20,38.88,2%,762.05,Hyderabad,Telangana
+1/13/2024,DM020,Home & Kitchen,P4021,28,426.06,13%,10378.82,Panaji,Goa
+9/7/2024,DM020,Clothing,P1761,26,129.09,12%,2953.58,Panaji,Goa
+6/14/2024,DM011,Electronics,P2643,6,214.87,9%,1173.19,Chandigarh,Punjab
+9/28/2024,DM002,Stationery,P2168,11,195.29,27%,1568.18,Pune,Maharashtra
+4/28/2024,DM010,Stationery,P2106,3,263.56,16%,664.17,Lucknow,Uttar Pradesh
+3/31/2024,DM002,Electronics,P2143,29,466.25,24%,10276.15,Pune,Maharashtra
+6/14/2024,DM003,Stationery,P8439,48,493.81,7%,22043.68,Bangalore,Karnataka
+6/13/2024,DM010,Groceries,P6840,33,34.09,10%,1012.47,Lucknow,Uttar Pradesh
+5/2/2024,DM019,Groceries,P1876,32,117.17,4%,3599.46,Ranchi,Jharkhand
+7/19/2024,DM009,Groceries,P6696,21,103.04,25%,1622.88,Jaipur,Rajasthan
+4/8/2024,DM012,Home & Kitchen,P4750,42,436.07,0%,18314.94,Indore,Madhya Pradesh
+9/12/2024,DM016,Electronics,P5908,19,316,0%,6004,Thiruvananthapuram,Kerala
+7/30/2024,DM019,Home & Kitchen,P1460,42,84.59,3%,3446.2,Ranchi,Jharkhand
+11/25/2024,DM008,Home & Kitchen,P5499,35,127.55,13%,3883.9,Kolkata,West Bengal
+1/19/2024,DM019,Home & Kitchen,P5801,19,244.87,25%,3489.4,Ranchi,Jharkhand
+10/1/2024,DM017,Groceries,P5136,16,71.34,16%,958.81,Dehradun,Uttarakhand
+6/1/2024,DM014,Stationery,P9234,28,422.32,10%,10642.46,Bhubaneswar,Odisha
+12/4/2024,DM003,Home & Kitchen,P5230,42,33.56,10%,1268.57,Bangalore,Karnataka
+9/29/2024,DM001,Home & Kitchen,P1534,39,131.4,11%,4560.89,Mumbai,Maharashtra
+3/25/2024,DM015,Electronics,P2994,7,81.63,20%,457.13,Guwahati,Assam
+3/12/2024,DM014,Groceries,P8434,49,119.98,7%,5467.49,Bhubaneswar,Odisha
+1/8/2024,DM008,Clothing,P5408,7,499.76,9%,3183.47,Kolkata,West Bengal
+10/17/2024,DM008,Clothing,P7534,32,474.43,6%,14270.85,Kolkata,West Bengal
+7/26/2024,DM001,Groceries,P7739,50,222.03,6%,10435.41,Mumbai,Maharashtra
