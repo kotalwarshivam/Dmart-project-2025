@@ -6,8 +6,10 @@ performing SQL preprocessing, and generating a clear Power BI dashboard.
 
 Key Insights
       Sales Performance:
-               Top States by Revenue: Maharashtra, Gujarat, and Karnataka lead in sales.
-               Top 5 Stores: Highest-performing stores contribute significantly, led by Kerala with $629.7K in revenue.
+               Top States by Revenue: 
+               Maharashtra, Gujarat, and Karnataka lead in sales.
+               Top 5 Stores: 
+      Highest-performing stores contribute significantly, led by Kerala with $629.7K in revenue.
 Average District Sales: 
          Highlighted top districts like Bangalore ($6.0K) and Dehradun ($5.8K).
 Product Categories:
